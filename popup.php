@@ -16,7 +16,7 @@
 					<h5><strong><span class="sp-text">&nbsp;&nbsp;Download Placement Report </span><br></strong></h5>
 				</div><br>
 
-				<form action="https://university360.co/mail.php" method="post" name="form" id="enquiry-form">
+				<form action="mail.php" method="post" name="form" id="enquiry-form">
 					<input type="text" name="full_name" id="full_name" class="form-control" placeholder="Enter Your Name" required>
 
 					<input type="email" name="email" id="email" class="form-control" placeholder="Enter Your Email" required>

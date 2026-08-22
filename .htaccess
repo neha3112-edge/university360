@@ -1,0 +1,46 @@
+RewriteEngine On
+Options -MultiViews
+
+# Determine the Base URL dynamically (works on localhost/subdir as well as live root domain)
+RewriteCond %{REQUEST_URI}::$1 ^(.*?/)(.*)::\2$
+RewriteRule ^(.*)$ - [E=BASE:%1]
+
+# 1. Redirect direct GET client request for index.php to directory root
+RewriteCond %{REQUEST_METHOD} !POST [NC]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s+.*?/index\.php[?\s] [NC]
+RewriteRule ^index\.php$ %{ENV:BASE} [R=301,L]
+
+# 2. Redirect direct GET client request for filename.php to clean URL (exclude index, mail)
+RewriteCond %{REQUEST_METHOD} !POST [NC]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s+.*?/([a-zA-Z0-9_-]+)\.php[?\s] [NC]
+RewriteCond %1 !^(index|mail)$ [NC]
+RewriteRule ^([a-zA-Z0-9_-]+)\.php$ %{ENV:BASE}%1 [R=301,L]
+
+# 3. Allow direct access to real existing files and directories
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# 4. Fix static assets requested with subpath (e.g. /mu/style.css -> style.css, /mu/images/... -> images/...)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.+?/(images/.*|bootstrap-5\.0\.2-dist/.*|style\.css.*|brochures/.*|.*\.(?:css|js|png|jpe?g|gif|webp|svg|ico|pdf|woff2?|ttf|eot))$ $1 [L,NC]
+
+# 5. Clean URLs with trailing slash (e.g. /mu/ -> mu.php, /about-us/ -> about-us.php)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f [OR]
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+?)/$ $1.php [L,QSA]
+
+# 6. Clean URLs without trailing slash (e.g. /mu -> mu.php, /about-us -> about-us.php)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f [OR]
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.+?)$ $1.php [L,QSA]
+
+# 7. General fallback: slug with or without trailing slash -> slug.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ $1.php [L,QSA]

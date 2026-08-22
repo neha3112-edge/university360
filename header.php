@@ -1,8 +1,22 @@
+<?php
+if (!defined('BASE_URL')) {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+    $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+    $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+    if (strpos($host, 'university360.co') !== false) {
+        define('BASE_URL', 'https://university360.co/');
+    } else {
+        define('BASE_URL', $protocol . $host . $projectRoot);
+    }
+}
+$base_url = BASE_URL;
+?>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="index, follow">
 <meta name="author" content="University360">
-<link rel="publisher" href="https://university360.co/">
+<link rel="publisher" href="<?= $base_url ?>">
 <link rel="icon" type="image/x-icon" href="images/univ360-favicon.ico?v=<?= file_exists(__DIR__ . '/images/univ360-favicon.ico') ? filemtime(__DIR__ . '/images/univ360-favicon.ico') : time() ?>">
 <link href="bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900|Ubuntu:400,500,700" rel="stylesheet">

@@ -10,7 +10,7 @@
                 </div>
                 <hr style="margin: 10px 0 15px 0;">
 
-                <form action="https://university360.co/mail.php" method="post" name="scholarship_form" id="scholarship-form">
+                <form action="mail.php" method="post" name="scholarship_form" id="scholarship-form">
                     <input type="text" name="full_name" id="scholarship_full_name" class="form-control" placeholder="Enter Your Name" required>
 
                     <input type="email" name="email" id="scholarship_email" class="form-control" placeholder="Enter Your Email" required>

@@ -1,3 +1,17 @@
+<?php
+if (!defined('BASE_URL')) {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+    $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+    $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+    if (strpos($host, 'university360.co') !== false) {
+        define('BASE_URL', 'https://university360.co/');
+    } else {
+        define('BASE_URL', $protocol . $host . $projectRoot);
+    }
+}
+$base_url = BASE_URL;
+?>
 <!-- Start Footer Section -->
 
 <div id="footer">
@@ -11,10 +25,10 @@
 					</a> -->
 
 					<div class="nav-title">
-						<a href="https://university360.co/"><img src="images/univ360-logo-icon.png" class="logo-img"
+						<a href="<?= $base_url ?>"><img src="images/univ360-logo-icon.png" class="logo-img"
 								alt="University360 Logo"></a>
 						<div class="logo_text">
-							<a href="https://university360.co/">
+							<a href="<?= $base_url ?>">
 								<h2>UNIVERSITY<span class="logo_text_black">360°</span></h2>
 							</a>
 							<p>Authorised Information and Guidance Partner</p>
@@ -61,14 +75,14 @@
 				<h3 class="footer-h">Top Online &amp; Distance Universities</h3>
 				<hr>
 				<ul class="footer-univ-links">
-					<li><a href="https://university360.co/lpu/">Lovely Professional University</a></li>
-					<li><a href="https://university360.co/mu/">Mangalayatan University</a></li>
-					<li><a href="https://university360.co/uu/">Uttaranchal University</a></li>
-					<li><a href="https://university360.co/galgotias/">Galgotias University</a></li>
-					<li><a href="https://university360.co/amity/">Amity University Online</a></li>
-					<li><a href="https://university360.co/cu/">Chandigarh University</a></li>
-					<li><a href="https://university360.co/manipal/">Manipal University</a></li>
-					<li><a href="https://university360.co/smu/">Sikkim Manipal University</a></li>
+					<li><a href="<?= $base_url ?>lpu">Lovely Professional University</a></li>
+					<li><a href="<?= $base_url ?>mu">Mangalayatan University</a></li>
+					<li><a href="<?= $base_url ?>uu">Uttaranchal University</a></li>
+					<li><a href="<?= $base_url ?>galgotias">Galgotias University</a></li>
+					<li><a href="<?= $base_url ?>amity">Amity University Online</a></li>
+					<li><a href="<?= $base_url ?>cu">Chandigarh University</a></li>
+					<li><a href="<?= $base_url ?>manipal">Manipal University</a></li>
+					<li><a href="<?= $base_url ?>smu">Sikkim Manipal University</a></li>
 				</ul>
 			</div>
 
@@ -84,11 +98,11 @@
 			universities.
 
 			<br><br>
-			<a href="https://university360.co/about-us" target="_blank">About Us</a> | <a
-				href="https://university360.co/contact-us" target="_blank">Contact
-				Us</a> | <a href="https://university360.co/disclaimer" target="_blank">Disclaimer</a> | <a
-				href="https://university360.co/terms-and-conditions" target="_blank">Terms &amp; Conditions</a> | <a
-				href="https://university360.co/privacy-policy" target="_blank">Privacy Policy</a>
+			<a href="<?= $base_url ?>about-us">About Us</a> | <a
+				href="<?= $base_url ?>contact-us">Contact
+				Us</a> | <a href="<?= $base_url ?>disclaimer">Disclaimer</a> | <a
+				href="<?= $base_url ?>terms-and-conditions">Terms &amp; Conditions</a> | <a
+				href="<?= $base_url ?>privacy-policy">Privacy Policy</a>
 		</p>
 	</div>
 </div>

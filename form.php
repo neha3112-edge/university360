@@ -5,7 +5,7 @@
 	</div>
 
 		<!-- <center><p>Have Doubt? Talk FREE to Our Expert</p></center> -->
-		<form action="https://university360.co/mail.php" method="post" name="form" id="myForm">
+		<form action="mail.php" method="post" name="form" id="myForm">
 			<input type="text" name="full_name" id="full_name" class="form-control" placeholder="Enter Your Name" required>
 
 			<input type="email" name="email" id="email" class="form-control" placeholder="Enter Your Email" required>
