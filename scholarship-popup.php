@@ -1,3 +1,17 @@
+<?php
+if (!defined('BASE_URL')) {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+    $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+    $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+    if (strpos($host, 'university360.co') !== false) {
+        define('BASE_URL', 'https://university360.co/');
+    } else {
+        define('BASE_URL', $protocol . $host . $projectRoot);
+    }
+}
+$base_url = BASE_URL;
+?>
 <!-- Scholarship Coupon Code Modal -->
 <div id="myModalScholarship" class="modal">
     <div class="modal-content">
@@ -10,7 +24,7 @@
                 </div>
                 <hr style="margin: 10px 0 15px 0;">
 
-                <form action="mail.php" method="post" name="scholarship_form" id="scholarship-form">
+                <form action="<?= $base_url ?>mail.php" method="post" name="scholarship_form" id="scholarship-form">
                     <input type="text" name="full_name" id="scholarship_full_name" class="form-control" placeholder="Enter Your Name" required>
 
                     <input type="email" name="email" id="scholarship_email" class="form-control" placeholder="Enter Your Email" required>

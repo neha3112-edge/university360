@@ -21,6 +21,10 @@ RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
+# 4. Route nested mail.php calls (e.g. /galgotias/mail.php -> mail.php)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^.+?/mail\.php$ mail.php [L,QSA]
+
 # 4. Fix static assets requested with subpath (e.g. /mu/style.css -> style.css, /mu/images/... -> images/...)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

@@ -1,3 +1,17 @@
+<?php
+if (!defined('BASE_URL')) {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+    $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+    $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+    if (strpos($host, 'university360.co') !== false) {
+        define('BASE_URL', 'https://university360.co/');
+    } else {
+        define('BASE_URL', $protocol . $host . $projectRoot);
+    }
+}
+$base_url = BASE_URL;
+?>
 <div id="myModal2" class="modal">
 	<div class="modal-content">
 		<span class="close" onclick="closebrochure()" id="closeButton">&times;</span>
@@ -5,7 +19,7 @@
 			<div class="frm-heading" style="border-left: 2px solid #ff6600;">
 				<h5><strong><span class="sp-text">&nbsp;&nbsp;Download Brochure <br></span></strong></h5>
 			</div>
-			<form action="mail.php" method="post" name="form" id="enquiry-form">
+			<form action="<?= $base_url ?>mail.php" method="post" name="form" id="enquiry-form">
 				<input type="text" name="full_name" id="full_name" class="form-control" placeholder="Enter Your Name" required>
 
 				<input type="email" name="email" id="email" class="form-control" placeholder="Enter Your Email" required>

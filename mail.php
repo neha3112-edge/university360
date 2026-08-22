@@ -309,7 +309,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Redirect
-    header('Location: thank-you.php');
+    if (!defined('BASE_URL')) {
+        $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+        $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+        $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+        $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+        if (strpos($host, 'university360.co') !== false) {
+            define('BASE_URL', 'https://university360.co/');
+        } else {
+            define('BASE_URL', $protocol . $host . $projectRoot);
+        }
+    }
+    header('Location: ' . BASE_URL . 'thank-you');
     exit();
 
 } else {
