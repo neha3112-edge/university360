@@ -57,6 +57,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $sub_source = 'PSB_Organic';
         } elseif (strpos($page_url, 'iimb') !== false) {
             $sub_source = 'IIMB_Organic';
+        } elseif (strpos($page_url, 'bdu') !== false || strpos($page_url, 'bharathidasan') !== false) {
+            $sub_source = 'BDU_Organic';
         }
     }
 
@@ -110,6 +112,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $default_utm_medium = 'PSB_Organic';
     } elseif (strpos($page_url, 'iimb') !== false) {
         $default_utm_medium = 'IIMB_Organic';
+    } elseif (strpos($page_url, 'bdu') !== false || strpos($page_url, 'bharathidasan') !== false) {
+        $default_utm_medium = 'BDU_Organic';
     }
     $utm_medium = !empty($_POST['utm_medium']) ? $_POST['utm_medium'] : $default_utm_medium;
     $utm_campaign = $_POST['utm_campaign'] ?? '';
