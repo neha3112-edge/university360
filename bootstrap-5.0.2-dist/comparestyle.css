@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	width: 100%;
+
+}
+
+table,
+td,
+th {
+	/* border: 1px solid #ccc;  */
+}
+
+.seema {
+	margin: auto;
+	max-width: 1000px;
+	justify-content: center;
+	padding: 10px;
+	background-color: #fff;
+}
+
+#course {
+	padding: 5px;
+	background-color: #c0efef;
+	/* 			background-color:#10A2E0; */
+	border-style: none;
+	width: 100%;
+	text-align: center;
+	margin: 10px 0px;
+	font-size: 17px;
+	font-weight: 500;
+	/* 			border:1px solid black; */
+	border-radius: 20px;
+	color: #000;
+}
+
+.section1 {
+	display: flex;
+	background-color: #00415D;
+	padding: 2px;
+	width: 100%;
+}
+
+#universityA,
+#universityB,
+#universityC {
+	padding: 5px;
+	width: 275px;
+	margin: 10px;
+	background: #e5e5e5;
+	color: #000;
+	border-style: none;
+	text-align: center;
+
+
+}
+
+/* .hidden-option {
+            display: none;} */
+/* #comparison-table{display: none;} */
+
+#comparison-table table {
+	border-collapse: separate;
+}
+
+#comparison-table td {
+	padding: 10px 0px 10px 10px;
+	border: 1px solid #ccc;
+	width: 3%;
+	/* width: 40%; */
+}
+
+
+#comparison-table tr {
+	padding: 10px;
+}
+
+#comparison-table tr:nth-child(odd) {
+	background-color: #ccc;
+}
+
+/* Style the aspect data row */
+.aspect-data-row {
+	font-weight: bold;
+	background-color: #D6EEEE;
+}
+
+.fa,
+.fas {
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	padding-right: 8px;
+}
+
+.s1 h1 {
+	text-align: center;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 1.2;
+	font-family: poppins;
+	color: #003057;
+	text-transform: capitalize;
+	;
+}
+
+.s1 p {
+	text-align: center;
+	font-weight: 300;
+	font-family: poppins;
+}
+
+.sp-compare {
+	color: #ff5808;
+}
+
+#compare-btn {
+	background-color: #ff5808;
+	padding: 10px 50px;
+	border-radius: 20px;
+	border-style: none;
+	color: #fff;
+}
+
+.select-area {
+	border-style: dotted;
+	border: 2px dotted #ccc;
+	margin: 10px 13px;
+	background-color: transparent;
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+.select-area:focus {
+	border-style: dotted;
+	border: 2px dotted #ccc;
+	margin: 10px 13px;
+}
+
+div.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 20px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 0px;
+	background-color: white;
+
+}
+
+
+        .select-wrapper {
+  position: relative;
+}
+
+.select-wrapper::after {
+  content: "▼";
+  font-size: 0.5rem;
+  top: 6px;
+  right: 10px;
+  position: absolute;
+} 
+
+.select_category:before {
+	content: "\f0ca";
+
+}
+
+#counsel-com {
+	background-color: #ff5808;
+	border-radius: 20px;
+	padding: 10px 40px;
+	border-style: none;
+	color: #fff;
+}
+
+#compare-counseling {
+	padding: 10px 30px;
+	background-color: green;
+	border-radius: 3px;
+	border-style: none;
+	color: #fff;
+	font-size: 17px;
+}
+
+@media screen and (max-width: 768px) {
+	table {
+		font-size: 12px;
+		width: 100%;
+		overflow-x: scroll;
+	}
+
+	th,
+	td {
+		padding: 5px;
+	}
+
+	.seema {
+		padding: 5px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.s1 h2 {
+		text-align: center;
+		font-weight: 600;
+		font-size: 20px;
+		line-height: 1.2;
+		font-family: poppins;
+		color: #003057;
+	}
+
+	.s1 p {
+		text-align: center;
+		font-weight: 300;
+		font-family: poppins;
+		font-size: 13px;
+	}
+
+	.select-area {
+		width: 27%;
+	}
+
+	#universityA,
+	#universityB,
+	#universityC {
+		padding: 3px 3px 3px 5px;
+	width: 100%;
+		margin: 1px;
+		background: transparent;
+		color: #000;
+		border-style: none;
+		text-align: center;
+		font-size: 10px;
+		 word-wrap: break-word;
+		 overflow-wrap: break-word;
+	}
+
+	#universityAImageContainer img {
+		width: 100%;
+	}
+
+	#universityBImageContainer img {
+		width: 100%;
+	}
+
+	#universityCImageContainer img {
+		width: 100%;
+	}
+
+	.s1 h1 {
+		text-align: center;
+		font-weight: 600;
+		font-size: 20px;
+		line-height: 1.2;
+		font-family: poppins;
+		color: #003057;
+		text-transform: capitalize;
+	}
+
+	#course {
+		font-size: 14px;
+	}
+}
+
+
+#compareNowBtn {
+	cursor: pointer;
+	background: #F1BA00;
+	border-style: none;
+	padding: 10px 90px;
+	border-radius: 30px;
+	color: #000;
+}
