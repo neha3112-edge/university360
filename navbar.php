@@ -71,6 +71,9 @@ $base_url = BASE_URL;
           <a href="<?= $base_url ?>bdu" class="dropdown-item">
             <span>Bharathidasan University</span>
           </a>
+          <a href="<?= $base_url ?>aju" class="dropdown-item">
+            <span>Arka JAIN University</span>
+          </a>
         </div>
 
         <!-- <div class="dropdown-footer">
