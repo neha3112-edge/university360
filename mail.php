@@ -61,6 +61,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $sub_source = 'BDU_Organic';
         } elseif (strpos($page_url, 'aju') !== false) {
             $sub_source = 'AJU_Organic';
+        } elseif (strpos($page_url, 'dsu') !== false) {
+            $sub_source = 'DSU_Organic';
         }
     }
 
@@ -118,6 +120,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $default_utm_medium = 'BDU_Organic';
     } elseif (strpos($page_url, 'aju') !== false) {
         $default_utm_medium = 'AJU_Organic';
+    } elseif (strpos($page_url, 'dsu') !== false) {
+        $default_utm_medium = 'DSU_Organic';
     }
     $utm_medium = !empty($_POST['utm_medium']) ? $_POST['utm_medium'] : $default_utm_medium;
     $utm_campaign = $_POST['utm_campaign'] ?? '';

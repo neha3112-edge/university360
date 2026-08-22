@@ -1,5 +1,5 @@
 <?php
-// Bharathidasan University Online Landing Page - University360
+// Dayananda Sagar University Online Landing Page - University360
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,10 +7,10 @@
 <head>
     <?php include "header.php"; ?>
 
-    <title>Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
-    <meta name="keywords" content="Bharathidasan University Online Courses, Bharathidasan University Online, Bharathidasan University Online Education, Bharathidasan University Distance Education Online Admission, Bharathidasan University Online Degree, Bharathidasan University Online MBA">
-    <link rel="canonical" href="https://university360.co/bdu/">
+    <title>DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360</title>
+    <meta name="description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open!" />
+    <meta name="keywords" content="DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online">
+    <link rel="canonical" href="https://university360.co/dsu/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
     <link rel="publisher" href="https://university360.co/">
@@ -18,19 +18,19 @@
     <meta charset="UTF-8">
 
     <!-- OG Tags -->
-    <meta property="og:title" content="Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
+    <meta property="og:title" content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://university360.co/bdu/" />
-    <meta property="og:image" content="https://university360.co/images/bharathidasan-university-online-courses-banner.png" />
-    <meta property="og:image:alt" content="Bharathidasan University Online Courses image" />
+    <meta property="og:url" content="https://university360.co/dsu/" />
+    <meta property="og:image" content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
+    <meta property="og:image:alt" content="DSU Online Dayananda Sagar University Online image" />
     <meta property="og:site_name" content="UNIVERSITY 360" />
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
-    <meta name="twitter:image" content="https://university360.co/images/bharathidasan-university-online-courses-banner.png" />
+    <meta name="twitter:title" content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
+    <meta name="twitter:image" content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
 
@@ -51,17 +51,17 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://university360.co/bdu/#webpage",
-      "url": "https://university360.co/bdu/",
-      "name": "Bharathidasan University Online Courses in India | UNIVERSITY 360",
+      "@id": "https://university360.co/dsu/#webpage",
+      "url": "https://university360.co/dsu/",
+      "name": "DSU Online Dayananda Sagar University Online in India | UNIVERSITY 360",
       "isPartOf": {
         "@id": "https://university360.co/#website"
       },
-      "description": "Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses (MBA, BBA, MA, BA) Fees, Eligibility, Syllabus, and Admission Process.",
-      "keywords": "Bharathidasan University Online Courses, Bharathidasan University Online, Bharathidasan University Online Education, Bharathidasan University Distance Education Online Admission, Bharathidasan University Online Degree, Bharathidasan University Online MBA",
+      "description": "Get Counseling from UNIVERSITY 360 for DSU Online Dayananda Sagar University Online Courses (MBA, MCA, BBA, BCA, BCom) Fees, Eligibility, Syllabus, and Admission Process.",
+      "keywords": "DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online",
       "about": [
         {
-          "@id": "https://university360.co/bdu/#counselingservice"
+          "@id": "https://university360.co/dsu/#counselingservice"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "name": "University360",
       "url": "https://university360.co/",
       "slogan": "#LearnWithFreedom",
-      "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+      "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "B-63, Sector-2, Noida, Gautam Buddha Nagar",
@@ -97,8 +97,8 @@
     },
     {
       "@type": "Service",
-      "@id": "https://university360.co/bdu/#counselingservice",
-      "name": "Educational Counselling for Bharathidasan University Online Courses",
+      "@id": "https://university360.co/dsu/#counselingservice",
+      "name": "Educational Counselling for Dayananda Sagar University Online Courses",
       "provider": {
         "@id": "https://university360.co/#organization"
       },
@@ -107,7 +107,7 @@
         "@type": "Country",
         "name": "India"
       },
-      "description": "Counselling and career guidance for working professionals and students looking to enroll in undergraduate and postgraduate online degree courses at Bharathidasan University.",
+      "description": "Counselling and career guidance for working professionals and students exploring online degree programs at Dayananda Sagar University.",
       "offers": {
         "@type": "Offer",
         "price": "0.00",
@@ -129,20 +129,20 @@
     },
     {
       "@type": "Course",
-      "@id": "https://university360.co/bdu/#mba",
-      "name": "Online MBA (Master of Business Administration) - Bharathidasan University",
-      "description": "Bharathidasan University Online MBA equips learners with practical business skills. Students choose from a range of electives and learn to apply Generative AI tools while strengthening their subject expertise. Counselled by University360.",
+      "@id": "https://university360.co/dsu/#mba",
+      "name": "Online MBA (Master of Business Administration) - Dayananda Sagar University",
+      "description": "Professionals can advance their management careers with Dayananda Sagar University Online MBA, which includes 8 diverse electives, enabling them to gain expertise in leadership, business strategy, finance, marketing, and modern management practices through flexible online learning. Counselled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Bharathidasan University",
-        "alternateName": "BDU",
+        "name": "Dayananda Sagar University",
+        "alternateName": "DSU",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Tiruchirappalli",
-          "addressRegion": "Tamil Nadu",
+          "addressLocality": "Bangalore",
+          "addressRegion": "Karnataka",
           "addressCountry": "IN"
         },
-        "award": "NAAC A+ accredited and UGC recognised"
+        "description": "Private university established in 2014 through an Act of the Karnataka State Government, delivering quality online higher education programs."
       },
       "hasCourseInstance": {
         "@type": "CourseInstance",
@@ -152,20 +152,41 @@
     },
     {
       "@type": "Course",
-      "@id": "https://university360.co/bdu/#bba",
-      "name": "Online BBA (Bachelor of Business Administration) - Bharathidasan University",
-      "description": "Learners will build a strong foundation in various business disciplines. This program will help them become job-ready and gain the right career guidance, resume building, and placement support. Counselled by University360.",
+      "@id": "https://university360.co/dsu/#mca",
+      "name": "Online MCA (Master of Computer Applications) - Dayananda Sagar University",
+      "description": "Learners can build advanced technology skills with DSU Online MCA, which includes 15 electives and prepares them for careers in software development, data analytics, and emerging IT domains through practical learning. Counselled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Bharathidasan University",
-        "alternateName": "BDU",
+        "name": "Dayananda Sagar University",
+        "alternateName": "DSU",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Tiruchirappalli",
-          "addressRegion": "Tamil Nadu",
+          "addressLocality": "Bangalore",
+          "addressRegion": "Karnataka",
           "addressCountry": "IN"
-        },
-        "award": "NAAC A+ accredited and UGC recognised"
+        }
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "Online",
+        "duration": "P24M"
+      }
+    },
+    {
+      "@type": "Course",
+      "@id": "https://university360.co/dsu/#bba",
+      "name": "Online BBA (Bachelor of Business Administration) - Dayananda Sagar University",
+      "description": "Learners can strengthen their business skills with the DSU Online BBA by selecting from three electives in Digital Marketing, Supply Chain Management, and Business Analytics, preparing for diverse industry roles. Counselled by University360.",
+      "provider": {
+        "@type": "EducationalOrganization",
+        "name": "Dayananda Sagar University",
+        "alternateName": "DSU",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bangalore",
+          "addressRegion": "Karnataka",
+          "addressCountry": "IN"
+        }
       },
       "hasCourseInstance": {
         "@type": "CourseInstance",
@@ -175,43 +196,41 @@
     },
     {
       "@type": "Course",
-      "@id": "https://university360.co/bdu/#ma",
-      "name": "Online MA (Master of Arts) - Bharathidasan University",
-      "description": "Students and Professionals can enhance their knowledge in the subject electives through this online postgraduate program. The expert faculty helps them develop the skills needed for the real world. Counselled by University360.",
+      "@id": "https://university360.co/dsu/#bca",
+      "name": "Online BCA (Bachelor of Computer Applications) - Dayananda Sagar University",
+      "description": "Students can build future-ready technology skills with DSU Online BCA by choosing from twelve electives covering programming, AI, data analytics, cybersecurity, cloud technologies, and other in-demand IT domains. Counselled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Bharathidasan University",
-        "alternateName": "BDU",
+        "name": "Dayananda Sagar University",
+        "alternateName": "DSU",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Tiruchirappalli",
-          "addressRegion": "Tamil Nadu",
+          "addressLocality": "Bangalore",
+          "addressRegion": "Karnataka",
           "addressCountry": "IN"
-        },
-        "award": "NAAC A+ accredited and UGC recognised"
+        }
       },
       "hasCourseInstance": {
         "@type": "CourseInstance",
         "courseMode": "Online",
-        "duration": "P24M"
+        "duration": "P36M"
       }
     },
     {
       "@type": "Course",
-      "@id": "https://university360.co/bdu/#ba",
-      "name": "Online BA (Bachelor of Arts) - Bharathidasan University",
-      "description": "This program equips students with foundational subject matter knowledge. Students also develop transferable skills throughout the course of study, depending on their specialisation and professional aspirations. Counselled by University360.",
+      "@id": "https://university360.co/dsu/#bcom",
+      "name": "Online BCom (Bachelor of Commerce) - Dayananda Sagar University",
+      "description": "Students can strengthen their foundation in commerce through online undergraduate degree courses, choosing electives in Fintech Regulations & Security, Supply Chain Management, and Business Analytics. Counselled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Bharathidasan University",
-        "alternateName": "BDU",
+        "name": "Dayananda Sagar University",
+        "alternateName": "DSU",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Tiruchirappalli",
-          "addressRegion": "Tamil Nadu",
+          "addressLocality": "Bangalore",
+          "addressRegion": "Karnataka",
           "addressCountry": "IN"
-        },
-        "award": "NAAC A+ accredited and UGC recognised"
+        }
       },
       "hasCourseInstance": {
         "@type": "CourseInstance",
@@ -221,38 +240,38 @@
     },
     {
       "@type": "FAQPage",
-      "@id": "https://university360.co/bdu/#faq",
+      "@id": "https://university360.co/dsu/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "How can UNIVERSITY 360 help with Bharathidasan University Online degree programs?",
+          "name": "How can UNIVERSITY 360 help with Dayananda Sagar University Online degree programs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for students and working professionals exploring Bharathidasan University Online degree programs."
+            "text": "UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for students and working professionals exploring Dayananda Sagar University Online degree programs."
           }
         },
         {
           "@type": "Question",
-          "name": "Is Bharathidasan University universally recognised and accredited?",
+          "name": "Is Dayananda Sagar University a private or government university?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, Bharathidasan University is NAAC A+ accredited and UGC recognised, reflecting its commitment to providing quality education."
+            "text": "Dayananda Sagar University is a private university established in 2014 through an Act of the Karnataka State Government."
           }
         },
         {
           "@type": "Question",
-          "name": "What is the Bharathidasan University Online MBA fees structure?",
+          "name": "What is the fee structure for DSU Online programs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bharathidasan Online MBA fees are very affordable. However, to know the full breakdown, you can download the brochure."
+            "text": "The fee structure varies depending on the selected program. Learners can check by downloading the brochure for detailed program-wise fee information and available payment options."
           }
         },
         {
           "@type": "Question",
-          "name": "Can students pay fees via the EMI option?",
+          "name": "Can a student apply for two programs at the same time?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, students can easily pay fees using the EMI option."
+            "text": "Yes, a student can pursue two academic programmes simultaneously in Online mode as per the applicable UGC guidelines."
           }
         },
         {
@@ -265,26 +284,18 @@
         },
         {
           "@type": "Question",
-          "name": "Will students receive career guidance in Bharathidasan University Courses?",
+          "name": "Does DSU Online provide placement assistance?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, the faculty helps students and professionals choose a career path well suited to their professional aspirations. Learners have the opportunity to clarify their doubts in the live sessions."
+            "text": "Yes, DSU Online provides career support and placement assistance to help learners enhance their skills, prepare for opportunities and connect with potential employers."
           }
         },
         {
           "@type": "Question",
-          "name": "What are Bharathidasan University MBA reviews?",
+          "name": "Is there an EMI option available for DSU Online program fees?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bharathidasan University Online MBA is a flexible and perfect option for working professionals. Their well-structured LMS and affordable course fee are a hard-to-find combination in other MBA courses."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can aspirants apply for Bharathidasan University Courses?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The application process for Bharathidasan University Online Courses is very simple. The form is available on their official website. Once you complete the form and pay the fees, you will receive a confirmation message."
+            "text": "Yes, DSU Online offers flexible payment options, including EMI, to help learners manage their education expenses conveniently while pursuing their desired programs."
           }
         }
       ]
@@ -306,25 +317,25 @@
                 <div class="col-lg-5 col-md-12">
                     <div class="amity-banner-content-wrap">
                         <div class="d-none d-lg-block">
-                            <img src="images/bdu_logo.png" alt="Bharathidasan University Online"
+                            <img src="images/dsu_logo.png" alt="Dayananda Sagar University Online"
                                 class="amity-banner-logo" style="max-height: 75px; width: auto; object-fit: contain;">
                         </div>
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
-                        <h1 class="amity-main-title">Bharathidasan University Online</h1>
-                        <p class="amity-slogan">Create tomorrow’s opportunities by learning today’s skills at
-                            Bharathidasan University Online.</p>
+                        <h1 class="amity-main-title">Dayananda Sagar University Online</h1>
+                        <p class="amity-slogan">DSU Online Empowers You with Future-Ready Skills to Lead, Innovate, and
+                            Thrive in a Rapidly Evolving Global Workforce.</p>
 
                         <div class="amity-pill-box">
                             <span class="amity-pill-badge">Online Degree Courses</span>
                             <p class="amity-pill-courses">
-                                <strong>MBA | MA | BBA | BA</strong>
+                                <strong>MBA | MCA | BBA | BCA | BCOM</strong>
                             </p>
                         </div>
 
                         <div class="d-none d-lg-block">
                             <button class="amity-download-brochure-btn"
-                                onclick="openBrochurePopup('brochures/bdu_main_brochure.pdf', 'MBA')">
+                                onclick="openBrochurePopup('brochures/dsu_main_brochure.pdf', 'MBA')">
                                 <span>Download Brochure</span>
                                 <i class="fa fa-download"></i>
                             </button>
@@ -333,9 +344,9 @@
 
                     <!-- Mobile Center Visual (Logo + Student Cutout) -->
                     <div class="amity-mobile-center-visual">
-                        <img src="images/bdu_logo.png" alt="Bharathidasan University Online" class="amity-mobile-logo"
+                        <img src="images/dsu_logo.png" alt="Dayananda Sagar University Online" class="amity-mobile-logo"
                             style="max-height: 65px; width: auto; object-fit: contain;"><br>
-                        <img src="images/new-mobile-v1.webp" alt="Bharathidasan Online Student"
+                        <img src="images/new-mobile-v1.webp" alt="Dayananda Sagar Online Student"
                             class="amity-mobile-student">
                     </div>
                 </div>
@@ -499,24 +510,48 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>UNIVERSITY 360<br>Bharathidasan University Online Courses</h2>
+            <h2>UNIVERSITY 360<br>Dayananda Sagar University Online Courses</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- MBA -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Post Graduation</span>
-                        <img src="images/bdu_mba.png" alt="Bharathidasan University Online MBA"
+                        <img src="images/dsu_mba.jpg" alt="Dayananda Sagar University Online MBA"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>MBA</h3>
-                            <h4>Masters of Business Administration</h4>
-                            <p>Bharathidasan University Online MBA equips learners with practical business skills.
-                                Students choose from a range of electives and learn to apply Generative AI tools while
-                                strengthening their subject expertise.</p>
+                            <h4>Master of Business Administration</h4>
+                            <p>Professionals can advance their management careers with Dayananda Sagar University Online
+                                MBA, which includes 8 diverse electives, enabling them to gain expertise in leadership,
+                                business strategy, finance, marketing, and modern management practices through flexible
+                                online learning.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/bdu_mba.pdf', 'MBA')">
+                                    onclick="openBrochurePopup('brochures/dsu_mba.pdf', 'MBA')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MCA -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Post Graduation</span>
+                        <img src="images/dsu_mca.jpg" alt="Dayananda Sagar University Online MCA"
+                            class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MCA</h3>
+                            <h4>Master of Computer Applications</h4>
+                            <p>Learners can build advanced technology skills with DSU Online MCA, which includes 15
+                                electives and prepares them for careers in software development, data analytics, and
+                                emerging IT domains through practical learning.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/dsu_mca.pdf', 'MCA')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
                                 <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
@@ -529,17 +564,17 @@
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Graduation</span>
-                        <img src="images/bdu_bba.png" alt="Bharathidasan University Online BBA"
+                        <img src="images/dsu_bba.jpg" alt="Dayananda Sagar University Online BBA"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>BBA</h3>
                             <h4>Bachelor of Business Administration</h4>
-                            <p>Learners will build a strong foundation in various business disciplines. This program
-                                will help them become job-ready and gain the right career guidance, resume building, and
-                                placement support.</p>
+                            <p>Learners can strengthen their business skills with the DSU Online BBA by selecting from
+                                three electives in Digital Marketing, Supply Chain Management, and Business Analytics,
+                                preparing for diverse industry roles.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/bdu_bba.pdf', 'BBA')">
+                                    onclick="openBrochurePopup('brochures/dsu_bba.pdf', 'BBA')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
                                 <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
@@ -548,42 +583,44 @@
                     </div>
                 </div>
 
-                <!-- MA -->
+                <!-- BCA -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Post Graduation</span>
-                        <img src="images/bdu_ma.png" alt="Bharathidasan University Online MA" class="amity-course-img">
+                        <span class="amity-course-badge">Graduation</span>
+                        <img src="images/dsu_bca.jpg" alt="Dayananda Sagar University Online BCA"
+                            class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>MA</h3>
-                            <h4>Master of Arts</h4>
-                            <p>Students and Professionals can enhance their knowledge in the subject electives through
-                                this online postgraduate program. The expert faculty helps them develop the skills
-                                needed for the real world.</p>
+                            <h3>BCA</h3>
+                            <h4>Bachelor of Computer Applications</h4>
+                            <p>Students can build future-ready technology skills with DSU Online BCA by choosing from
+                                twelve electives covering programming, AI, data analytics, cybersecurity, cloud
+                                technologies, and other in-demand IT domains.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/bdu_ma.pdf', 'MA')">
+                                    onclick="openBrochurePopup('brochures/dsu_bca.pdf', 'BCA')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- BA -->
+                <!-- BCOM -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Graduation</span>
-                        <img src="images/bdu_ba.png" alt="Bharathidasan University Online BA" class="amity-course-img">
+                        <img src="images/dsu_bcom.jpg" alt="Dayananda Sagar University Online BCom"
+                            class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>BA</h3>
-                            <h4>Bachelor of Arts</h4>
-                            <p>This program equips students with foundational subject matter knowledge. Students also
-                                develop transferable skills throughout the course of study, depending on their
-                                specialisation and professional aspirations.</p>
+                            <h3>BCom</h3>
+                            <h4>Bachelor of Commerce</h4>
+                            <p>Students can strengthen their foundation in commerce through online undergraduate degree
+                                courses, choosing electives in Fintech Regulations & Security, Supply Chain Management,
+                                and Business Analytics.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/bdu_ba.pdf', 'BA')">
+                                    onclick="openBrochurePopup('brochures/dsu_bcom.pdf', 'BCOM')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
                                 <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
@@ -717,6 +754,46 @@
                             </tr>
                         </thead>
                         <tbody>
+                            <!-- Dayananda Sagar University -->
+                            <tr>
+                                <td>
+                                    <div class="univ-name-cell">
+                                        <i class="fa fa-graduation-cap"></i>
+                                        <span>Dayananda Sagar University</span>
+                                    </div>
+                                </td>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bengaluru,
+                                        Karnataka</span></td>
+                                <td><span class="univ-accred-badge">UGC | NAAC</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Industry-Driven
+                                        Electives</span></td>
+                                <td class="text-center">
+                                    <button type="button" class="univ-apply-btn" onclick="openPopup()">
+                                        <i class="fa fa-paper-plane"></i> Apply Now
+                                    </button>
+                                </td>
+                            </tr>
+
+                            <!-- Arka JAIN University -->
+                            <tr>
+                                <td>
+                                    <div class="univ-name-cell">
+                                        <i class="fa fa-graduation-cap"></i>
+                                        <span>Arka JAIN University</span>
+                                    </div>
+                                </td>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Jamshedpur,
+                                        Jharkhand</span></td>
+                                <td><span class="univ-accred-badge">UGC | NAAC</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Flexible
+                                        Learning</span></td>
+                                <td class="text-center">
+                                    <button type="button" class="univ-apply-btn" onclick="openPopup()">
+                                        <i class="fa fa-paper-plane"></i> Apply Now
+                                    </button>
+                                </td>
+                            </tr>
+
                             <!-- Bharathidasan University -->
                             <tr>
                                 <td>
@@ -911,12 +988,12 @@
                 <!-- Q1 -->
                 <div class="amity-accordion-item open">
                     <h3 class="amity-accordion-heading">
-                        <span>Q1. How can UNIVERSITY 360 help with Bharathidasan University Online degree
+                        <span>Q1. How can UNIVERSITY 360 help with Dayananda Sagar University Online degree
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
-                            guidance for students and working professionals exploring Bharathidasan University Online
+                            guidance for students and working professionals exploring Dayananda Sagar University Online
                             degree programs.</p>
                     </div>
                 </div>
@@ -924,32 +1001,33 @@
                 <!-- Q2 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q2. Is Bharathidasan University universally recognised and accredited?</span>
+                        <span>Q2. Is Dayananda Sagar University a private or government university?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes, Bharathidasan University is NAAC A+ accredited and UGC recognised, reflecting its
-                            commitment to providing quality education.</p>
+                        <p>Dayananda Sagar University is a private university established in 2014 through an Act of the
+                            Karnataka State Government.</p>
                     </div>
                 </div>
 
                 <!-- Q3 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q3. What is the Bharathidasan University Online MBA fees structure?</span>
+                        <span>Q3. What is the fee structure for DSU Online programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Bharathidasan Online MBA fees are very affordable. However, to know the full breakdown, you
-                            can download the brochure.</p>
+                        <p>The fee structure varies depending on the selected program. Learners can check by downloading
+                            the brochure for detailed program-wise fee information and available payment options.</p>
                     </div>
                 </div>
 
                 <!-- Q4 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q4. Can students pay fees via the EMI option?</span>
+                        <span>Q4. Can a student apply for two programs at the same time?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes, students can easily pay fees using the EMI option.</p>
+                        <p>Yes, a student can pursue two academic programmes simultaneously in Online mode as per the
+                            applicable UGC guidelines.</p>
                     </div>
                 </div>
 
@@ -968,36 +1046,22 @@
                 <!-- Q6 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q6. Will students receive career guidance in Bharathidasan University Courses?</span>
+                        <span>Q6. Does DSU Online provide placement assistance?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes, the faculty helps students and professionals choose a career path well suited to their
-                            professional aspirations. Learners have the opportunity to clarify their doubts in the live
-                            sessions.</p>
+                        <p>Yes, DSU Online provides career support and placement assistance to help learners enhance
+                            their skills, prepare for opportunities and connect with potential employers.</p>
                     </div>
                 </div>
 
                 <!-- Q7 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q7. What are Bharathidasan University MBA reviews?</span>
+                        <span>Q7. Is there an EMI option available for DSU Online program fees?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Bharathidasan University Online MBA is a flexible and perfect option for working
-                            professionals. Their well-structured LMS and affordable course fee are a hard-to-find
-                            combination in other MBA courses.</p>
-                    </div>
-                </div>
-
-                <!-- Q8 -->
-                <div class="amity-accordion-item">
-                    <h3 class="amity-accordion-heading">
-                        <span>Q8. How can aspirants apply for Bharathidasan University Courses?</span>
-                    </h3>
-                    <div class="amity-accordion-content">
-                        <p>The application process for Bharathidasan University Online Courses is very simple. The form
-                            is available on their official website. Once you complete the form and pay the fees, you
-                            will receive a confirmation message.</p>
+                        <p>Yes, DSU Online offers flexible payment options, including EMI, to help learners manage their
+                            education expenses conveniently while pursuing their desired programs.</p>
                     </div>
                 </div>
             </div>
@@ -1011,7 +1075,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Bharathidasan University Online Degree Programs</p>
+                        <p>Get 100% Free Counselling on Dayananda Sagar University Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">
@@ -1023,10 +1087,10 @@
         </div>
     </section>
 
-    <!-- Bharathidasan Mobile Fixed Bottom Action Bar (Mobile View Only) -->
+    <!-- Dayananda Sagar Mobile Fixed Bottom Action Bar (Mobile View Only) -->
     <div class="amity-mobile-sticky-footer">
         <button type="button" class="amity-mobile-btn-brochure"
-            onclick="openBrochurePopup('brochures/bdu_main_brochure.pdf', '')">
+            onclick="openBrochurePopup('brochures/dsu_main_brochure.pdf', '')">
             <span>Get Brochure</span> <i class="fa fa-download"></i>
         </button>
         <button type="button" class="amity-mobile-btn-apply" onclick="openPopup()">
@@ -1040,13 +1104,13 @@
     <?php include "PopupBrochure.php"; ?>
 
     <script>
-        // Inject BDU tracking values into all forms
-        function setBDUTrackingValues() {
+        // Inject DSU tracking values into all forms
+        function setDSUTrackingValues() {
             document.querySelectorAll('input[name="sub_source"]').forEach(function (el) {
-                el.value = 'BDU_Organic';
+                el.value = 'DSU_Organic';
             });
             document.querySelectorAll('input[name="utm_medium"]').forEach(function (el) {
-                if (!el.value) el.value = 'BDU_Organic';
+                if (!el.value) el.value = 'DSU_Organic';
             });
             document.querySelectorAll('input[name="page_url"]').forEach(function (el) {
                 el.value = window.location.href;
@@ -1054,17 +1118,17 @@
         }
 
         document.addEventListener('DOMContentLoaded', function () {
-            setBDUTrackingValues();
+            setDSUTrackingValues();
 
             // Patch openPopup to re-apply values each time modal opens
             var _origOpenPopup = window.openPopup;
             window.openPopup = function () {
                 if (_origOpenPopup) _origOpenPopup.apply(this, arguments);
-                setTimeout(setBDUTrackingValues, 10);
+                setTimeout(setDSUTrackingValues, 10);
             };
         });
 
-        function initBDUCarousel() {
+        function initDSUCarousel() {
             if (window.jQuery && jQuery.fn && jQuery.fn.owlCarousel) {
                 var $carousel = jQuery(".amity-program-carousel");
                 if ($carousel.length && !$carousel.hasClass('owl-loaded')) {
@@ -1085,14 +1149,14 @@
                     });
                 }
             } else {
-                setTimeout(initBDUCarousel, 50);
+                setTimeout(initDSUCarousel, 50);
             }
         }
 
         if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', initBDUCarousel);
+            document.addEventListener('DOMContentLoaded', initDSUCarousel);
         } else {
-            initBDUCarousel();
+            initDSUCarousel();
         }
 
         // FAQ Accordion Toggle

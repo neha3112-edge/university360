@@ -1083,14 +1083,28 @@
     <?php include "PopupBrochure.php"; ?>
 
     <script>
-        // Update all hidden form fields for AJU page
-        document.addEventListener('DOMContentLoaded', function () {
+        // Inject AJU tracking values into all forms
+        function setAJUTrackingValues() {
             document.querySelectorAll('input[name="sub_source"]').forEach(function (el) {
                 el.value = 'AJU_Organic';
             });
-            document.querySelectorAll('input[name="source"]').forEach(function (el) {
-                el.value = 'AJU';
+            document.querySelectorAll('input[name="utm_medium"]').forEach(function (el) {
+                if (!el.value) el.value = 'AJU_Organic';
             });
+            document.querySelectorAll('input[name="page_url"]').forEach(function (el) {
+                el.value = window.location.href;
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            setAJUTrackingValues();
+
+            // Patch openPopup to re-apply values each time modal opens
+            var _origOpenPopup = window.openPopup;
+            window.openPopup = function () {
+                if (_origOpenPopup) _origOpenPopup.apply(this, arguments);
+                setTimeout(setAJUTrackingValues, 10);
+            };
         });
 
         function initAJUCarousel() {

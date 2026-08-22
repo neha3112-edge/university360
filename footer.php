@@ -85,6 +85,7 @@ $base_url = BASE_URL;
 					<li><a href="<?= $base_url ?>smu">Sikkim Manipal University</a></li>
 					<li><a href="<?= $base_url ?>bdu">Bharathidasan University</a></li>
 					<li><a href="<?= $base_url ?>aju">Arka JAIN University</a></li>
+					<li><a href="<?= $base_url ?>dsu">Dayananda Sagar University</a></li>
 				</ul>
 			</div>
 
