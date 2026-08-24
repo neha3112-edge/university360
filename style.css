@@ -5217,3 +5217,31 @@ body.legal-page-body {
 .big-logo-css {
   max-width: 300px !important;
 }
+
+
+
+.banner_lists_section {
+  list-style-type: none;
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.banner_lists_section li {
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  gap: 6px;
+  font-weight: 500;
+}
+
+.banner_lists_section li i {
+  color: #00cc00;
+}
+
+@media only screen and (max-width:768px) {
+  .banner_lists_section {
+    align-items: center;
+  }
+}
