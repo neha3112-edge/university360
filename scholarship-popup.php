@@ -91,7 +91,7 @@ $base_url = BASE_URL;
                         <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and Diu</option>
                     </select>
 
-                    <input type="hidden" name="source" id="scholarship_source" value="DES_IN" required>
+                    <input type="hidden" name="source" id="scholarship_source" value="UNIV360" required>
                     <input type="hidden" name="form_name" id="scholarship_form_name" value="Scholarship Form">
                     <input type="hidden" name="sub_source" id="scholarship_sub_source" value="">
                     <input type="hidden" name="utm_source" id="scholarship_utm_source" value="">

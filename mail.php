@@ -49,14 +49,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $sub_source = 'ESGCI_Organic';
         } elseif (strpos($page_url, 'iimk') !== false) {
             $sub_source = 'IIM_Kozhikode_Organic';
-        } elseif (strpos($page_url, 'iimb') !== false) {
-            $sub_source = 'IIM_Bangalore_Organic';
         } elseif (strpos($page_url, 'iim-nagpur') !== false) {
             $sub_source = 'IIM_Nagpur_Organic';
+        } elseif (strpos($page_url, 'iimb') !== false) {
+            $sub_source = 'IIM_Bangalore_Organic';
         } elseif (strpos($page_url, 'psb') !== false) {
             $sub_source = 'PSB_Organic';
-        } elseif (strpos($page_url, 'iimb') !== false) {
-            $sub_source = 'IIMB_Organic';
         } elseif (strpos($page_url, 'bdu') !== false) {
             $sub_source = 'BDU_Organic';
         } elseif (strpos($page_url, 'aju') !== false) {
@@ -108,14 +106,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $default_utm_medium = 'ESGCI_Organic';
     } elseif (strpos($page_url, 'iimk') !== false) {
         $default_utm_medium = 'IIM_Kozhikode_Organic';
-    } elseif (strpos($page_url, 'iimb') !== false) {
-        $default_utm_medium = 'IIM_Bangalore_Organic';
     } elseif (strpos($page_url, 'iim-nagpur') !== false) {
         $default_utm_medium = 'IIM_Nagpur_Organic';
+    } elseif (strpos($page_url, 'iimb') !== false) {
+        $default_utm_medium = 'IIM_Bangalore_Organic';
     } elseif (strpos($page_url, 'psb') !== false) {
         $default_utm_medium = 'PSB_Organic';
-    } elseif (strpos($page_url, 'iimb') !== false) {
-        $default_utm_medium = 'IIMB_Organic';
     } elseif (strpos($page_url, 'bdu') !== false) {
         $default_utm_medium = 'BDU_Organic';
     } elseif (strpos($page_url, 'aju') !== false) {
@@ -128,8 +124,35 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $utm_term = $_POST['utm_term'] ?? '';
     $utm_content = $_POST['utm_content'] ?? '';
 
-    // CRM API URL
-    $url = 'https://api.crm.mysode.com/api/lead/apicreated';
+    // CRM API URL Selection
+    // New CRM: Rushford, GGU, SSBM, IIIT Bangalore, ESGCI, Edgewood, Liverpool, IIM Kozhikode, IIM Bangalore, IIM Nagpur, PSB
+    // Old CRM: All other pages/universities
+    $new_crm_keywords = array(
+        'rushford',
+        'ggu',
+        'ssbm',
+        'iiitb',
+        'esgci',
+        'edgewood',
+        'liverpool',
+        'iimk',
+        'iim-nagpur',
+        'iimb',
+        'psb'
+    );
+
+    $is_new_crm = false;
+    $check_target = strtolower($page_url . ' ' . $sub_source);
+    foreach ($new_crm_keywords as $keyword) {
+        if (strpos($check_target, $keyword) !== false) {
+            $is_new_crm = true;
+            break;
+        }
+    }
+
+    $url = $is_new_crm
+        ? 'https://new.crm.api.mysode.com/api/lead/apicreated'
+        : 'https://api.crm.mysode.com/api/lead/apicreated';
 
     $data = array(
         'name' => $full_name,

@@ -7,38 +7,319 @@
 <head>
     <?php include "header.php"; ?>
 
-    <title>IIITB Online IT & AI Programs Fees & Admissions Open 2026</title>
-    <meta name="description"
-        content="IIITB Online Programs Fees & Admissions Open 2026. MS, PG, and Executive programs in Data Science and AI." />
-    <meta name="keywords"
-        content="International Institute of Information Technology Bangalore DBA, IIITB DBA Program, Doctor of Business Administration Online">
-    <link rel="canonical" href="https://university360.co/iiitb.php">
+    <title>IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360</title>
+    <meta name="description" content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications." />
+    <meta name="keywords" content="IIIT Bangalore Online Courses, IIIT Bangalore Online Masters, IIIT Bangalore Online PG Courses, IIIT Bangalore Online Degree, IIITB Online Courses">
+    <link rel="canonical" href="https://university360.co/iiitb">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="UNIVERSITY 360">
+    <link rel="publisher" href="https://university360.co/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
 
-    <!-- Open Graph & Social Meta Tags -->
-    <meta property="og:title"
-        content="International Institute of Information Technology Bangalore DBA Program Fees &amp; Admissions Open 2026" />
-    <meta property="og:description"
-        content="International Institute of Information Technology Bangalore DBA Programs 2026. Doctor of Business Administration with 9 specializations. Globally Recognized." />
+    <!-- OG Tags -->
+    <meta property="og:title" content="IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications, & How to Apply?" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://university360.co/iiitb.php" />
-    <meta property="og:image" content="https://university360.co/images/iiitb-banner.png" />
-    <meta property="og:site_name" content="University360" />
+    <meta property="og:url" content="https://university360.co/iiitb" />
+    <meta property="og:image" content="https://university360.co/images/iiit-bangalore-online-courses-banner.png" />
+    <meta property="og:image:alt" content="IIIT Bangalore Online Courses image" />
+    <meta property="og:site_name" content="UNIVERSITY 360" />
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications, & How to Apply?" />
+    <meta name="twitter:image" content="https://university360.co/images/iiit-bangalore-online-courses-banner.png" />
+    <meta name="twitter:site" content="@univ360degree" />
+    <meta name="twitter:creator" content="@univ360degree" />
 
     <!-- Schema Code -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "CollegeOrUniversity",
-      "name": "International Institute of Information Technology Bangalore",
-      "url": "https://university360.co/iiitb.php",
-      "logo": "https://university360.co/images/iiitb-logo.png",
-      "slogan": "Where Business Meets Excellence",
-      "description": "International Institute of Information Technology Bangalore offers globally recognized Doctor of Business Administration (DBA) programs with specializations across various management domains.",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "Geneva",
-        "addressCountry": "CH"
-      }
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://university360.co/#website",
+          "url": "https://university360.co/",
+          "name": "University360",
+          "description": "India's Trusted Education Counseling Platform for Online Degree Programs and Distance Education Courses.",
+          "publisher": {
+            "@id": "https://university360.co/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://university360.co/iiitb/#webpage",
+          "url": "https://university360.co/iiitb/",
+          "name": "IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360",
+          "isPartOf": {
+            "@id": "https://university360.co/#website"
+          },
+          "description": "Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications.",
+          "keywords": "IIIT Bangalore Online Courses, IIIT Bangalore Online Masters, IIIT Bangalore Online PG Courses, IIIT Bangalore Online Degree, IIITB Online Courses",
+          "about": [
+            {
+              "@id": "https://university360.co/iiitb/#counselingservice"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://university360.co/#organization",
+          "name": "University360",
+          "url": "https://university360.co/",
+          "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "B-63, Sector-2, Noida, Gautam Buddha Nagar",
+            "addressLocality": "Noida",
+            "addressRegion": "Uttar Pradesh",
+            "postalCode": "201301",
+            "addressCountry": "IN"
+          },
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+91-9218082995",
+              "email": "mail@university360.co",
+              "contactType": "customer support"
+            }
+          ],
+          "award": [
+            "30K+ Students Counselled",
+            "100+ Education Experts",
+            "25+ Online & Distance Programs",
+            "20+ Recognized Universities"
+          ]
+        },
+        {
+          "@type": "Service",
+          "@id": "https://university360.co/iiitb/#counselingservice",
+          "name": "Educational Counselling for IIIT Bangalore Online Courses",
+          "provider": {
+            "@id": "https://university360.co/#organization"
+          },
+          "serviceType": "Educational Counselling",
+          "areaServed": {
+            "@type": "Country",
+            "name": "India"
+          },
+          "description": "Counselling and career guidance for working professionals and students exploring IIIT Bangalore online courses in Data Science, AI, Machine Learning, and leadership programs.",
+          "offers": {
+            "@type": "Offer",
+            "price": "0.00",
+            "priceCurrency": "INR",
+            "description": "Book FREE 1:1 Counseling"
+          },
+          "subjectOf": [
+            {
+              "@type": "CreativeWork",
+              "name": "Why Choose IIIT Bangalore Online Courses",
+              "text": "Premier institute credibility with strong academic standards and industry trust. Future-ready AI learning built around practical outcomes in IIIT Bangalore artificial intelligence. Strong Data Science foundation covering statistics, ML models, and business insights. Structured IIIT Bangalore certification courses for credible credentials. Leadership edge through the CTO track with IIM Udaipur AI coverage. Hands-on learning via projects, labs, and capstones across all tracks."
+            },
+            {
+              "@type": "CreativeWork",
+              "name": "IIIT Bangalore Online Courses Key Highlights",
+              "text": "NAAC A+ accredited institute. 6+ Certification courses. Partnership of IIIT Bangalore and IIM Udaipur. Programme durations ranging from 5 to 14 months. Delivered via upGrad platform. 10+ years of experience, 30K+ learners, 15+ assignments & case studies, and 30+ tools."
+            },
+            {
+              "@type": "CreativeWork",
+              "name": "IIIT Bangalore Accreditations & Approvals",
+              "text": "NAAC A+ (quality learning outcomes), UGC (institute credibility and trust in online credentials), AICTE (industry-aligned curriculum with technical rigour), and AACSB (global business-quality benchmark for leadership and learning)."
+            },
+            {
+              "@type": "CreativeWork",
+              "name": "Sample Post Graduate Certificate",
+              "text": "Students who have completed their IIIT Bangalore Online courses will receive two certificates from Microsoft. IIIT Bangalore also offers special IIM Udaipur artificial intelligence courses that allow students to earn a dual degree."
+            }
+          ]
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#exec_genai_leaders",
+          "name": "Executive Programme in Generative AI for Leaders - IIIT Bangalore",
+          "description": "Helps leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore",
+            "alternateName": "IIITB",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Bangalore",
+              "addressRegion": "Karnataka",
+              "addressCountry": "IN"
+            },
+            "award": "NAAC A+ accredited"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P20W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#exec_pg_data_science_ai",
+          "name": "Executive Post Graduate Certificate Programme in Data Science & AI - IIIT Bangalore",
+          "description": "Builds skills in IIIT Bangalore data science and artificial intelligence through statistics, ML, deep learning, projects, and mentorship.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore",
+            "alternateName": "IIITB"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P25W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#prof_cert_data_science_genai",
+          "name": "Professional Certificate Programme in Data Science with Generative AI - IIIT Bangalore",
+          "description": "Delivers an IIIT Bangalore data science course in analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore",
+            "alternateName": "IIITB"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P24W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#exec_pg_applied_agentic_ai",
+          "name": "Executive Post Graduate Programme in Applied AI and Agentic AI - IIIT Bangalore",
+          "description": "Covers applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through practical assignments.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore",
+            "alternateName": "IIITB"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P30W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#exec_diploma_ml_ai",
+          "name": "Executive Diploma in Machine Learning & Artificial Intelligence - IIIT Bangalore",
+          "description": "Offers advanced ML, MLOps, deep learning, and GenAI modules, ideal certification courses for working professionals seeking strong career growth.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore",
+            "alternateName": "IIITB"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P28W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#cto_ai_leadership",
+          "name": "Chief Technology Officer & AI Leadership Programme - IIIT Bangalore powered by IIM Udaipur",
+          "description": "Powered by IIM Udaipur, this online course covers CTO AI leadership skills including tech strategy, governance, and AI decision-making. Combines IIIT Bangalore and IIM Udaipur artificial intelligence expertise to prepare future technology leaders.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore in partnership with IIM Udaipur",
+            "alternateName": "IIITB"
+          },
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P24W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#ms_ml_ai",
+          "name": "Master of Science in Machine Learning & Artificial Intelligence - IIIT Bangalore",
+          "description": "MS in Machine Learning & AI with double accreditation (IIIT Bangalore + LJMU, UK) covering advanced ML, deep learning, and Generative AI with 80+ tools. Ideal for working professionals seeking career growth, with up to 433% salary hikes reported.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore in partnership with Liverpool John Moores University (LJMU), UK",
+            "alternateName": "IIITB"
+          },
+          "educationalCredentialAwarded": "Master of Science (M.Sc.) in Machine Learning & Artificial Intelligence",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P28W"
+          }
+        },
+        {
+          "@type": "Course",
+          "@id": "https://university360.co/iiitb/#ms_data_science",
+          "name": "Master of Science in Data Science (Now integrated with Generative AI) - IIIT Bangalore",
+          "description": "LJMU MSc Data Science via upGrad and IIITB: 18-21 months online, GenAI integrated with MLOps, 100+ tools, Data Analysis and Data Engineering tracks, bootcamp-to-dissertation structure, with 30+ domain-focused assignments and case studies.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "IIIT Bangalore in partnership with Liverpool John Moores University (LJMU), UK",
+            "alternateName": "IIITB"
+          },
+          "educationalCredentialAwarded": "Master of Science (M.Sc.) in Data Science",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "Online",
+            "duration": "P28W"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://university360.co/iiitb/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What are the IIIT Bangalore online courses?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They are industry-focused online programmes from IIIT Bangalore, designed for working professionals with flexible learning, projects, and recognised certification."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do IIIT Bangalore certification courses help in career growth?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. These certifications add credibility, strengthen skills, and help professionals qualify for better roles in tech and management."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is IIIT Bangalore artificial intelligence taught with practical training?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do IIIT Bangalore data science programmes include projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is IIM Udaipur artificial intelligence included in the CTO programme?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The CTO & AI Leadership programme, offered in partnership with IIM Udaipur, covers AI leadership and decision-making modules."
+              }
+            }
+          ]
+        }
+      ]
     }
     </script>
 </head>
@@ -269,26 +550,25 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>UNIVERSITY 360<br>DBA Programs at International Institute of Information Technology Bangalore</h2>
+            <h2>UNIVERSITY 360<br>Online Courses at International Institute of Information Technology Bangalore</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- Executive Programme in Generative AI for Leaders -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Executive Program</span>
+                        <span class="amity-course-badge">Executive Programme</span>
                         <img src="images/IIITB Executive Programme in Generative AI for Leaders.webp"
                             alt="Executive Programme in Generative AI for Leaders" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Executive Programme in Generative AI for Leaders</h3>
                             <h4>Generative AI for Leaders</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Executive Programme
-                                in Generative AI for Leaders program, designed for tech leaders.</p>
+                            <p>IIIT Bangalore online courses help leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_Executive_Program_in_Generative_AI_for_Leaders.pdf', 'Executive Programme in Generative AI for Leaders')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 4-6 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 20 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -297,22 +577,20 @@
                 <!-- Executive Post Graduate Certificate Programme in Data Science & AI -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">PG Certificate</span>
+                        <span class="amity-course-badge">Executive Programme</span>
                         <img src="images/IIITB Executive Post Graduate Certificate Programme in Data Science & AI.webp"
                             alt="Executive Post Graduate Certificate Programme in Data Science & AI"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Executive Post Graduate Certificate Programme in Data Science & AI</h3>
                             <h4>Data Science & AI</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Executive Post
-                                Graduate Certificate Programme in Data Science & AI program, designed for tech leaders.
-                            </p>
+                            <p>IIIT Bangalore online courses build skills in data science and artificial intelligence through statistics, ML, deep learning, projects, and mentorship.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_EPGC_DS_AI.pdf', 'Executive Post Graduate Certificate Programme in Data Science & AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 9-12 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 25 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -321,22 +599,20 @@
                 <!-- Professional Certificate Programme in Data Science with Generative AI -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Professional Certificate</span>
+                        <span class="amity-course-badge">Certificate</span>
                         <img src="images/IIITB Professional Certificate Programme in Data Science with Generative AI.webp"
                             alt="Professional Certificate Programme in Data Science with Generative AI"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Professional Certificate Programme in Data Science with Generative AI</h3>
-                            <h4>Data Science with Gen AI</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Professional
-                                Certificate Programme in Data Science with Generative AI program, designed for tech
-                                leaders.</p>
+                            <h4>Data Science with Generative AI</h4>
+                            <p>IIIT Bangalore online courses offer a data science course covering analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_PCP_in_DS_26_Gen_AI_with_IIIT_B.pdf', 'Professional Certificate Programme in Data Science with Generative AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 6-9 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -345,21 +621,20 @@
                 <!-- Executive Post Graduate Programme in Applied AI and Agentic AI -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Executive PG Program</span>
+                        <span class="amity-course-badge">Post-Graduate Programme</span>
                         <img src="images/IIITB Executive Post Graduate Programme in Applied AI and Agentic AI.webp"
                             alt="Executive Post Graduate Programme in Applied AI and Agentic AI"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Executive Post Graduate Programme in Applied AI and Agentic AI</h3>
                             <h4>Applied AI & Agentic AI</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Executive Post
-                                Graduate Programme in Applied AI and Agentic AI program, designed for tech leaders.</p>
+                            <p>IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through assignments.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_Applied_AI_and_Agentic_AI-4.pdf', 'Executive Post Graduate Programme in Applied AI and Agentic AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 12 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 30 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -368,21 +643,20 @@
                 <!-- Executive Diploma in Machine Learning & Artificial Intelligence -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Executive Diploma</span>
+                        <span class="amity-course-badge">Diploma</span>
                         <img src="images/IIITB Executive Diploma in Machine Learning & Artificial Intelligence.webp"
                             alt="Executive Diploma in Machine Learning & Artificial Intelligence"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
-                            <h4>ML & AI</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Executive Diploma in
-                                Machine Learning & Artificial Intelligence program, designed for tech leaders.</p>
+                            <h4>Machine Learning & AI</h4>
+                            <p>IIIT Bangalore's online courses offer advanced modules in ML, MLOps, deep learning, and GenAI, making them ideal certification courses for working professionals seeking strong career growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_ED_ML.pdf', 'Executive Diploma in Machine Learning & Artificial Intelligence')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 11 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 28 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -391,20 +665,19 @@
                 <!-- Chief Technology Officer & AI Leadership Programme -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Leadership Program</span>
+                        <span class="amity-course-badge">CTO</span>
                         <img src="images/IIITB Chief Technology Officer & AI Leadership Programme.webp"
                             alt="Chief Technology Officer & AI Leadership Programme" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Chief Technology Officer & AI Leadership Programme</h3>
                             <h4>CTO & AI Leadership</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Chief Technology
-                                Officer & AI Leadership Programme program, designed for tech leaders.</p>
+                            <p>Powered by IIM Udaipur, the online course offers detailed skills in CTO AI leadership in DBA, covering tech strategy and governance. The IIM Udaipur artificial intelligence programme equips students with the skills to prepare for future leadership.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_CTOAI_leadership_program.pdf', 'Chief Technology Officer & AI Leadership Programme')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 10 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -413,44 +686,42 @@
                 <!-- Master of Science in Machine Learning & Artificial Intelligence -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Master's Degree</span>
+                        <span class="amity-course-badge">Masters</span>
                         <img src="images/IIITB Master of Science in Machine Learning & Artificial Intelligence.webp"
                             alt="Master of Science in Machine Learning & Artificial Intelligence"
                             class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>Master of Science in Machine Learning & Artificial Intelligence</h3>
                             <h4>MS in ML & AI</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Master of Science in
-                                Machine Learning & Artificial Intelligence program, designed for tech leaders.</p>
+                            <p>IIIT Bangalore's MS in Machine Learning & AI offers dual accreditation (IIIT Bangalore + LJMU, UK), covering advanced ML, deep learning, and Generative AI, with 80+ tools. Ideal for working professionals seeking career growth, achieving up to 433% salary hikes.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_Master of Science in Machine Learning & Artificial Intelligence.pdf', 'Master of Science in Machine Learning & Artificial Intelligence')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 20 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 28 weeks</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Master of Science in Data Science Now integrated with Generative AI -->
+                <!-- Master of Science in Data Science, now integrated with Generative AI -->
                 <div class="item">
                     <div class="amity-course-card">
-                        <span class="amity-course-badge">Master's Degree</span>
+                        <span class="amity-course-badge">Masters</span>
                         <img src="images/IIITB Master of Science in Data Science Now integrated with Generative AI.webp"
-                            alt="Master of Science in Data Science Now integrated with Generative AI"
+                            alt="Master of Science in Data Science, now integrated with Generative AI"
                             class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Master of Science in Data Science Now integrated with Generative AI</h3>
+                            <h3>Master of Science in Data Science, now integrated with Generative AI</h3>
                             <h4>MS in Data Science</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive Master of Science in
-                                Data Science Now integrated with Generative AI program, designed for tech leaders.</p>
+                            <p>LJMU MSc Data Science (upGrad & IIITB): 18-21 months online, GenAI with MLOps, 100+ tools, Data Analysis/Engineering tracks, bootcamp-to-dissertation, Hands-on Learning with 30+ Domain-Focused Assignments and Case Studies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/IIITB_Master of Science in Data Science Now integrated with Generative AI.pdf', 'Master of Science in Data Science Now integrated with Generative AI')">
+                                    onclick="openBrochurePopup('brochures/IIITB_Master of Science in Data Science Now integrated with Generative AI.pdf', 'Master of Science in Data Science, now integrated with Generative AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 20 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 28 weeks</span>
                             </div>
                         </div>
                     </div>
@@ -804,82 +1075,70 @@
                 <!-- Q1 -->
                 <div class="amity-accordion-item open">
                     <h3 class="amity-accordion-heading">
-                        <span>Q1. How can UNIVERSITY 360 help with International Institute of Information Technology
-                            Bangalore DBA
-                            programs?</span>
+                        <span>Q1. How can UNIVERSITY 360 help with IIITB Online Programmes?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
-                            guidance for business professionals exploring International Institute of Information
-                            Technology Bangalore DBA
-                            programs.</p>
+                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for students and working professionals exploring IIITB Online Programmes.</p>
                     </div>
                 </div>
 
                 <!-- Q2 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q2. What is the eligibility for a DBA program at Swiss School of Business and
-                            Management?</span>
+                        <span>Q2. What are the IIIT Bangalore online courses?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>They are industry-focused online programmes from IIIT Bangalore, designed for working professionals, offering flexible learning, projects, and a recognised certification.</p>
                     </div>
                 </div>
 
                 <!-- Q3 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q3. What is the duration of the DBA program at Swiss School of Business and
-                            Management?</span>
+                        <span>Q3. Do IIIT Bangalore certification courses help in career growth?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The International Institute of Information Technology Bangalore DBA program is typically
-                            completed in 36 months
-                            (3 years).
-                            The program is designed for working professionals and can be pursued alongside a full-time
-                            career.</p>
+                        <p>Yes. These certifications add credibility, strengthen skills, and help professionals qualify for better roles in tech and management.</p>
                     </div>
                 </div>
 
                 <!-- Q4 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q4. Is the DBA from International Institute of Information Technology Bangalore globally
-                            recognized?</span>
+                        <span>Q4. Is artificial intelligence taught at IIIT Bangalore with practical training?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>International Institute of Information Technology Bangalore is an internationally recognized
-                            business school. The
-                            DBA degree
-                            is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                        <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise.</p>
                     </div>
                 </div>
 
                 <!-- Q5 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q5. Can UNIVERSITY 360 help me compare DBA programs and doctoral options?</span>
+                        <span>Q5. Can UNIVERSITY 360 help me compare IIITB online executive programmes and CTO options?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. UNIVERSITY 360 helps learners compare DBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
-                            information.</p>
+                        <p>Yes. UNIVERSITY 360 helps learners compare online executive programmes, including CTO certifications, based on factors such as eligibility, curriculum, duration, and other available information.</p>
                     </div>
                 </div>
 
                 <!-- Q6 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q6. Can I pursue the DBA program online while working full-time?</span>
+                        <span>Q6. Do IIIT Bangalore data science programmes include projects?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. The IIITB DBA program is specifically structured for working professionals, offering
-                            flexible online learning with live and recorded sessions, so you can balance your career
-                            and doctoral studies effectively.</p>
+                        <p>Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving.</p>
+                    </div>
+                </div>
+
+                <!-- Q7 -->
+                <div class="amity-accordion-item">
+                    <h3 class="amity-accordion-heading">
+                        <span>Q7. Is artificial intelligence included in the IIITB Bangalore CTO programme?</span>
+                    </h3>
+                    <div class="amity-accordion-content">
+                        <p>Yes. The CTO & AI Leadership programme, offered in partnership with IIITB Bangalore, includes modules on AI leadership and decision-making.</p>
                     </div>
                 </div>
             </div>
