@@ -3902,12 +3902,11 @@ body.legal-page-body {
 
 .amity-main-title {
   font-size: 34px;
-  font-weight: 800;
+  font-weight: 500;
   color: #002B5C;
   margin: 0 0 10px 0;
   line-height: 1.15;
   font-family: 'Anton', sans-serif;
-  letter-spacing: -0.5px;
 }
 
 .amity-slogan {
