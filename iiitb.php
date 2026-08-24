@@ -564,7 +564,7 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>UNIVERSITY 360<br>Online Courses at International Institute of Information Technology Bangalore</h2>
+            <h2>UNIVERSITY 360<br>Programmes & Certifications at IIIT Bangalore</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- Executive Programme in Generative AI for Leaders -->
