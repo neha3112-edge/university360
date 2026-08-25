@@ -30,22 +30,6 @@ $base_url = BASE_URL;
 
 					<select name="course" class="form-control" id="course" required>
 						<option value="" hidden>Select Your Course</option>
-						<option value="MBA">MBA</option>
-						<option value="MCA">MCA</option>
-						<option value="MCOM">MCOM</option>
-						<option value="MSC">MSC</option>
-						<option value="MA">MA</option>
-						<option value="MSW">MSW</option>
-						<option value="MJMC">MJMC</option>
-						<option value="MLIS">MLIS</option>
-						<option value="BBA">BBA</option>
-						<option value="BCA">BCA</option>
-						<option value="BCOM">BCOM</option>
-						<option value="BSC">BSC</option>
-						<option value="BA">BA</option>
-						<option value="BSW">BSW</option>
-						<option value="BJMC">BJMC</option>
-						<option value="BLIS">BLIS</option>
 					</select>
 
 					<select name="state" class="form-control" id="state" required>

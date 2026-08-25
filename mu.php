@@ -6,6 +6,25 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "MA", "label": "MA - Master of Arts" },
+            { "value": "MBA", "label": "MBA - Master of Business Administration" },
+            { "value": "MCA", "label": "MCA - Master of Computer Application" },
+            { "value": "MCOM", "label": "MCOM - Master of Commerce" },
+            { "value": "MSC", "label": "MSC - Master of Science" },
+            { "value": "BA", "label": "BA - Bachelor of Arts" },
+            { "value": "BBA", "label": "BBA - Bachelor of Business Administration" },
+            { "value": "BCA", "label": "BCA - Bachelor of Computer Application" },
+            { "value": "BCOM", "label": "BCOM - Bachelor of Commerce" },
+            { "value": "BSC", "label": "BSC - Bachelor of Science" },
+            { "value": "BLIS", "label": "BLIS - Bachelor of Library and Information Science" },
+            { "value": "BJMC", "label": "BJMC - Bachelor of Journalism and Mass Communication" },
+            { "value": "MLIS", "label": "MLIS - Master of Library and Information Science" },
+            { "value": "MBA Plus", "label": "MBA Plus - Master of Business Administration Plus" }
+        ];
+    </script>
+
 
     <title>Mangalayatan University Online & Distance MBA MCA MCom MSc MA MLIS BBA BCA BCom BA BSc BLIS Degree Courses | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE, & AIU." />

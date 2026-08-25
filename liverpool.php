@@ -6,6 +6,17 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "MBA", "label": "MBA in Business Analytics" },
+            { "value": "MBA", "label": "MBA in Finance" },
+            { "value": "MBA", "label": "MBA in Marketing" },
+            { "value": "MBA", "label": "MBA in Leadership" },
+            { "value": "MBA", "label": "MBA in Human Resources Management" },
+            { "value": "MBA", "label": "MBA in Operation and Supply Chain Management" }
+        ];
+    </script>
+
 
     <title>Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure, plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open!" />

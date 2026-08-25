@@ -6,6 +6,15 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            {
+                "value": "CERTIFICATE",
+                "label": "Young Leaders Programme in General Management"
+            }
+        ];
+    </script>
+
 
     <title>IIM Bangalore General Management Program for Young Leaders (Certification) Fees, Eligibility, & Download
         Brochure | UNIVERSITY 360</title>

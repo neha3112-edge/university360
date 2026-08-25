@@ -6,6 +6,12 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "DBA", "label": "DBA - Doctor of Business Administration" }
+        ];
+    </script>
+
 
     <title>ESGCI DBA Program Fees & Admissions Open 2026</title>
     <meta name="description"

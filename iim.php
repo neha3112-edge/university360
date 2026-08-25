@@ -6,6 +6,23 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+          {
+                "value": "HRM Analytics Online Certification",
+                "label": "HRM Analytics Online Certification"
+          },
+          {
+                "value": "Executive Development Programme in HR Analytics",
+                "label": "Executive Development Programme in HR Analytics"
+          },
+          {
+                "value": "Post Graduate Certificate in Management",
+                "label": "Post Graduate Certificate in Management"
+          }
+];
+    </script>
+
 
     <title>IIM Kozhikode Certification Programs Fees & Admissions</title>
     <meta name="description"

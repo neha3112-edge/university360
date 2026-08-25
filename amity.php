@@ -6,6 +6,20 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "MBA", "label": "MBA" },
+            { "value": "MCA", "label": "MCA" },
+            { "value": "MCOM", "label": "MCOM" },
+            { "value": "MA", "label": "MA" },
+            { "value": "MSC", "label": "MSC" },
+            { "value": "BBA", "label": "BBA" },
+            { "value": "BCA", "label": "BCA" },
+            { "value": "BCOM", "label": "BCOM" },
+            { "value": "BA", "label": "BA" }
+        ];
+    </script>
+
 
     <title>Amity University Online Degree Course Fees & Admissions Open 2026 | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for Amity University Online Degree Course Fees & Admissions Open 2026. Online MBA, MCA, MA, BCA, BBA, BA, BCom, & MCom. Find UGC-Approved Program Eligibility & Syllabus." />

@@ -6,6 +6,15 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "DBA", "label": "DBA in Finance" },
+            { "value": "DBA", "label": "DBA in Leadership" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Finance" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Leadership" }
+        ];
+    </script>
+
 
     <title>EdgeWood Online University DBA & MBA+DBA Programs Fees & Admissions Open 2026</title>
     <meta name="description"

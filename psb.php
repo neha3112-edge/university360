@@ -6,6 +6,31 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            {
+                "value": "MBA",
+                "label": "MBA in Strategic Leadership"
+            },
+            {
+                "value": "MBA",
+                "label": "MBA in AI and Technology"
+            },
+            {
+                "value": "MBA",
+                "label": "MBA in Finance"
+            },
+            {
+                "value": "MBA",
+                "label": "MBA in Marketing"
+            },
+            {
+                "value": "MBA",
+                "label": "MBA in Operations & Supply Chain"
+            }
+        ];
+    </script>
+
 
     <title>Paris School of Business Online MBA | Executive Program in Strategy, Finance, AI & Leadership from IIM
         Lucknow | UNIVERSITY 360</title>

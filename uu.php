@@ -6,6 +6,16 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "BA", "label": "BA - Bachelor of Arts" },
+            { "value": "BBA", "label": "BBA - Bachelor of Business Administration" },
+            { "value": "BCA", "label": "BCA - Bachelor of Computer Application" },
+            { "value": "MBA", "label": "MBA - Master of Business Administration" },
+            { "value": "MCA", "label": "MCA - Master of Computer Application" }
+        ];
+    </script>
+
 
     <title>UU Online | Uttaranchal University Online Courses | UU Online BBA BCA BA MBA MCA - UG & PG Degree | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for Online UU UGC-approved degree. Uttaranchal University online MBA, MCA, BBA, BCA, BA, and distance courses. View Sample Degree & Online Admission. Online UU NAAC A+, AICTE-approved, & AIU. Online UU, Uttaranchal University Online Degree Certificate." />

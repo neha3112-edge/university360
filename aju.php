@@ -6,10 +6,38 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            {
+                "value": "MBA",
+                "label": "MBA"
+            },
+            {
+                "value": "MCA",
+                "label": "MCA"
+            },
+            {
+                "value": "BBA",
+                "label": "BBA"
+            },
+            {
+                "value": "BCA",
+                "label": "BCA"
+            },
+            {
+                "value": "BCOM",
+                "label": "BCOM"
+            }
+        ];
+    </script>
 
-    <title>Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, & Admissions Open | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
-    <meta name="keywords" content="Arka Jain Online, Arka Jain Online MBA, Arka Jain University Online, Arka Jain University Online MBA">
+
+    <title>Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, &
+        Admissions Open | UNIVERSITY 360</title>
+    <meta name="description"
+        content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
+    <meta name="keywords"
+        content="Arka Jain Online, Arka Jain Online MBA, Arka Jain University Online, Arka Jain University Online MBA">
     <link rel="canonical" href="https://university360.co/aju/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
@@ -18,8 +46,10 @@
     <meta charset="UTF-8">
 
     <!-- OG Tags -->
-    <meta property="og:title" content="Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, & Admissions Open | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
+    <meta property="og:title"
+        content="Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description"
+        content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/aju/" />
     <meta property="og:image" content="https://university360.co/images/arka-jain-online-banner.png" />
@@ -28,8 +58,10 @@
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, & Admissions Open | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
+    <meta name="twitter:title"
+        content="Arka Jain Online | Arka Jain University Online MBA MCA B.Com BBA BCA Fees, Eligibility, Placements, & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description"
+        content="Get Counseling from UNIVERSITY 360 for Arka Jain Online | Arka Jain University Online MBA, MCA, B.Com, BBA, & BCA Admissions closing soon! Arka Jain Online Courses Details: Fees, Eligibility, Syllabus, Placements, & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/arka-jain-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />

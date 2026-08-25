@@ -6,6 +6,12 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "IIM HR", "label": "HR & Analytics" }
+        ];
+    </script>
+
 
     <title>IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open!" />

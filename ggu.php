@@ -6,6 +6,24 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "DBA", "label": "DBA in Finance" },
+            { "value": "DBA", "label": "DBA in Marketing" },
+            { "value": "DBA", "label": "DBA in Leadership" },
+            { "value": "DBA", "label": "DBA in General" },
+            { "value": "DBA", "label": "DBA in Business Analytics" },
+            { "value": "DBA", "label": "DBA in Generative AI" },
+            { "value": "MBA", "label": "MBA in Business Analytics Concentration" },
+            { "value": "MBA", "label": "MBA in Industrial Organizational Psychology Concentration" },
+            { "value": "MBA", "label": "MBA in Information Technology Management" },
+            { "value": "MBA", "label": "MBA in Finance" },
+            { "value": "MBA", "label": "MBA in Marketing" },
+            { "value": "MBA", "label": "MBA in Adaptive Leadership" },
+            { "value": "MBA", "label": "MBA in General" }
+        ];
+    </script>
+
 
     <title>Golden Gate University MBA & DBA Programs Fees & Admissions Open 2026</title>
     <meta name="description"

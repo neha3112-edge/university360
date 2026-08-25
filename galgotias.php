@@ -6,10 +6,42 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            {
+                "value": "MBA",
+                "label": "MBA"
+            },
+            {
+                "value": "MCA",
+                "label": "MCA"
+            },
+            {
+                "value": "MCOM",
+                "label": "MCOM"
+            },
+            {
+                "value": "MA",
+                "label": "MA"
+            },
+            {
+                "value": "BCA",
+                "label": "BCA"
+            },
+            {
+                "value": "BBA",
+                "label": "BBA"
+            }
+        ];
+    </script>
 
-    <title>Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
-    <meta name="keywords" content="Galgotias Online, Online Galgotias, Online Galgotias University, Galgotias University Courses and Fees, Galgotias University Online MBA">
+
+    <title>Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open
+        | UNIVERSITY 360</title>
+    <meta name="description"
+        content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
+    <meta name="keywords"
+        content="Galgotias Online, Online Galgotias, Online Galgotias University, Galgotias University Courses and Fees, Galgotias University Online MBA">
     <link rel="canonical" href="https://university360.co/galgotias/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
@@ -18,8 +50,10 @@
     <meta charset="UTF-8">
 
     <!-- OG Tags -->
-    <meta property="og:title" content="Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
+    <meta property="og:title"
+        content="Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description"
+        content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/galgotias/" />
     <meta property="og:image" content="https://university360.co/images/galgotias-online-banner.png" />
@@ -28,8 +62,10 @@
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
+    <meta name="twitter:title"
+        content="Galgotias Online | Galgotias University Online MBA MCA MCOM MA BCA BBA Degree Courses Fees & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description"
+        content="Get Counseling from UNIVERSITY 360 for Galgotias Online | Galgotias University Online MBA, MCA, MCOM, MA, BCA, & BBA Degree Courses and Fees, Approvals, Eligibility, Placements, & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/galgotias-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -282,32 +318,32 @@
         </div>
     </section> -->
 
-<section id="about-u360" class="about-u360-section">
-		<div class="container about-u360-container">
-			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
+    <section id="about-u360" class="about-u360-section">
+        <div class="container about-u360-container">
+            <h2 class="about-u360-title">About UNIVERSITY 360</h2>
 
-			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
-			</p>
+            <p class="about-u360-text">
+                University 360 is your trusted partner in achieving your higher education goals. We guide students in
+                choosing the right online degree courses and distance education courses through expert career
+                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                opportunities, helping students make confident decisions.
+            </p>
 
-			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
-			</p>
+            <p class="about-u360-text">
+                Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
+                diploma course, University 360 connects you with the best options based on your career aspirations. With
+                reliable university insights, expert support, and student-focused services, we empower learners across
+                India to choose the right course, build the right skills, and create a successful future with
+                confidence.
+            </p>
 
-			<div class="about-u360-btns">
-				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
-				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
-			</div>
-		</div>
-	</section>
+            <div class="about-u360-btns">
+                <button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
+                <button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
+            </div>
+        </div>
+    </section>
 
     <!-- Why Choose Section -->
     <section class="amity-whychoose-section" id="whychoose">
@@ -612,46 +648,46 @@
         </div>
     </section> -->
 
-<section id="achievment">
+    <section id="achievment">
         <div class="container">
-		<div id="facts" style="margin-bottom: 0px !important;">
-			<div class="row">
-				<div class="col-md-3" id="fact-box">
+            <div id="facts" style="margin-bottom: 0px !important;">
+                <div class="row">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/student-enrolled.webp">
-					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+                        <img src="images/student-enrolled.webp">
+                        <h4>30K+</h4>
+                        <p>Students <br>Counselled</p>
 
-				</div>
-
-
-				<div class="col-md-3" id="fact-box">
-
-					<img src="images/counseling-experts.webp">
-					<h4>100+</h4>
-					<p>Education <br>Experts</p>
-				</div>
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/specialisation.webp">
-					<h4>25+</h4>
-					<p>Online &amp; Distance <br>Programs</p>
+                        <img src="images/counseling-experts.webp">
+                        <h4>100+</h4>
+                        <p>Education <br>Experts</p>
+                    </div>
 
-				</div>
+
+                    <div class="col-md-3" id="fact-box">
+
+                        <img src="images/specialisation.webp">
+                        <h4>25+</h4>
+                        <p>Online &amp; Distance <br>Programs</p>
+
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/university.webp">
-					<h4>20+</h4>
-					<p>Recognized <br>Universities</p>
+                        <img src="images/university.webp">
+                        <h4>20+</h4>
+                        <p>Recognized <br>Universities</p>
 
-				</div>
-			</div>
-		</div>
-	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- How to Apply Steps Section -->

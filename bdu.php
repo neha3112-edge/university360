@@ -6,6 +6,27 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+          {
+                "value": "MBA",
+                "label": "MBA"
+          },
+          {
+                "value": "MA",
+                "label": "MA"
+          },
+          {
+                "value": "BBA",
+                "label": "BBA"
+          },
+          {
+                "value": "BA",
+                "label": "BA"
+          }
+];
+    </script>
+
 
     <title>Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />

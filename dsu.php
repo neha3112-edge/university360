@@ -6,10 +6,38 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            {
+                "value": "MBA",
+                "label": "MBA"
+            },
+            {
+                "value": "MCA",
+                "label": "MCA"
+            },
+            {
+                "value": "BBA",
+                "label": "BBA"
+            },
+            {
+                "value": "BCA",
+                "label": "BCA"
+            },
+            {
+                "value": "BCOM",
+                "label": "BCOM"
+            }
+        ];
+    </script>
 
-    <title>DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open!" />
-    <meta name="keywords" content="DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online">
+
+    <title>DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360
+    </title>
+    <meta name="description"
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open!" />
+    <meta name="keywords"
+        content="DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online">
     <link rel="canonical" href="https://university360.co/dsu/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
@@ -18,19 +46,25 @@
     <meta charset="UTF-8">
 
     <!-- OG Tags -->
-    <meta property="og:title" content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
+    <meta property="og:title"
+        content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description"
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/dsu/" />
-    <meta property="og:image" content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
+    <meta property="og:image"
+        content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
     <meta property="og:image:alt" content="DSU Online Dayananda Sagar University Online image" />
     <meta property="og:site_name" content="UNIVERSITY 360" />
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
-    <meta name="twitter:image" content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
+    <meta name="twitter:title"
+        content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description"
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
+    <meta name="twitter:image"
+        content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
 

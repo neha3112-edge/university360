@@ -6,6 +6,12 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "CERTIFICATE", "label": "Post Graduate Certificate Programme in Advanced HR Analytics" }
+        ];
+    </script>
+
 
     <title>IIM Nagpur HR Analytics Course | PG Certificate Program in Advanced HR Analytics | UNIVERSITY 360</title>
     <meta name="description"

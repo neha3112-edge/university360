@@ -416,6 +416,106 @@ $base_url = BASE_URL;
 	});
 </script>
 
+<?php if (isset($page_courses) && is_array($page_courses)): ?>
+<script>
+	window.PAGE_COURSES = <?= json_encode($page_courses) ?>;
+</script>
+<?php endif; ?>
+
+<!-- Dynamic Page-Wise Course List Script -->
+<script>
+(function () {
+	window.setPageCourses = function (courses) {
+		if (!courses) return;
+
+		let normalizedCourses = [];
+		if (Array.isArray(courses)) {
+			courses.forEach(function (item) {
+				if (typeof item === 'object' && item !== null) {
+					normalizedCourses.push({
+						value: item.value !== undefined ? item.value : (item.key !== undefined ? item.key : item.label),
+						label: item.label !== undefined ? item.label : (item.text !== undefined ? item.text : item.value)
+					});
+				} else {
+					normalizedCourses.push({
+						value: String(item),
+						label: String(item)
+					});
+				}
+			});
+		} else if (typeof courses === 'object' && courses !== null) {
+			Object.keys(courses).forEach(function (key) {
+				normalizedCourses.push({
+					value: key,
+					label: courses[key]
+				});
+			});
+		}
+
+		if (normalizedCourses.length === 0) return;
+
+		// Select all course dropdowns in all forms and popups
+		const courseSelects = document.querySelectorAll('select[name="course"]');
+		courseSelects.forEach(function (select) {
+			const currentVal = select.value;
+			let placeholderText = "Select Your Course";
+			if (select.options.length > 0 && (!select.options[0].value || select.options[0].hidden)) {
+				placeholderText = select.options[0].text || "Select Your Course";
+			}
+
+			select.innerHTML = '';
+
+			const defaultOpt = document.createElement('option');
+			defaultOpt.value = '';
+			defaultOpt.hidden = true;
+			defaultOpt.textContent = placeholderText;
+			select.appendChild(defaultOpt);
+
+			normalizedCourses.forEach(function (courseObj) {
+				const opt = document.createElement('option');
+				opt.value = courseObj.value;
+				opt.textContent = courseObj.label;
+				select.appendChild(opt);
+			});
+
+			if (currentVal && select.querySelector('option[value="' + CSS.escape(currentVal) + '"]')) {
+				select.value = currentVal;
+			}
+		});
+	};
+
+	const DEFAULT_COURSES = [
+		{ value: "MBA", label: "MBA" },
+		{ value: "MCA", label: "MCA" },
+		{ value: "MCOM", label: "MCOM" },
+		{ value: "MSC", label: "MSC" },
+		{ value: "MA", label: "MA" },
+		{ value: "MSW", label: "MSW" },
+		{ value: "MJMC", label: "MJMC" },
+		{ value: "MLIS", label: "MLIS" },
+		{ value: "BBA", label: "BBA" },
+		{ value: "BCA", label: "BCA" },
+		{ value: "BCOM", label: "BCOM" },
+		{ value: "BSC", label: "BSC" },
+		{ value: "BA", label: "BA" },
+		{ value: "BSW", label: "BSW" },
+		{ value: "BJMC", label: "BJMC" },
+		{ value: "BLIS", label: "BLIS" }
+	];
+
+	function initPageCourses() {
+		const courses = window.PAGE_COURSES || window.pageCourses || DEFAULT_COURSES;
+		window.setPageCourses(courses);
+	}
+
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', initPageCourses);
+	} else {
+		initPageCourses();
+	}
+})();
+</script>
+
 <!-- Global Bottom-Right Floating Buttons -->
 <div class="global-floating-buttons-wrap">
 	<a class="floating-btn-call" href="tel:+919218082995" title="Call Academic Counselor">

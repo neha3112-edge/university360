@@ -6,6 +6,19 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "CERTIFICATE", "label": "Executive Programme in Generative AI for Leaders" },
+            { "value": "CERTIFICATE", "label": "Executive Post Graduate Certificate Programme in Data Science & AI" },
+            { "value": "CERTIFICATE", "label": "Professional Certificate Programme in Data Science with Generative AI" },
+            { "value": "CERTIFICATE", "label": "Executive Post Graduate Programme in Applied AI and Agentic AI" },
+            { "value": "CERTIFICATE", "label": "Executive Diploma in Machine Learning & Artificial Intelligence" },
+            { "value": "CERTIFICATE", "label": "Chief Technology Officer & AI Leadership Programme" },
+            { "value": "MSC", "label": "Master of Science in Machine Learning & Artificial Intelligence" },
+            { "value": "MSC", "label": "Master of Science in Data Science Now integrated with Generative AI" }
+        ];
+    </script>
+
 
     <title>IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions
         Open | UNIVERSITY 360</title>

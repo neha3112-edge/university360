@@ -6,6 +6,19 @@
 
 <head>
     <?php include "header.php"; ?>
+    <script>
+        window.PAGE_COURSES = [
+            { "value": "BA", "label": "BA" },
+            { "value": "BCA", "label": "BCA" },
+            { "value": "BBA", "label": "BBA" },
+            { "value": "MBA", "label": "MBA" },
+            { "value": "MA", "label": "MA" },
+            { "value": "MCOM", "label": "MCOM" },
+            { "value": "MSC", "label": "MSC" },
+            { "value": "MCA", "label": "MCA" }
+        ];
+    </script>
+
 
     <title>LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees, & Admissions Open | UNIVERSITY 360</title>
     <meta name="description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA, & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility, & How to Apply?" />
