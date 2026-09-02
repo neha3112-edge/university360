@@ -378,7 +378,7 @@
                     <!-- Left Side: University Image -->
                     <div class="col-lg-5 col-md-12">
                         <div class="iimk-course-img-wrap">
-                            <img src="images/iimk-university-image.webp" alt="IIM Kozhikode Campus" class="img-fluid">
+                            <img src="images/IIM Kozhikode.webp" alt="IIM Kozhikode Campus" class="img-fluid">
                         </div>
                     </div>
 

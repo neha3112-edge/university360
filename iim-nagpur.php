@@ -314,33 +314,59 @@
     </section>
 
 
-    <!-- Programmes / Course Cards Section -->
-    <!-- <section class="amity-programmes-section" id="programmes">
+    <!-- Programmes / Course Section -->
+    <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>Post Graduate Certificate Programme in Advanced HR Analytics at IIM Nagpur</h2>
+            <h2>IIM Nagpur Online Courses</h2>
 
-            <div class="owl-carousel amity-program-carousel">
-                <div class="item">
-                    <div class="amity-course-card">
-                        <span class="amity-course-badge">Certification</span>
-                        <img src="images/iim_nagpur_logo.webp" alt="HRM Analytics Online Certification"
-                            class="amity-course-img">
-                        <div class="amity-course-body">
-                            <h3>HRM Analytics Online Certification</h3>
-                            <h4>Executive Certification</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive HRM Analytics Online
-                                Certification program, designed for professionals.</p>
-                            <div class="amity-course-footer">
-                                <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/iim_nagpur_main_brochure.pdf', 'HRM Analytics Online Certification')">
-                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+            <div class="iimk-course-spotlight-card">
+                <div class="row align-items-center">
+                    <!-- Left Side: University Image -->
+                    <div class="col-lg-5 col-md-12">
+                        <div class="iimk-course-img-wrap">
+                            <img src="images/IIM Nagpur.webp" alt="IIM Nagpur Campus" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <!-- Right Side: Content & Actions -->
+                    <div class="col-lg-7 col-md-12">
+                        <div class="iimk-course-content">
+                            <h3 class="iimk-course-title">Post Graduate Certificate Programme in Advanced HR Analytics
+                            </h3>
+
+                            <div class="iimk-course-highlights">
+                                <span class="highlight-pill"><i class="fa fa-calendar"></i> 7 Months Online</span>
+                            </div>
+
+                            <p class="iimk-course-desc">
+                                The Post Graduate Certificate Programme in Advanced HR Analytics is a 7-month online HRM
+                                post graduate programme offered by IIM Nagpur for mid-career HR professionals with at
+                                least
+                                two years of work experience. The course is designed as one of the industry-focused HR
+                                postgraduate courses; the programme combines live online sessions, hands-on projects, a
+                                two-day campus module, and real-world HR scenarios to help learners apply analytics, AI,
+                                and
+                                predictive models to workforce challenges. The curriculum highlights the benefits of HR
+                                analytics by enabling professionals to make evidence-based decisions, align HR
+                                strategies
+                                with business goals, and create measurable organisational impact through advanced HR
+                                analytics.
+                            </p>
+
+                            <div class="iimk-course-actions">
+                                <button class="iimk-btn-brochure"
+                                    onclick="openBrochurePopup('brochures/iim_nagpur_main_brochure.pdf', 'Post Graduate Certificate Programme in Advanced HR Analytics')">
+                                    <i class="fa fa-download"></i>
+                                    <span>Get Brochure</span>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 6-12 Months</span>
+                                <button class="iimk-btn-counseling" onclick="openPopup()">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                    <span>Book Free Counseling</span>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>

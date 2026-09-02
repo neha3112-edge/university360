@@ -101,33 +101,52 @@
     </section>
 
 
-    <!-- Programmes / Course Cards Section -->
-    <!-- <section class="amity-programmes-section" id="programmes">
+    <!-- Programmes / Course Section -->
+    <section class="amity-programmes-section" id="programmes">
         <div class="container">
             <h2>DBA Programs at ESGCI</h2>
 
-            <div class="owl-carousel amity-program-carousel">
-                
-                <div class="item">
-                    <div class="amity-course-card">
-                        <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/DBA General.webp" alt="DBA" class="amity-course-img">
-                        <div class="amity-course-body">
-                            <h3>DBA</h3>
-                            <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA program,
-                                designed for global leaders.</p>
-                            <div class="amity-course-footer">
-                                <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/esgci_main_brochure.pdf', 'DBA')">
-                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+            <div class="iimk-course-spotlight-card">
+                <div class="row align-items-center">
+                    <!-- Left Side: University Image -->
+                    <div class="col-lg-5 col-md-12">
+                        <div class="iimk-course-img-wrap">
+                            <img src="images/ESGCI image.webp" alt="ESGCI Paris" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <!-- Right Side: Content & Actions -->
+                    <div class="col-lg-7 col-md-12">
+                        <div class="iimk-course-content">
+                            <h3 class="iimk-course-title">DBA in Leadership &amp; AI Strategy</h3>
+
+                            <div class="iimk-course-highlights">
+                                <span class="highlight-pill"><i class="fa fa-calendar"></i> 36 Months Online</span>
+                            </div>
+
+                            <p class="iimk-course-desc">
+                                The ESGCI Doctorate of Business Administration helps professionals gain advanced skills
+                                in
+                                business and management. The 36-month program includes foundation, leadership, and
+                                dissertation phases, giving a clear path for learning. Students receive personal
+                                guidance
+                                from experienced ESGCI faculty to support their research and studies.
+                            </p>
+
+                            <div class="iimk-course-actions">
+                                <button class="iimk-btn-brochure"
+                                    onclick="openBrochurePopup('brochures/esgci_main_brochure.pdf', 'DBA in Leadership & AI Strategy')">
+                                    <i class="fa fa-download"></i>
+                                    <span>Get Brochure</span>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <button class="iimk-btn-counseling" onclick="openPopup()">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                    <span>Book Free Counseling</span>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
