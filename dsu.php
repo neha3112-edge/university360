@@ -576,7 +576,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Recognized</h4>
+                        <h4>AIU Member</h4>
                         <p>Ensures the university's degrees are widely accepted for higher education, employment, and
                             academic equivalence across institutions.</p>
                     </div>
