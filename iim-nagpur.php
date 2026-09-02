@@ -276,7 +276,8 @@
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
                         <h1 class="amity-main-title">Indian Institute of Management Nagpur</h1>
-                        <p class="amity-slogan">Executive Certification <br>from a Premier Institute</p>
+                        <p class="amity-slogan">Advance Your Career with Executive Certification <br>from a Top
+                            Management Institute</p>
 
                         <div class="amity-pill-box">
                             <span class="amity-pill-badge">Certification Programs</span>
@@ -331,7 +332,7 @@
                     <!-- Right Side: Content & Actions -->
                     <div class="col-lg-7 col-md-12">
                         <div class="iimk-course-content">
-                            <h3 class="iimk-course-title">Post Graduate Certificate Programme in Advanced HR Analytics
+                            <h3 class="iimk-course-title">IIM Nagpur PG Certificate Programme in Advanced HR Analytics
                             </h3>
 
                             <div class="iimk-course-highlights">
@@ -339,18 +340,12 @@
                             </div>
 
                             <p class="iimk-course-desc">
-                                The Post Graduate Certificate Programme in Advanced HR Analytics is a 7-month online HRM
-                                post graduate programme offered by IIM Nagpur for mid-career HR professionals with at
-                                least
-                                two years of work experience. The course is designed as one of the industry-focused HR
-                                postgraduate courses; the programme combines live online sessions, hands-on projects, a
-                                two-day campus module, and real-world HR scenarios to help learners apply analytics, AI,
-                                and
-                                predictive models to workforce challenges. The curriculum highlights the benefits of HR
-                                analytics by enabling professionals to make evidence-based decisions, align HR
-                                strategies
-                                with business goals, and create measurable organisational impact through advanced HR
-                                analytics.
+                                The Postgraduate Certificate Programme in Advanced HR Analytics helps HR professionals
+                                and business leaders to develop data-driven skills. Delivered through online practical
+                                sessions for real experience with busy schedules. Learners work with real datasets and
+                                apply advanced analytics techniques to solve real-world HR challenges. The programme
+                                covers concepts from foundational to advanced, making it suitable for beginners and
+                                experienced professionals.
                             </p>
 
                             <div class="iimk-course-actions">
@@ -501,22 +496,18 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-    <section class="amity-steps-section">
+        <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for Post Graduate Certificate Programme in Advanced HR Analytics at IIM Nagpur</h2>
-            <p class="section-desc">UNIVERSITY 360 simplifies your Post Graduate Certificate Programme in Advanced HR
-                Analytics
-                application journey. Follow these steps to
-                understand your program options and complete the application process.</p>
+            <h2>How to Apply for IIM Online Programs?</h2>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
-                        <h4>Submit Form</h4>
-                        <p>Share your details with UNIVERSITY 360 to explore suitable Young Leaders Programme in General
-                            Management.</p>
+                        <h4>Submit Enquiry</h4>
+                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
                     </div>
                 </div>
 
@@ -524,9 +515,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
-                            requirements.</p>
+                        <h4>Get Expert Counselling</h4>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -534,10 +524,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
-                        <h4>Select Program</h4>
-                        <p>Choose a Post Graduate Certificate Programme in Advanced HR Analytics specialization based on
-                            your
-                            professional background and career goals.</p>
+                        <h4>Choose the Right Program</h4>
+                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
                     </div>
                 </div>
 
@@ -545,8 +533,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
-                        <h4>Complete Application</h4>
-                        <p>Complete the application process through the relevant university admission channel.</p>
+                        <h4>Complete the Application</h4>
+                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -554,8 +542,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
-                        <h4>Submit Documents</h4>
-                        <p>Upload the required academic and professional documents as specified by the university.</p>
+                        <h4>Upload Required Documents</h4>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
                     </div>
                 </div>
 
@@ -563,8 +551,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
-                        <h4>Admission Update</h4>
-                        <p>Receive an update regarding your application and next admission steps.</p>
+                        <h4>Admission Confirmation</h4>
+                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -574,51 +562,37 @@
     <!-- Why Choose Section -->
     <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
-            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for Young Leaders Programme in General
-                Management?</h2>
+            <h2 class="amity-whychoose-heading">Why Choose University 360 for IIM Programs?</h2>
             <div class="row align-items-center">
                 <div class="col-lg-8 col-md-7">
                     <div class="row">
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore Young Leaders Programme in
-                                    General Management</h3>
-                                <p>UNIVERSITY 360 helps you explore Post Graduate Certificate Programme in Advanced HR
-                                    Analytics
-                                    programs across
-                                    multiple specializations. Compare programs, eligibility, specializations, and
-                                    admission information in one place.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Globally Recognized Programs
-                                </h3>
-                                <p>Find information on globally recognized Young Leaders Programme in General
-                                    Management. UNIVERSITY 360 helps learners
-                                    review university and program details before choosing a doctoral program.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>The IIM Nagpur Young Leaders Programme in General
-                                    Management is designed for working
-                                    professionals, offering fully online
-                                    flexibility so you can pursue a doctoral qualification while continuing your
-                                    career.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore Young Leaders Programme in
-                                    General Management &amp; Doctoral Options
-                                </h3>
-                                <p>Compare Post Graduate Certificate Programme in Advanced HR Analytics, specializations
-                                    such as
-                                    Finance, HR, Data Science, Marketing,
-                                    and Supply Chain Management based on your professional background and career goals.
-                                </p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
@@ -638,9 +612,11 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top IIMs for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Selecting the right IIM programme can boost career growth, leadership
+                    development, and professional advancement. Get key accreditations and advantages of IIM Kozhikode,
+                    IIM Bangalore, and IIM Nagpur to compare their offerings and make an informed decision for your
+                    career goals:</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -659,130 +635,32 @@
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Rushford
-                                            Business School</span></div>
+                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
+                                            Kozhikode</span></div>
                                 </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
-                                        Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Kozhikode,
+                                        Kerala</span></td>
+                                <td><span class="univ-accred-badge">AMBA, EQUIS, AACSB</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Global
+                                        Standards</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
                             <!-- 2. Golden Gate University -->
                             <tr>
                                 <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Golden Gate
-                                            University</span></div>
+                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
+                                            Bangalore</span></div>
                                 </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> San Francisco,
-                                        California</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
+                                        Karnataka</span></td>
+                                <td><span class="univ-accred-badge">EQUIS</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Industry
+                                        Connections</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
                             <!-- 3. Swiss School of Business and Management -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Swiss School
-                                            of Business and Management</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
-                                        Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 4. IIIT Bangalore -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIIT
-                                            Bangalore</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
-                                        Karnataka</span></td>
-                                <td><span class="univ-accred-badge">UGC | NAAC A+</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 5. ESGCI -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>ESGCI</span>
-                                    </div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 6. Edgewood University -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Edgewood
-                                            University</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Madison,
-                                        Wisconsin</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 7. Liverpool John Moores University -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Liverpool John
-                                            Moores University</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Liverpool, UK</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 8. IIM Kozhikode -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
-                                            Kozhikode</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Kozhikode,
-                                        Kerala</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 9. IIM Bangalore -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
-                                            Bangalore</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
-                                        Karnataka</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 10. IIM Nagpur -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -790,26 +668,13 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Nagpur,
                                         Maharashtra</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
+                                <td><span class="univ-accred-badge">AACSB</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Practical
+                                        Exposure</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 11. Paris School of Business -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Paris School
-                                            of Business</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
+                            <!-- 4. IIIT Bangalore -->
                         </tbody>
                     </table>
                 </div>
@@ -874,15 +739,13 @@
                 <!-- Q1 -->
                 <div class="amity-accordion-item open">
                     <h3 class="amity-accordion-heading">
-                        <span>Q1. How can UNIVERSITY 360 help with IIM Nagpur Young
-                            Leaders Programme in General Management
-                            programs?</span>
+                        <span>Q1. How can UNIVERSITY 360 help with the IIM Nagpur Post Graduate Certificate Program in
+                            Advanced HR Analytics?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
-                            guidance for business professionals exploring IIM Nagpur Young
-                            Leaders Programme in General Management
-                            programs.</p>
+                        <p>University 360 offers program information, counselling, course comparisons and admission
+                            guidance for HR professionals seeking the IIM Nagpur Post Graduate Certificate Program in
+                            Advanced HR Analytics.</p>
                     </div>
                 </div>
 
@@ -906,17 +769,12 @@
                 <!-- Q3 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q3. What is the duration of the Post Graduate Certificate Programme in Advanced HR
-                            Analytics program at
-                            Indian Institute of Management
-                            Bangalore?</span>
+                        <span>Q3. What is the duration of the IIM Nagpur Post Graduate Certificate Program in Advanced
+                            HR Analytics?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The IIM Nagpur Post Graduate Certificate Programme in Advanced HR Analytics
-                            program is typically completed in 36 months
-                            (3 years).
-                            The program is designed for working professionals and can be pursued alongside a full-time
-                            career.</p>
+                        <p>The IIM Nagpur Post Graduate Certificate Program in Advanced HR Analytics lasts 7 months. The
+                            program is structured for working professionals.</p>
                     </div>
                 </div>
 
@@ -954,17 +812,13 @@
                 <!-- Q6 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q6. Can I pursue the Post Graduate Certificate Programme in Advanced HR Analytics program
-                            online while
-                            working full-time?</span>
+                        <span>Q6. Can I pursue the IIM Nagpur Post Graduate Certificate Program in Advanced HR Analytics
+                            while working full-time?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. The IIM Nagpur Young Leaders Programme in General
-                            Management program is specifically structured for
-                            working professionals,
-                            offering
-                            flexible online learning with live and recorded sessions, so you can balance your career
-                            and doctoral studies effectively.</p>
+                        <p>Yes, the IIM Nagpur Post Graduate Certificate Program in Advanced HR Analytics is
+                            specifically suited for working professionals, offering flexible online learning with live
+                            and recorded sessions to accommodate busy schedules.</p>
                     </div>
                 </div>
             </div>

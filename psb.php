@@ -458,8 +458,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in AI and Technology</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in AI and
-                                Technology program, designed for global leaders.</p>
+                            <p>Build skills to handle artificial intelligence, emerging technologies, digital
+                                transformation, and technology-driven business strategies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in AI and Technology')">
@@ -477,8 +477,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Finance</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Finance
-                                program, designed for global leaders.</p>
+                            <p>Build industry-aligned knowledge in financial management, investment analysis, corporate
+                                finance, risk management, and strategic financial decision-making.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in Finance')">
@@ -496,8 +496,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Marketing</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Marketing
-                                program, designed for global leaders.</p>
+                            <p>Develop knowledge of marketing strategy, consumer behaviour, branding, digital marketing,
+                                and market research to drive business growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in Marketing')">
@@ -516,8 +516,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Operations and Supply Chain</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Operations
-                                and Supply Chain program, designed for global leaders.</p>
+                            <p>Learn to manage business operations, logistics, supply chains, and processes to improve
+                                organisational performance.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in Operations and Supply Chain')">
@@ -664,17 +664,18 @@
     <!-- How to Apply Steps Section -->
     <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for a MBA Program at Paris School of Business</h2>
-            <p class="section-desc">UNIVERSITY 360 simplifies your MBA application journey. Follow these steps to
-                understand your program options and complete the application process.</p>
+            <h2>How to Apply for International University Online Programs?</h2>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
-                        <h4>Submit Form</h4>
-                        <p>Share your details with UNIVERSITY 360 to explore suitable MBA programs.</p>
+                        <h4>Submit Enquiry</h4>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -682,9 +683,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
-                            requirements.</p>
+                        <h4>Get Expert Counselling</h4>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -692,8 +693,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
-                        <h4>Select Program</h4>
-                        <p>Choose a MBA specialization based on your professional background and career goals.</p>
+                        <h4>Choose the Right Program</h4>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -701,8 +703,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
-                        <h4>Complete Application</h4>
-                        <p>Complete the application process through the relevant university admission channel.</p>
+                        <h4>Complete the Application</h4>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -710,8 +713,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
-                        <h4>Submit Documents</h4>
-                        <p>Upload the required academic and professional documents as specified by the university.</p>
+                        <h4>Upload Required Documents</h4>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -719,8 +723,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
-                        <h4>Admission Update</h4>
-                        <p>Receive an update regarding your application and next admission steps.</p>
+                        <h4>Admission Confirmation</h4>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -728,50 +733,39 @@
     </section>
 
     <!-- Why Choose Section -->
-    <section class="amity-whychoose-section" id="whychoose">
+        <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
-            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for MBA Programs?</h2>
+            <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
                 <div class="col-lg-8 col-md-7">
                     <div class="row">
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA Programs</h3>
-                                <p>UNIVERSITY 360 helps you explore Doctor of Business Administration programs across
-                                    multiple specializations. Compare programs, eligibility, specializations, and
-                                    admission information in one place.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Globally Recognized Programs
-                                </h3>
-                                <p>Find information on globally recognized MBA programs. UNIVERSITY 360 helps learners
-                                    review university and program details before choosing a doctoral program.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>The Paris School of Business MBA is designed for working professionals, offering
-                                    fully online
-                                    flexibility so you can pursue a doctoral qualification while continuing your
-                                    career.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Doctoral Options
-                                </h3>
-                                <p>Compare MBA programs, specializations such as Finance, HR, Data Science, Marketing,
-                                    and Supply Chain Management based on your professional background and career goals.
-                                </p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
+                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
-                                class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -785,9 +779,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering online programs in 2026 and
+                    allow students to study comfortably from any location. Compare their locations, accreditations, and
+                    key advantages to choose the right university for your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -1032,12 +1027,14 @@
                 <!-- Q2 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q2. What is the eligibility for a MBA program at Paris School of Business?</span>
+                        <span>Q2. What is the eligibility for an MBA program at Paris School of Business?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the MBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>To be eligible for the MBA program at Paris School of Business (PSB), candidates must hold a
+                            4-year bachelor’s degree with at least 3 years of work experience or a 3-year bachelor’s
+                            degree with at least 5 years of work experience. Additionally, successful completion of the
+                            IIM Lucknow phase is required to progress to the PSB phase and subsequently earn the MBA
+                            degree from Paris School of Business. The admissions process is selective.</p>
                     </div>
                 </div>
 
@@ -1047,9 +1044,7 @@
                         <span>Q3. What is the duration of the MBA program at Paris School of Business?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The Paris School of Business MBA program is typically completed in 36 months (3 years).
-                            The program is designed for working professionals and can be pursued alongside a full-time
-                            career.</p>
+                        <p>The duration of the MBA program at Paris School of Business is 18 months.</p>
                     </div>
                 </div>
 
@@ -1059,9 +1054,9 @@
                         <span>Q4. Is the MBA from Paris School of Business globally recognized?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Paris School of Business is an internationally recognized business school. The MBA degree
-                            is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                        <p>Yes, the MBA from Paris School of Business is internationally recognised because it is
+                            evaluated by World Education Services (WES). This recognition supports its acceptance for
+                            further education and professional purposes in various countries.</p>
                     </div>
                 </div>
 
@@ -1083,10 +1078,10 @@
                         <span>Q6. Can I pursue the MBA program online while working full-time?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. The Paris School of Business MBA program is specifically structured for working
-                            professionals, offering
-                            flexible online learning with live and recorded sessions, so you can balance your career
-                            and doctoral studies effectively.</p>
+                        <p>Yes, the Paris School of Business MBA program is specifically designed for working
+                            professionals and offers a flexible online learning format with live and recorded sessions.
+                            This flexibility allows learners to balance their professional responsibilities while
+                            pursuing their MBA and advancing their careers effectively.</p>
                     </div>
                 </div>
             </div>

@@ -424,8 +424,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Business Analytics</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Business
-                                Analytics program, designed for global leaders.</p>
+                            <p>Develop skills in data analysis, business intelligence, data-driven decision-making, and
+                                using analytics to solve business challenges.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Business Analytics')">
@@ -445,8 +445,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Finance</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Finance
-                                program, designed for global leaders.</p>
+                            <p>Gain a broad knowledge of financial management, investment analysis, corporate finance,
+                                risk management, and strategic decision-making.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Finance')">
@@ -467,8 +467,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Marketing</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Marketing
-                                program, designed for global leaders.</p>
+                            <p>Develop advanced knowledge of marketing strategy, consumer behaviour, branding, digital
+                                marketing, and market research to drive business growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Marketing')">
@@ -489,8 +489,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Leadership</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Leadership
-                                program, designed for global leaders.</p>
+                            <p>Learn important leadership, communication, strategic thinking, and decision-making skills
+                                to lead teams and organisations effectively.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Leadership')">
@@ -511,8 +511,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Human Resource Management</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Human
-                                Resource Management program, designed for global leaders.</p>
+                            <p>Build skills in talent management, employee engagement, leadership, recruitment, and
+                                strategic human resource planning.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Human Resource Management')">
@@ -533,8 +533,8 @@
                         <div class="amity-course-body">
                             <h3>MBA in Operations and Supply Chain Management</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA in Operations
-                                and Supply Chain Management program, designed for global leaders.</p>
+                            <p>Develop skills to manage business operations, logistics, supply chains, quality, and
+                                processes to improve organisational productivity.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/liverpool_main_brochure.pdf', 'MBA in Operations and Supply Chain Management')">
@@ -691,17 +691,18 @@
     <!-- How to Apply Steps Section -->
     <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for a MBA Program at Liverpool John Moores University</h2>
-            <p class="section-desc">UNIVERSITY 360 simplifies your MBA application journey. Follow these steps to
-                understand your program options and complete the application process.</p>
+            <h2>How to Apply for International University Online Programs?</h2>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
-                        <h4>Submit Form</h4>
-                        <p>Share your details with UNIVERSITY 360 to explore suitable MBA programs.</p>
+                        <h4>Submit Enquiry</h4>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -709,9 +710,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
-                            requirements.</p>
+                        <h4>Get Expert Counselling</h4>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -719,8 +720,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
-                        <h4>Select Program</h4>
-                        <p>Choose a MBA specialization based on your professional background and career goals.</p>
+                        <h4>Choose the Right Program</h4>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -728,8 +730,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
-                        <h4>Complete Application</h4>
-                        <p>Complete the application process through the relevant university admission channel.</p>
+                        <h4>Complete the Application</h4>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -737,8 +740,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
-                        <h4>Submit Documents</h4>
-                        <p>Upload the required academic and professional documents as specified by the university.</p>
+                        <h4>Upload Required Documents</h4>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -746,8 +750,9 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
-                        <h4>Admission Update</h4>
-                        <p>Receive an update regarding your application and next admission steps.</p>
+                        <h4>Admission Confirmation</h4>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -755,49 +760,39 @@
     </section>
 
     <!-- Why Choose Section -->
-    <section class="amity-whychoose-section" id="whychoose">
+        <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
-            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for MBA Programs?</h2>
+            <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
                 <div class="col-lg-8 col-md-7">
                     <div class="row">
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA Programs</h3>
-                                <p>UNIVERSITY 360 helps you explore Doctor of Business Administration programs across
-                                    multiple specializations. Compare programs, eligibility, specializations, and
-                                    admission information in one place.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Globally Recognized Programs
-                                </h3>
-                                <p>Find information on globally recognized MBA programs. UNIVERSITY 360 helps learners
-                                    review university and program details before choosing a doctoral program.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>The Liverpool MBA is designed for working professionals, offering fully online
-                                    flexibility so you can pursue a doctoral qualification while continuing your
-                                    career.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Doctoral Options
-                                </h3>
-                                <p>Compare MBA programs, specializations such as Finance, HR, Data Science, Marketing,
-                                    and Supply Chain Management based on your professional background and career goals.
-                                </p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
+                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
-                                class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -811,9 +806,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
+                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -837,9 +833,9 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
                                         Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">QS, ACBSP, BGA, IACBE</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> 9K+ Alumni</span>
+                                </td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
@@ -851,9 +847,9 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> San Francisco,
                                         California</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">QS, WASC</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> 100% program
+                                        integrated with AI</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
@@ -863,29 +859,13 @@
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Swiss School
                                             of Business and Management</span></div>
                                 </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
-                                        Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Switzerland</span></td>
+                                <td><span class="univ-accred-badge">ACBSP, BAC</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> 7k Alumni</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 4. IIIT Bangalore -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIIT
-                                            Bangalore</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
-                                        Karnataka</span></td>
-                                <td><span class="univ-accred-badge">UGC | NAAC A+</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 5. ESGCI -->
+                            <!-- 4. ESGCI -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>ESGCI</span>
@@ -893,13 +873,13 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
                                 </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">ACBSP</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> World-recognised
+                                        degree</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 6. Edgewood University -->
+                            <!-- 5. Edgewood University -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Edgewood
@@ -907,69 +887,27 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Madison,
                                         Wisconsin</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">CHEA, WES</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Scholarships</span>
+                                </td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 7. Liverpool John Moores University -->
+                            <!-- 6. Liverpool John Moores University -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Liverpool John
                                             Moores University</span></div>
                                 </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Liverpool, UK</span>
+                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> United Kingdom</span>
                                 </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">Privy Council & WES</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Global
+                                        opportunities</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 8. IIM Kozhikode -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
-                                            Kozhikode</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Kozhikode,
-                                        Kerala</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 9. IIM Bangalore -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
-                                            Bangalore</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
-                                        Karnataka</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 10. IIM Nagpur -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
-                                            Nagpur</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Nagpur,
-                                        Maharashtra</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 11. Paris School of Business -->
+                            <!-- 7. Paris School of Business -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Paris School
@@ -977,9 +915,9 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
                                 </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">EQUIS, AACSB, and AMBA</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Career
+                                        services</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
@@ -1047,7 +985,7 @@
                 <!-- Q1 -->
                 <div class="amity-accordion-item open">
                     <h3 class="amity-accordion-heading">
-                        <span>Q1. How can UNIVERSITY 360 help with Liverpool John Moores University MBA programs?</span>
+                        <span>Q1. How can University 360 help with Liverpool John Moores University MBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
@@ -1059,12 +997,13 @@
                 <!-- Q2 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q2. What is the eligibility for a MBA program at Liverpool John Moores University?</span>
+                        <span>Q2. What is the eligibility for an MBA program at Liverpool John Moores University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the MBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>To apply for the MBA program at Liverpool John Moores University, candidates must hold a
+                            valid bachelor’s degree from a recognised university with a minimum of 50% marks.
+                            Additionally, applicants must have at least two years of full-time work experience by the
+                            second year of the course.</p>
                     </div>
                 </div>
 
@@ -1074,35 +1013,30 @@
                         <span>Q3. What is the duration of the MBA program at Liverpool John Moores University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The Liverpool John Moores University MBA program is typically completed in 36 months (3
-                            years).
-                            The program is designed for working professionals and can be pursued alongside a full-time
-                            career.</p>
+                        <p>The duration of the MBA program at Liverpool John Moores University is 18 months.</p>
                     </div>
                 </div>
 
                 <!-- Q4 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q4. Is the MBA from Liverpool John Moores University globally recognized?</span>
+                        <span>Q4. Is the MBA from Liverpool John Moores University globally recognised?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Liverpool John Moores University is an internationally recognized business school. The MBA
-                            degree
-                            is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                        <p>Yes, the MBA from Liverpool John Moores University is globally recognised because it is
+                            evaluated by World Education Services (WES), which supports its acceptance for further
+                            education and professional purposes in various countries.</p>
                     </div>
                 </div>
 
                 <!-- Q5 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q5. Can UNIVERSITY 360 help me compare MBA programs and doctoral options?</span>
+                        <span>Q5. Can University 360 help me compare MBA programs and doctoral options?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. UNIVERSITY 360 helps learners compare MBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
-                            information.</p>
+                        <p>Yes. UNIVERSITY 360 helps learners compare MBA programs based on factors such as eligibility,
+                            specialisation, curriculum, duration, and other available program information.</p>
                     </div>
                 </div>
 
@@ -1112,9 +1046,10 @@
                         <span>Q6. Can I pursue the MBA program online while working full-time?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. The Liverpool MBA program is specifically structured for working professionals, offering
-                            flexible online learning with live and recorded sessions, so you can balance your career
-                            and doctoral studies effectively.</p>
+                        <p>Yes. The Liverpool MBA program is specifically designed for working professionals and offers
+                            a flexible online learning format with live and recorded sessions. This flexibility allows
+                            learners to balance their professional responsibilities while pursuing their MBA and
+                            advancing their careers effectively.</p>
                     </div>
                 </div>
             </div>

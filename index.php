@@ -114,7 +114,7 @@
 		{
 		  "@type": "CreativeWork",
 		  "name": "Why 10,000+ Students Trust UNIVERSITY 360",
-		  "text": "Expert Career Counselling (personalized guidance from experienced counsellors), Trusted University Information (accurate details about UGC-approved online & distance universities), Wide Range of Programs (compare online degree courses, distance education, and diplomas), Personalized Course Recommendations (matching interests and budget), End-to-End Admission Support (assistance with course selection, eligibility, documentation), and Student-Centric Approach."
+		  "text": "Expert Career Counselling (personalized guidance from experienced counsellors), Trusted University Information (accurate details about UGC-approved online & distance universities), Wide Range of Courses (compare online degree courses, distance education, and diplomas), Personalized Course Recommendations (matching interests and budget), End-to-End Admission Support (assistance with course selection, eligibility, documentation), and Student-Centric Approach."
 		},
 		{
 		  "@type": "CreativeWork",
@@ -373,8 +373,8 @@
 						<h2><b>University360: Authorized Counselling Partner for Top Online Universities</b></h2>
 						<p class="univ-section-desc"
 							style="color: #555; font-size: 14px; margin-top: 6px; margin-bottom: 20px; line-height: 1.5;">
-							Trusted universities recognized by UGC and other regulatory bodies. Compare approvals,
-							locations, and fees to find the right fit for your career goals.</p>
+							Compare UGC-recognized universities on approvals, programmes, locations, and fees to choose
+							an institution that matches your academic and career goals.</p>
 					</div>
 				</div>
 
@@ -1017,19 +1017,23 @@
 			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
 
 			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
+				University 360 is a reliable platform that helps students explore distance education universities and
+				online learning options across India. We provide clear and useful information about universities,
+				courses, admissions, eligibility, fees, approvals, and career opportunities. This makes it easier for
+				learners to understand their choices and select a course that suits their goals.
 			</p>
 
 			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
+				Whether a learner is looking for online universities in India, an MBA, a computer application course, or
+				any other course, University 360 helps them compare options based on their interests, qualifications,
+				etc. We also provide insights into UGC-approved distance education universities, helping students make
+				the right decisions about where and how they want to study.
+			</p>
+
+			<p class="about-u360-text">
+				Our goal is simple: to make higher education easier to understand and easier to choose. With practical
+				university information, personalised guidance, and student-focused support, we help learners find
+				suitable courses and plan their education.
 			</p>
 
 			<div class="about-u360-btns">
@@ -1097,8 +1101,8 @@
 							<img src="images/ic-2.webp" alt="Expert Career Counselling">
 							<div class="working-p-cnt">
 								<h4>Expert Career Counselling</h4>
-								<p>Get personalized guidance from experienced counsellors to choose the right course and
-									university.</p>
+								<p>Personalised Career Guidance:- Get personalised guidance from expert counsellors in
+									choosing the right university and course.</p>
 							</div>
 						</div>
 					</div>
@@ -1108,8 +1112,8 @@
 							<img src="images/ic-1.webp" alt="Trusted University Information">
 							<div class="working-p-cnt">
 								<h4>Trusted University Information</h4>
-								<p>Explore accurate and up-to-date details about UGC-approved online and distance
-									education universities.</p>
+								<p>Learn about the best distance education universities and get accurate and up-to-date
+									details.</p>
 							</div>
 						</div>
 					</div>
@@ -1118,9 +1122,9 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="working-p-box">
-							<img src="images/ic3.webp" alt="Wide Range of Programs">
+							<img src="images/ic3.webp" alt="Wide Range of Courses">
 							<div class="working-p-cnt">
-								<h4>Wide Range of Programs</h4>
+								<h4>Wide Range of Courses</h4>
 								<p>Compare online degree courses, distance education programs, diplomas, UG, and PG
 									courses in one place.</p>
 							</div>
@@ -1131,8 +1135,10 @@
 						<div class="working-p-box">
 							<img src="images/ic5.webp" alt="Personalized Course Recommendations">
 							<div class="working-p-cnt">
-								<h4>Personalized Course Recommendations</h4>
-								<p>Find programs that match your interests, qualifications, career goals, and budget.
+								<h4>Find the Right Course
+								</h4>
+								<p>Find the right course based on your qualifications, interests, career goals, and
+									budget.
 								</p>
 							</div>
 						</div>
@@ -1435,7 +1441,7 @@
 					</button>
 					<div class="accordion-content">
 						<p>
-							We help students compare universities, explore online degree programs, understand
+							We help students compare online universities, explore degree programs, understand
 							eligibility, fees, approvals, and choose the right course based on their career goals.
 						</p>
 					</div>
@@ -1447,8 +1453,11 @@
 					</button>
 					<div class="accordion-content">
 						<p>
-							Yes. We feature information about universities that are recognized by regulatory bodies such
-							as UGC, UGC-DEB, NAAC, and other relevant authorities, wherever applicable.
+							Yes, we feature recognised and approved institutions offering online and distance education
+							programmes. Students can check the list of distance education universities approved by UGC
+							and online universities before applying. We recommend verifying the university, course, mode
+							of delivery, and applicable academic session on the official UGC-DEB portal before taking
+							admission.
 						</p>
 					</div>
 				</div>

@@ -535,19 +535,18 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-    <section class="amity-steps-section">
+        <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for a DBA Program at Golden Gate University</h2>
-            <p class="section-desc">UNIVERSITY 360 simplifies your DBA application journey. Follow these steps to
-                understand your program options and complete the application process.</p>
+            <h2>How to Apply for International University Online Programs?</h2>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
-                        <h4>Submit Form</h4>
-                        <p>Share your details with UNIVERSITY 360 to explore suitable DBA programs.</p>
+                        <h4>Submit Enquiry</h4>
+                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
                     </div>
                 </div>
 
@@ -555,9 +554,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
-                            requirements.</p>
+                        <h4>Get Expert Counselling</h4>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -565,8 +563,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
-                        <h4>Select Program</h4>
-                        <p>Choose a DBA specialization based on your professional background and career goals.</p>
+                        <h4>Choose the Right Program</h4>
+                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
                     </div>
                 </div>
 
@@ -574,8 +572,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
-                        <h4>Complete Application</h4>
-                        <p>Complete the application process through the relevant university admission channel.</p>
+                        <h4>Complete the Application</h4>
+                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -583,8 +581,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
-                        <h4>Submit Documents</h4>
-                        <p>Upload the required academic and professional documents as specified by the university.</p>
+                        <h4>Upload Required Documents</h4>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
                     </div>
                 </div>
 
@@ -592,8 +590,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
-                        <h4>Admission Update</h4>
-                        <p>Receive an update regarding your application and next admission steps.</p>
+                        <h4>Admission Confirmation</h4>
+                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -601,49 +599,39 @@
     </section>
 
     <!-- Why Choose Section -->
-    <section class="amity-whychoose-section" id="whychoose">
+        <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
-            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for DBA Programs?</h2>
+            <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
                 <div class="col-lg-8 col-md-7">
                     <div class="row">
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore DBA Programs</h3>
-                                <p>UNIVERSITY 360 helps you explore Doctor of Business Administration programs across
-                                    multiple specializations. Compare programs, eligibility, specializations, and
-                                    admission information in one place.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Globally Recognized Programs
-                                </h3>
-                                <p>Find information on globally recognized DBA programs. UNIVERSITY 360 helps learners
-                                    review university and program details before choosing a doctoral program.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>The GGU DBA is designed for working professionals, offering fully online
-                                    flexibility so you can pursue a doctoral qualification while continuing your
-                                    career.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore DBA &amp; Doctoral Options
-                                </h3>
-                                <p>Compare DBA programs, specializations such as Finance, HR, Data Science, Marketing,
-                                    and Supply Chain Management based on your professional background and career goals.
-                                </p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
+                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
-                                class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
