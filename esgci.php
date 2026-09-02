@@ -100,7 +100,7 @@
         </div>
     </section>
 
-    
+
     <!-- Programmes / Course Cards Section -->
     <!-- <section class="amity-programmes-section" id="programmes">
         <div class="container">
@@ -136,41 +136,41 @@
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
             <h2 class="approvals-main-heading text-center">Accreditation and Approvals of ESGCI Business School</h2>
-            <div class="row mt-4">
+            <div class="row mt-4 custom_accreditation_row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <div class="approval-icon"><img src="images/REPUBLIQUE.webp" alt="REPUBLIQUE"></div>
+                        <h4>French Ministry of Higher Education</h4>
+                        <p>The French Ministry of Higher Education has assessed and recognised ESGCI for imparting high
+                            quality business education.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        <div class="approval-icon"><img src="images/QUALIOPI.webp" alt="QUALIOPI">
                         </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
+                        <h4>QUALIOPI</h4>
+                        <p>ESGCI holds the Qualiopi certification, which is a quality certification mark for training
+                            organisations registered with the Institute of Industrial Property (INPI) in France.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="Globally Accredited"></div>
-                        <h4>Globally Accredited</h4>
-                        <p>ESGCI is internationally recognized, ensuring the DBA degree meets global
-                            academic and professional standards.</p>
+                        <div class="approval-icon"><img src="images/ACBSP.webp" alt="ACBSP"></div>
+                        <h4>ACBSP</h4>
+                        <p>ESGCI is a member of ACBSP, a premiere US based specialised accreditation body for business
+                            schools and programs worldwide. </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
+                        <div class="approval-icon"><img src="images/IACBE.webp" alt="IACBE"></div>
+                        <h4>IACBE</h4>
+                        <p>ESGCI is a member of IACBE, a global accrediting agency that evaluates univesities on student
+                            learning outcomes rather than just measuring campus resources.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
@@ -185,7 +185,7 @@
                         <p>Ensures the university's degrees are widely accepted for higher education, employment, and
                             academic equivalence across institutions.</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -235,46 +235,46 @@
         </div>
     </section> -->
 
-<section id="achievment">
+    <section id="achievment">
         <div class="container">
-		<div id="facts" style="margin-bottom: 0px !important;">
-			<div class="row">
-				<div class="col-md-3" id="fact-box">
+            <div id="facts" style="margin-bottom: 0px !important;">
+                <div class="row">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/student-enrolled.webp">
-					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+                        <img src="images/student-enrolled.webp">
+                        <h4>30K+</h4>
+                        <p>Students <br>Counselled</p>
 
-				</div>
-
-
-				<div class="col-md-3" id="fact-box">
-
-					<img src="images/counseling-experts.webp">
-					<h4>100+</h4>
-					<p>Education <br>Experts</p>
-				</div>
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/specialisation.webp">
-					<h4>25+</h4>
-					<p>Online &amp; Distance <br>Programs</p>
+                        <img src="images/counseling-experts.webp">
+                        <h4>100+</h4>
+                        <p>Education <br>Experts</p>
+                    </div>
 
-				</div>
+
+                    <div class="col-md-3" id="fact-box">
+
+                        <img src="images/specialisation.webp">
+                        <h4>25+</h4>
+                        <p>Online &amp; Distance <br>Programs</p>
+
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/university.webp">
-					<h4>20+</h4>
-					<p>Recognized <br>Universities</p>
+                        <img src="images/university.webp">
+                        <h4>20+</h4>
+                        <p>Recognized <br>Universities</p>
 
-				</div>
-			</div>
-		</div>
-	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- How to Apply Steps Section -->
@@ -417,7 +417,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -602,31 +602,31 @@
     </section> -->
 
     <section id="about-u360" class="about-u360-section">
-		<div class="container about-u360-container">
-			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
+        <div class="container about-u360-container">
+            <h2 class="about-u360-title">About UNIVERSITY 360</h2>
 
-			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
-			</p>
+            <p class="about-u360-text">
+                University 360 is your trusted partner in achieving your higher education goals. We guide students in
+                choosing the right online degree courses and distance education courses through expert career
+                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                opportunities, helping students make confident decisions.
+            </p>
 
-			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
-			</p>
+            <p class="about-u360-text">
+                Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
+                diploma course, University 360 connects you with the best options based on your career aspirations. With
+                reliable university insights, expert support, and student-focused services, we empower learners across
+                India to choose the right course, build the right skills, and create a successful future with
+                confidence.
+            </p>
 
-			<div class="about-u360-btns">
-				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
-				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
-			</div>
-		</div>
-	</section>
+            <div class="about-u360-btns">
+                <button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
+                <button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
+            </div>
+        </div>
+    </section>
 
     <!-- FAQs Section -->
     <section class="amity-faqs-section" id="faqs">

@@ -5244,3 +5244,28 @@ body.legal-page-body {
     align-items: center;
   }
 }
+
+
+
+
+
+
+
+.custom_accreditation_row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.custom_accreditation_row .col-lg-4.col-md-6.col-sm-6 {
+  width: 100%;
+}
+
+.custom_accreditation_row img {
+  height: 80px !important;
+}
+
+@media only screen and (max-width:768px) {
+  .custom_accreditation_row {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
