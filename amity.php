@@ -295,176 +295,11 @@
         </div>
     </section>
 
-    <!-- About Section -->
-    <!-- <section class="amity-about-section" id="sode_about">
-        <div class="container">
-            <h2 class="amity-section-heading">About UNIVERSITY 360</h2>
-            <h3 class="amity-section-subheading">Your Guide to Online Degree Courses & Higher Education</h3>
-
-            <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping students make informed decisions about their higher education.
-                We connect aspiring learners with recognized universities offering online and distance education
-                programs while providing expert guidance at every stage of their academic journey.</p>
-
-            <p class="amity-about-text">Whether you're a student planning your first degree, a graduate looking for
-                higher studies, or a working professional aiming to upskill, we help you find a course that aligns with
-                your career goals and aspirations.</p>
-
-            <div class="amity-about-actions">
-                <button class="amity-btn-get-help" onclick="openPopup()">Get Help</button>
-                <a href="#programmes" class="amity-btn-explore-courses">Explore Courses</a>
-            </div>
-        </div>
-    </section> -->
-
-<section id="about-u360" class="about-u360-section">
-		<div class="container about-u360-container">
-			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
-
-			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
-			</p>
-
-			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
-			</p>
-
-			<div class="about-u360-btns">
-				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
-				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
-			</div>
-		</div>
-	</section>
-
-    <!-- Why Choose Section -->
-    <section class="amity-whychoose-section" id="whychoose">
-        <div class="container">
-            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for Online Degree Courses?</h2>
-            <div class="row align-items-center">
-                <div class="col-lg-8 col-md-7">
-                    <div class="row">
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
-                                <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
-                                    admission information in one place.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Accredited Programs</h3>
-                                <p>Find information on accredited online degree programs and UGC-approved online degree
-                                    courses in India. UNIVERSITY 360 helps learners review university and program
-                                    details before choosing an online degree.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Options After 12th</h3>
-                                <p>Looking for online degree courses after 12th or distance education courses after
-                                    12th? UNIVERSITY 360 makes it easier to discover available undergraduate programs
-                                    and understand the requirements.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-4">
-                            <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA & Other Programs</h3>
-                                <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
-                                    goals.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
-                                class="btn-arrow">&#10132;</span></button>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
-                    <img src="images/new-boy.webp" alt="University 360 Student" class="amity-why-student-img img-fluid">
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Approvals & Recognition Section -->
-    <section class="amity-approvals-section" id="approvals">
-        <div class="container">
-            <h2 class="approvals-main-heading text-center">UNIVERSITY 360 Checklist for Trusted Universities &
-                Courses<br>Approvals & Recognition
-            </h2>
-            <div class="row mt-4">
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
-                        </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
-                        <h4>NAAC Accredited</h4>
-                        <p>Shows that the university meets high standards of teaching, infrastructure, research, and
-                            overall educational quality.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
-                        <h4>NIRF Ranked</h4>
-                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Recognized</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
-                            academic equivalence across institutions.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>UNIVERSITY 360<br>Online Degree Courses</h2>
+            <h2>Amity University Online Courses</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- BCA -->
@@ -641,6 +476,69 @@
         </div>
     </section>
 
+    <!-- Approvals & Recognition Section -->
+    <section class="amity-approvals-section" id="approvals">
+        <div class="container">
+            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Amity University</h2>
+            <div class="row mt-4">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
+                        <h4>UGC Approved</h4>
+                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
+                            degrees are valid across India.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        </div>
+                        <h4>UGC-DEB Recognized</h4>
+                        <p>Confirms that the university is authorized to offer online and distance education programs as
+                            per UGC-DEB guidelines.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
+                        <h4>NAAC Accredited</h4>
+                        <p>Shows that the university meets high standards of teaching, infrastructure, research, and
+                            overall educational quality.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
+                        <h4>AICTE Approved</h4>
+                        <p>Indicates that technical and management programs comply with the quality standards set by
+                            AICTE.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
+                        <h4>NIRF Ranked</h4>
+                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
+                            outcomes, and overall excellence.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="amity-approval-card">
+                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
+                        <h4>AIU Recognized</h4>
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                            academic equivalence across institutions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Key Highlights Section -->
     <!-- <section class="amity-highlights-section" id="achievment">
         <div class="container">
@@ -731,7 +629,7 @@
     <!-- How to Apply Steps Section -->
     <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for Online Degree Courses with UNIVERSITY 360</h2>
+            <h2>How to Apply for Online Degree Courses of Amity University</h2>
             <p class="section-desc">UNIVERSITY 360 simplifies the process of exploring and applying for online degree courses in India. Follow these steps to understand your course options and complete the application process.</p>
 
             <div class="row">
@@ -787,6 +685,58 @@
                         <h4>Admission Update</h4>
                         <p>Receive an update regarding your application and next admission steps.</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Section -->
+    <section class="amity-whychoose-section" id="whychoose">
+        <div class="container">
+            <h2 class="amity-whychoose-heading">Why Choose UNIVERSITY 360 for Online Degree Courses?</h2>
+            <div class="row align-items-center">
+                <div class="col-lg-8 col-md-7">
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
+                                <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
+                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    admission information in one place.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Compare Accredited Programs</h3>
+                                <p>Find information on accredited online degree programs and UGC-approved online degree
+                                    courses in India. UNIVERSITY 360 helps learners review university and program
+                                    details before choosing an online degree.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Options After 12th</h3>
+                                <p>Looking for online degree courses after 12th or distance education courses after
+                                    12th? UNIVERSITY 360 makes it easier to discover available undergraduate programs
+                                    and understand the requirements.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="amity-why-item">
+                                <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA & Other Programs</h3>
+                                <p>Compare MBA online degree programs, distance education MBA courses, computer science
+                                    programs, and other online degrees and programs based on your education and career
+                                    goals.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="amity-why-action">
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
+                    <img src="images/new-boy.webp" alt="University 360 Student" class="amity-why-student-img img-fluid">
                 </div>
             </div>
         </div>
@@ -1358,6 +1308,55 @@
             </div>
         </div>
     </section>
+
+    <!-- About Section -->
+    <!-- <section class="amity-about-section" id="sode_about">
+        <div class="container">
+            <h2 class="amity-section-heading">About UNIVERSITY 360</h2>
+            <h3 class="amity-section-subheading">Your Guide to Online Degree Courses & Higher Education</h3>
+
+            <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
+                counselling platform dedicated to helping students make informed decisions about their higher education.
+                We connect aspiring learners with recognized universities offering online and distance education
+                programs while providing expert guidance at every stage of their academic journey.</p>
+
+            <p class="amity-about-text">Whether you're a student planning your first degree, a graduate looking for
+                higher studies, or a working professional aiming to upskill, we help you find a course that aligns with
+                your career goals and aspirations.</p>
+
+            <div class="amity-about-actions">
+                <button class="amity-btn-get-help" onclick="openPopup()">Get Help</button>
+                <a href="#programmes" class="amity-btn-explore-courses">Explore Courses</a>
+            </div>
+        </div>
+    </section> -->
+
+<section id="about-u360" class="about-u360-section">
+		<div class="container about-u360-container">
+			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
+
+			<p class="about-u360-text">
+				University 360 is your trusted partner in achieving your higher education goals. We guide students in
+				choosing the right online degree courses and distance education courses through expert career
+				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
+				universities, accredited online degree programs, admissions, eligibility, fees, and career
+				opportunities, helping students make confident decisions.
+			</p>
+
+			<p class="about-u360-text">
+				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
+				diploma course, University 360 connects you with the best options based on your career aspirations. With
+				reliable university insights, expert support, and student-focused services, we empower learners across
+				India to choose the right course, build the right skills, and create a successful future with
+				confidence.
+			</p>
+
+			<div class="about-u360-btns">
+				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
+				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
+			</div>
+		</div>
+	</section>
 
     <!-- FAQs Section -->
     <section class="amity-faqs-section" id="faqs">
