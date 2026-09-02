@@ -332,7 +332,7 @@
         </div>
     </section>
 
-    
+
     <!-- Programmes / Course Cards Section -->
     <!-- <section class="amity-programmes-section" id="programmes">
         <div class="container">
@@ -367,57 +367,24 @@
     <!-- Approvals & Recognition Section -->
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
-            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Indian Institute of Management Bangalore</h2>
-            <div class="row mt-4">
+            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Indian Institute of Management
+                Bangalore</h2>
+            <div class="row mt-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <div class="approval-icon"><img src="images/amba.webp" alt="AMBA"></div>
+                        <h4>AMBA</h4>
+                        <p>Accredited by the Association of MBAs (AMBA), UK, certifying that IIM Bangalore meets the
+                            highest international standards in postgraduate management education.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        <div class="approval-icon"><img src="images/equis.webp" alt="EQUIS">
                         </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="Globally Accredited"></div>
-                        <h4>Globally Accredited</h4>
-                        <p>Indian Institute of Management Bangalore is internationally recognized, ensuring the Young
-                            Leaders Programme in General Management
-                            degree meets global
-                            academic and professional standards.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
-                        <h4>NIRF Ranked</h4>
-                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
-                            academic equivalence across institutions.</p>
+                        <h4>EQUIS</h4>
+                        <p>Accredited by EQUIS (EFMD), recognizing IIM Bangalore's world-class academic rigour,
+                            international reach, and excellence in business education.</p>
                     </div>
                 </div>
             </div>
@@ -514,7 +481,8 @@
     <!-- How to Apply Steps Section -->
     <section class="amity-steps-section">
         <div class="container">
-            <h2>How to Apply for Young Leaders Programme in General Management at Indian Institute of Management Bangalore</h2>
+            <h2>How to Apply for Young Leaders Programme in General Management at Indian Institute of Management
+                Bangalore</h2>
             <p class="section-desc">UNIVERSITY 360 simplifies your Young Leaders Programme in General Management
                 application journey. Follow these steps to
                 understand your program options and complete the application process.</p>

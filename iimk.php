@@ -14,8 +14,10 @@
 
 
     <title>IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open!" />
-    <meta name="keywords" content="IIM Kozhikode HRM Course, IIM Kozhikode HRM, IIM Kozhikode HR Management and Analytics, hr management course online, hr management certification, human resource management course fees">
+    <meta name="description"
+        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open!" />
+    <meta name="keywords"
+        content="IIM Kozhikode HRM Course, IIM Kozhikode HRM, IIM Kozhikode HR Management and Analytics, hr management course online, hr management certification, human resource management course fees">
     <link rel="canonical" href="https://university360.co/iimk/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
@@ -24,8 +26,10 @@
     <meta charset="UTF-8">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
+    <meta property="og:title"
+        content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
+    <meta property="og:description"
+        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/iimk/" />
     <meta property="og:image" content="https://university360.co/images/iim-kozhikode-hrm-course-banner.png" />
@@ -34,8 +38,10 @@
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
+    <meta name="twitter:title"
+        content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
+    <meta name="twitter:description"
+        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/iim-kozhikode-hrm-course-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -361,34 +367,53 @@
         </div>
     </section>
 
-    
-    <!-- Programmes / Course Cards Section -->
-    <!-- <section class="amity-programmes-section" id="programmes">
-        <div class="container">
-            <h2>DBA Programs at IIM Kozhikode</h2>
 
-            <div class="owl-carousel amity-program-carousel">
-                <div class="item">
-                    <div class="amity-course-card">
-                        <span class="amity-course-badge">Certification</span>
-                        <img src="images/iim_kozhikode_logo.png" alt="HRM Analytics Online Certification"
-                            class="amity-course-img">
-                        <div class="amity-course-body">
-                            <h3>HRM Analytics Online Certification</h3>
-                            <h4>Executive Certification</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive HRM Analytics Online
-                                Certification program, designed for professionals.</p>
-                            <div class="amity-course-footer">
-                                <button class="get-brochure-btn"
+    <!-- Programmes / Course Section -->
+    <section class="amity-programmes-section" id="programmes">
+        <div class="container">
+            <h2>IIM Kozhikode Online Courses</h2>
+
+            <div class="iimk-course-spotlight-card">
+                <div class="row align-items-center">
+                    <!-- Left Side: University Image -->
+                    <div class="col-lg-5 col-md-12">
+                        <div class="iimk-course-img-wrap">
+                            <img src="images/iimk-university-image.webp" alt="IIM Kozhikode Campus" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <!-- Right Side: Content & Actions -->
+                    <div class="col-lg-7 col-md-12">
+                        <div class="iimk-course-content">
+                            <h3 class="iimk-course-title">IIM Kozhikode HRM Analytics Certification Courses</h3>
+
+                            <div class="iimk-course-highlights">
+                                <span class="highlight-pill"><i class="fa fa-calendar"></i> 6 Months Online</span>
+                            </div>
+
+                            <p class="iimk-course-desc">
+                                The certificate course of IIM Kozhikode in HR Analytics is a 6-month online program that
+                                helps professionals learn HR concepts with modern analytics. The course is 280 hours of
+                                expert learning, live faculty sessions, and industry projects. Learners receive hands-on
+                                training in tools such as Tableau, Excel, and Power BI. The course is recognized as one
+                                of the leading HR courses. It is ideal for HR professionals, managers, and MBA graduates
+                                seeking to advance their careers.
+                            </p>
+
+                            <div class="iimk-course-actions">
+                                <button class="iimk-btn-brochure"
                                     onclick="openBrochurePopup('brochures/iim_kozhikode_main_brochure.pdf', 'HRM Analytics Online Certification')">
-                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                    <i class="fa fa-download"></i>
+                                    <span>Get Brochure</span>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 6-12 Months</span>
+                                <button class="iimk-btn-counseling" onclick="openPopup()">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                    <span>Book Free Counseling</span>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
@@ -397,54 +422,22 @@
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
             <h2 class="approvals-main-heading text-center">Accreditation and Approvals of IIM Kozhikode</h2>
-            <div class="row mt-4">
+            <div class="row mt-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <div class="approval-icon"><img src="images/amba.webp" alt="AMBA"></div>
+                        <h4>AMBA</h4>
+                        <p>Accredited by the Association of MBAs (AMBA), endorsing IIM Kozhikode's superior quality in
+                            postgraduate management education and global relevance.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        <div class="approval-icon"><img src="images/equis.webp" alt="EQUIS">
                         </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="Globally Accredited"></div>
-                        <h4>Globally Accredited</h4>
-                        <p>IIM Kozhikode is internationally recognized, ensuring the DBA degree meets global
-                            academic and professional standards.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
-                        <h4>NIRF Ranked</h4>
-                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
-                            academic equivalence across institutions.</p>
+                        <h4>EQUIS</h4>
+                        <p>Accredited by EQUIS (EFMD), placing IIM Kozhikode among top global business schools
+                            recognized for academic excellence and leadership development.</p>
                     </div>
                 </div>
             </div>
@@ -496,46 +489,46 @@
         </div>
     </section> -->
 
-<section id="achievment">
+    <section id="achievment">
         <div class="container">
-		<div id="facts" style="margin-bottom: 0px !important;">
-			<div class="row">
-				<div class="col-md-3" id="fact-box">
+            <div id="facts" style="margin-bottom: 0px !important;">
+                <div class="row">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/student-enrolled.webp">
-					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+                        <img src="images/student-enrolled.webp">
+                        <h4>30K+</h4>
+                        <p>Students <br>Counselled</p>
 
-				</div>
-
-
-				<div class="col-md-3" id="fact-box">
-
-					<img src="images/counseling-experts.webp">
-					<h4>100+</h4>
-					<p>Education <br>Experts</p>
-				</div>
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/specialisation.webp">
-					<h4>25+</h4>
-					<p>Online &amp; Distance <br>Programs</p>
+                        <img src="images/counseling-experts.webp">
+                        <h4>100+</h4>
+                        <p>Education <br>Experts</p>
+                    </div>
 
-				</div>
+
+                    <div class="col-md-3" id="fact-box">
+
+                        <img src="images/specialisation.webp">
+                        <h4>25+</h4>
+                        <p>Online &amp; Distance <br>Programs</p>
+
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/university.webp">
-					<h4>20+</h4>
-					<p>Recognized <br>Universities</p>
+                        <img src="images/university.webp">
+                        <h4>20+</h4>
+                        <p>Recognized <br>Universities</p>
 
-				</div>
-			</div>
-		</div>
-	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- How to Apply Steps Section -->
@@ -678,7 +671,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -862,32 +855,32 @@
         </div>
     </section> -->
 
-<section id="about-u360" class="about-u360-section">
-		<div class="container about-u360-container">
-			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
+    <section id="about-u360" class="about-u360-section">
+        <div class="container about-u360-container">
+            <h2 class="about-u360-title">About UNIVERSITY 360</h2>
 
-			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
-			</p>
+            <p class="about-u360-text">
+                University 360 is your trusted partner in achieving your higher education goals. We guide students in
+                choosing the right online degree courses and distance education courses through expert career
+                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                opportunities, helping students make confident decisions.
+            </p>
 
-			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
-			</p>
+            <p class="about-u360-text">
+                Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
+                diploma course, University 360 connects you with the best options based on your career aspirations. With
+                reliable university insights, expert support, and student-focused services, we empower learners across
+                India to choose the right course, build the right skills, and create a successful future with
+                confidence.
+            </p>
 
-			<div class="about-u360-btns">
-				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
-				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
-			</div>
-		</div>
-	</section>
+            <div class="about-u360-btns">
+                <button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
+                <button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
+            </div>
+        </div>
+    </section>
 
     <!-- FAQs Section -->
     <section class="amity-faqs-section" id="faqs">

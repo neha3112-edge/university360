@@ -354,8 +354,8 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/aacsb-new.webp" alt="AACSB"></div>
                         <h4>AACSB</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <p>IIM Nagpur is a member of AACSB International, demonstrating its commitment to the highest
+                            global standards in business education and academic excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -363,26 +363,24 @@
                         <div class="approval-icon"><img src="images/iirf.webp" alt="IIRF">
                         </div>
                         <h4>IIRF</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
+                        <p>Consistently ranked among the top emerging business schools in India by IIRF for academic
+                            quality, faculty, industry exposure, and research.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-main.webp" alt="Globally Accredited"></div>
+                        <div class="approval-icon"><img src="images/nirf-main.webp" alt="NIRF"></div>
                         <h4>NIRF</h4>
-                        <p>IIM Nagpur is internationally recognized, ensuring the Young
-                            Leaders Programme in General Management
-                            degree meets global
-                            academic and professional standards.</p>
+                        <p>Ranked among India's top management institutions by the National Institutional Ranking
+                            Framework (NIRF), Ministry of Education, Government of India.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/outllook.webp" alt="AICTE Approved"></div>
+                        <div class="approval-icon"><img src="images/outllook.webp" alt="Outlook"></div>
                         <h4>Outlook</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
+                        <p>Recognized and ranked among the premier B-schools across the country by the Outlook-ICARE
+                            India B-School Rankings for overall educational excellence.</p>
                     </div>
                 </div>
             </div>
