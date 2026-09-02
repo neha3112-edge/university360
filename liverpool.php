@@ -18,9 +18,12 @@
     </script>
 
 
-    <title>Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure, plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open!" />
-    <meta name="keywords" content="Liverpool Online MBA, Liverpool John Moores University Online MBA, University Of Liverpool Online MBA, Liverpool University Online MBA, Liverpool University Online MBA Fees, executive program in business management, ai leadership course, ai leadership program, ai leadership certification">
+    <title>Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM
+        Udaipur | UNIVERSITY 360</title>
+    <meta name="description"
+        content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure, plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open!" />
+    <meta name="keywords"
+        content="Liverpool Online MBA, Liverpool John Moores University Online MBA, University Of Liverpool Online MBA, Liverpool University Online MBA, Liverpool University Online MBA Fees, executive program in business management, ai leadership course, ai leadership program, ai leadership certification">
     <link rel="canonical" href="https://university360.co/liverpool/">
     <meta name="robots" content="index, follow">
     <meta name="author" content="UNIVERSITY 360">
@@ -29,8 +32,10 @@
     <meta charset="UTF-8">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open, & How to Apply?" />
+    <meta property="og:title"
+        content="Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360" />
+    <meta property="og:description"
+        content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open, & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/liverpool/" />
     <meta property="og:image" content="https://university360.co/images/liverpool-online-mba-banner.png" />
@@ -39,8 +44,10 @@
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open, & How to Apply?" />
+    <meta name="twitter:title"
+        content="Liverpool Online MBA | Executive Program in Business Management & AI Leadership Certification from IIM Udaipur | UNIVERSITY 360" />
+    <meta name="twitter:description"
+        content="Get Counseling from UNIVERSITY 360 for Liverpool Online MBA (Liverpool John Moores University) Fees, Eligibility, Syllabus & Download Brochure plus Executive Program in Business Management & AI Leadership Certification from IIM Udaipur. Admissions open, & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/liverpool-online-mba-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -401,7 +408,7 @@
         </div>
     </section>
 
-    
+
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
@@ -546,56 +553,48 @@
     <!-- Approvals & Recognition Section -->
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
-            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Liverpool John Moores University</h2>
+            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Liverpool John Moores
+                University</h2>
             <div class="row mt-4">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <div class="approval-icon"><img src="images/ggu_aacsb.svg" alt="UGC Approved"></div>
+                        <h4>AACSB Accreditated</h4>
+                        <p>AACSB accreditation recognizes IIMU's excellence in business education, research, faculty
+                            quality, & continuous innovation, placing it among the world's leading B schools.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        <div class="approval-icon"><img src="images/approva-01-rusford.webp" alt="UGC-DEB Recognized">
                         </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
+                        <h4>QS World University Ranking </h4>
+                        <p>IIM Udaipur is consistently ranked as one of the top 50 business schools in India and
+                            globally. It is also placed #43 in the Top Universities Full-time MBA Rankings - Asia.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="Globally Accredited"></div>
-                        <h4>Globally Accredited</h4>
-                        <p>Liverpool John Moores University is internationally recognized, ensuring the MBA degree meets
-                            global
-                            academic and professional standards.</p>
+                        <div class="approval-icon"><img src="images/ft.webp" alt="Globally Accredited"></div>
+                        <h4>FT Masters in Management</h4>
+                        <p>IIM Udaipur has been featured in the Financial Times Masters in Management Rankings for seven
+                            consecutive years.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
+                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="AICTE Approved"></div>
+                        <h4>NIRF</h4>
+                        <p>IIM Udaipur is ranked 21st by the National Institutional Ranking Framework (NIRF) Rankings
+                            2025 in the Management Category. The institute attained a score of 61.79.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
-                        <h4>NIRF Ranked</h4>
-                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
-                            academic equivalence across institutions.</p>
+                        <div class="approval-icon"><img src="images/ut.webp" alt="NIRF Ranked"></div>
+                        <h4>UT Dallas</h4>
+                        <p>IIM Udaipur is building a research-led ecosystem and ranks 4th among Indian business schools
+                            for research published in leading global journals.</p>
                     </div>
                 </div>
             </div>

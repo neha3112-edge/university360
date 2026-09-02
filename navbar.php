@@ -1,14 +1,14 @@
 <?php
 if (!defined('BASE_URL')) {
-    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
-    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
-    $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
-    $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
-    if (strpos($host, 'university360.co') !== false) {
-        define('BASE_URL', 'https://university360.co/');
-    } else {
-        define('BASE_URL', $protocol . $host . $projectRoot);
-    }
+  $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443)) ? "https://" : "http://";
+  $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+  $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+  $projectRoot = ($scriptDir === '/' || $scriptDir === '.' || $scriptDir === '') ? '/' : rtrim($scriptDir, '/') . '/';
+  if (strpos($host, 'university360.co') !== false) {
+    define('BASE_URL', 'https://university360.co/');
+  } else {
+    define('BASE_URL', $protocol . $host . $projectRoot);
+  }
 }
 $base_url = BASE_URL;
 ?>
@@ -16,8 +16,7 @@ $base_url = BASE_URL;
   <input type="checkbox" id="nav-check">
   <div class="nav-header">
     <div class="nav-title">
-      <a href="<?= $base_url ?>"><img src="images/univ360-logo-icon.png" class="logo-img"
-          alt="University360 Logo"></a>
+      <a href="<?= $base_url ?>"><img src="images/univ360-logo-icon.png" class="logo-img" alt="University360 Logo"></a>
       <div class="logo_text">
         <a href="<?= $base_url ?>">
           <h2>UNIVERSITY<span class="logo_text_black">360°</span></h2>
@@ -35,8 +34,6 @@ $base_url = BASE_URL;
   </div>
 
   <ul class="nav-list">
-    <li><a href="<?= $base_url ?>">Home</a></li>
-    <li><a href="<?= $base_url ?>about-us">About Us</a></li>
     <li class="nav-dropdown">
       <a href="#mba-universities" class="dropdown-link" id="univDropdownToggle">
         <span>Universities</span>
@@ -88,11 +85,11 @@ $base_url = BASE_URL;
       </div>
     </li>
     <li class="nav-dropdown">
-      <a href="#" class="dropdown-link" id="GunivDropdownToggle">
+      <a href="#" class="dropdown-link" id="globalUnivDropdownToggle">
         <span>Global Universities</span>
         <i class="fa fa-angle-down nav-dropdown-arrow"></i>
       </a>
-      <div class="nav-dropdown-menu" id="GunivDropdownMenu">
+      <div class="nav-dropdown-menu" id="globalUnivDropdownMenu">
         <div class="dropdown-inner-list">
           <a href="<?= $base_url ?>rushford" class="dropdown-item">
             <span>Rushford Business School</span>
@@ -103,9 +100,6 @@ $base_url = BASE_URL;
           <a href="<?= $base_url ?>ssbm" class="dropdown-item">
             <span>Swiss School of Business and <br>Management</span>
           </a>
-          <a href="<?= $base_url ?>iiitb" class="dropdown-item">
-            <span>IIIT Bangalore</span>
-          </a>
           <a href="<?= $base_url ?>esgci" class="dropdown-item">
             <span>ESGCI</span>
           </a>
@@ -115,6 +109,34 @@ $base_url = BASE_URL;
           <a href="<?= $base_url ?>liverpool" class="dropdown-item">
             <span>Liverpool John Moores University</span>
           </a>
+          <a href="<?= $base_url ?>psb" class="dropdown-item">
+            <span>Paris School of Business</span>
+          </a>
+        </div>
+      </div>
+    </li>
+
+    <li class="nav-dropdown">
+      <a href="#" class="dropdown-link" id="iitDropdownToggle">
+        <span>IITs</span>
+        <i class="fa fa-angle-down nav-dropdown-arrow"></i>
+      </a>
+      <div class="nav-dropdown-menu" id="iitDropdownMenu">
+        <div class="dropdown-inner-list">
+          <a href="<?= $base_url ?>iiitb" class="dropdown-item">
+            <span>IIIT Bangalore</span>
+          </a>
+        </div>
+      </div>
+    </li>
+
+    <li class="nav-dropdown">
+      <a href="#" class="dropdown-link" id="iimDropdownToggle">
+        <span>IIMs</span>
+        <i class="fa fa-angle-down nav-dropdown-arrow"></i>
+      </a>
+      <div class="nav-dropdown-menu" id="iimDropdownMenu">
+        <div class="dropdown-inner-list">
           <a href="<?= $base_url ?>iimk" class="dropdown-item">
             <span>IIM Kozhikode</span>
           </a>
@@ -124,59 +146,43 @@ $base_url = BASE_URL;
           <a href="<?= $base_url ?>iim-nagpur" class="dropdown-item">
             <span>IIM Nagpur</span>
           </a>
-          <a href="<?= $base_url ?>psb" class="dropdown-item">
-            <span>Paris School of Business</span>
-          </a>
         </div>
-
-        <!-- <div class="dropdown-footer">
-          <a href="/#mba-universities" class="dropdown-all-btn">
-            <span>Explore Partner Universities</span>
-            <i class="fa fa-arrow-right"></i>
-          </a>
-        </div> -->
       </div>
     </li>
 
-    <li><a href="<?= $base_url ?>#mba-specialization">Courses</a></li>
-    <li><a href="#approvals">Approvals</a></li>
+    <li><a href="<?= $base_url ?>about-us">About Us</a></li>
     <li><a href="<?= $base_url ?>contact-us">Contact Us</a></li>
-    <!-- <div class="d-none d-lg-block"><button class="header-btn" onclick="openPopup()">Enquire Now</button></div>
-    <li class="d-block d-lg-none mt-2"><button class="header-btn w-100"
-        onclick="openPopup(); document.getElementById('nav-check').checked = false;">Enquire Now</button></li> -->
   </ul>
 </nav>
 
 <script>
   (function () {
     function initNavDropdown() {
-      var dropdownToggle = document.getElementById('univDropdownToggle');
-      var GdropdownToggle = document.getElementById('GunivDropdownToggle');
+      var dropdownToggles = document.querySelectorAll('.nav-dropdown .dropdown-link');
       var navCheck = document.getElementById('nav-check');
 
-      if (dropdownToggle) {
-        dropdownToggle.addEventListener('click', function (e) {
+      dropdownToggles.forEach(function (toggle) {
+        toggle.addEventListener('click', function (e) {
           if (window.innerWidth <= 991) {
             e.preventDefault();
             var parentLi = this.closest('.nav-dropdown');
             if (parentLi) {
-              parentLi.classList.toggle('active');
+              var wasActive = parentLi.classList.contains('active');
+              // Close other open dropdowns for a clean accordion experience
+              document.querySelectorAll('.nav-dropdown').forEach(function (li) {
+                if (li !== parentLi) {
+                  li.classList.remove('active');
+                }
+              });
+              if (!wasActive) {
+                parentLi.classList.add('active');
+              } else {
+                parentLi.classList.remove('active');
+              }
             }
           }
         });
-      }
-
-      if (GdropdownToggle) {
-        GdropdownToggle.addEventListener('click', function (e) {
-          if (window.innerWidth <= 991) {
-            e.preventDefault();
-            var parentLi = this.closest('.nav-dropdown');
-            if (parentLi) {
-              parentLi.classList.toggle('active');
-            }
-          }
-        });
-      }
+      });
 
       var navLinks = document.querySelectorAll('.nav-list a, .nav-dropdown-menu a');
       navLinks.forEach(function (link) {

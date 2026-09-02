@@ -115,7 +115,7 @@
         </div>
     </section>
 
-    
+
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
@@ -409,54 +409,38 @@
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
             <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Golden Gate University</h2>
-            <div class="row mt-4">
+            <div class="row mt-4 custom_accreditation_row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/ugc-1.webp" alt="UGC Approved"></div>
-                        <h4>UGC Approved</h4>
-                        <p>Ensures the university is recognized by the University Grants Commission (UGC) and its
-                            degrees are valid across India.</p>
+                        <div class="approval-icon"><img src="images/ggu_aiu.webp" alt="AIU"></div>
+                        <h4>Association of Indian Universities</h4>
+                        <p>GGU is associated with membership in AIU, registered under the Societies Registration
+                            Act,1860 that enables universities to collaborate & discuss common academic matters. </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/approvals-badge.webp" alt="UGC-DEB Recognized">
+                        <div class="approval-icon"><img src="images/ggu_wasc.webp" alt="WASC">
                         </div>
-                        <h4>UGC-DEB Recognized</h4>
-                        <p>Confirms that the university is authorized to offer online and distance education programs as
-                            per UGC-DEB guidelines.</p>
+                        <h4>WASC</h4>
+                        <p>GGU is accredited by WASC by Senior College and University Commission (WSCUC), which also
+                            accredits top universities ensuring high educational standards.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/naac-a.webp" alt="Globally Accredited"></div>
-                        <h4>Globally Accredited</h4>
-                        <p>Golden Gate University is internationally recognized, ensuring the DBA degree meets global
-                            academic and professional standards.</p>
+                        <div class="approval-icon"><img src="images/ggu_wes.svg" alt="WES"></div>
+                        <h4>WES Accreditation</h4>
+                        <p>WES Accreditation is one of the most widely accepted and respected forms of recognition for a
+                            degree.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/aicte-1.webp" alt="AICTE Approved"></div>
-                        <h4>AICTE Approved</h4>
-                        <p>Indicates that technical and management programs comply with the quality standards set by
-                            AICTE.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
-                        <h4>NIRF Ranked</h4>
-                        <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="amity-approval-card">
-                        <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
-                        <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
-                            academic equivalence across institutions.</p>
+                        <div class="approval-icon"><img src="images/ggu_aacsb.svg" alt="AACSB"></div>
+                        <h4>AACSB </h4>
+                        <p>AACSB is renowned as one of the oldest standard setting bodies for business education
+                            worldwide.</p>
                     </div>
                 </div>
             </div>
@@ -508,46 +492,46 @@
         </div>
     </section> -->
 
-<section id="achievment">
+    <section id="achievment">
         <div class="container">
-		<div id="facts" style="margin-bottom: 0px !important;">
-			<div class="row">
-				<div class="col-md-3" id="fact-box">
+            <div id="facts" style="margin-bottom: 0px !important;">
+                <div class="row">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/student-enrolled.webp">
-					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+                        <img src="images/student-enrolled.webp">
+                        <h4>30K+</h4>
+                        <p>Students <br>Counselled</p>
 
-				</div>
-
-
-				<div class="col-md-3" id="fact-box">
-
-					<img src="images/counseling-experts.webp">
-					<h4>100+</h4>
-					<p>Education <br>Experts</p>
-				</div>
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/specialisation.webp">
-					<h4>25+</h4>
-					<p>Online &amp; Distance <br>Programs</p>
+                        <img src="images/counseling-experts.webp">
+                        <h4>100+</h4>
+                        <p>Education <br>Experts</p>
+                    </div>
 
-				</div>
+
+                    <div class="col-md-3" id="fact-box">
+
+                        <img src="images/specialisation.webp">
+                        <h4>25+</h4>
+                        <p>Online &amp; Distance <br>Programs</p>
+
+                    </div>
 
 
-				<div class="col-md-3" id="fact-box">
+                    <div class="col-md-3" id="fact-box">
 
-					<img src="images/university.webp">
-					<h4>20+</h4>
-					<p>Recognized <br>Universities</p>
+                        <img src="images/university.webp">
+                        <h4>20+</h4>
+                        <p>Recognized <br>Universities</p>
 
-				</div>
-			</div>
-		</div>
-	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- How to Apply Steps Section -->
@@ -690,7 +674,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -874,32 +858,32 @@
         </div>
     </section> -->
 
-<section id="about-u360" class="about-u360-section">
-		<div class="container about-u360-container">
-			<h2 class="about-u360-title">About UNIVERSITY 360</h2>
+    <section id="about-u360" class="about-u360-section">
+        <div class="container about-u360-container">
+            <h2 class="about-u360-title">About UNIVERSITY 360</h2>
 
-			<p class="about-u360-text">
-				University 360 is your trusted partner in achieving your higher education goals. We guide students in
-				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
-				opportunities, helping students make confident decisions.
-			</p>
+            <p class="about-u360-text">
+                University 360 is your trusted partner in achieving your higher education goals. We guide students in
+                choosing the right online degree courses and distance education courses through expert career
+                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                opportunities, helping students make confident decisions.
+            </p>
 
-			<p class="about-u360-text">
-				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
-				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
-				confidence.
-			</p>
+            <p class="about-u360-text">
+                Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
+                diploma course, University 360 connects you with the best options based on your career aspirations. With
+                reliable university insights, expert support, and student-focused services, we empower learners across
+                India to choose the right course, build the right skills, and create a successful future with
+                confidence.
+            </p>
 
-			<div class="about-u360-btns">
-				<button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
-				<button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
-			</div>
-		</div>
-	</section>
+            <div class="about-u360-btns">
+                <button class="about-btn-yellow" onclick="openPopup()">Get Help</button>
+                <button class="about-btn-blue"><a href="#programmes">Explore Courses</a></button>
+            </div>
+        </div>
+    </section>
 
     <!-- FAQs Section -->
     <section class="amity-faqs-section" id="faqs">
