@@ -638,106 +638,8 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                        <tbody>
-                            <!-- 1. Rushford Business School -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Rushford
-                                            Business School</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
-                                        Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 2. Golden Gate University -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Golden Gate
-                                            University</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> San Francisco,
-                                        California</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 3. Swiss School of Business and Management -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Swiss School
-                                            of Business and Management</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Geneva,
-                                        Switzerland</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 4. IIIT Bangalore -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIIT
-                                            Bangalore</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
-                                        Karnataka</span></td>
-                                <td><span class="univ-accred-badge">UGC | NAAC A+</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 5. ESGCI -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>ESGCI</span>
-                                    </div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 6. Edgewood University -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Edgewood
-                                            University</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Madison,
-                                        Wisconsin</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 7. Liverpool John Moores University -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Liverpool John
-                                            Moores University</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Liverpool, UK</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 8. IIM Kozhikode -->
+                                                <tbody>
+                            <!-- 1. IIM Kozhikode -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -745,13 +647,13 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Kozhikode,
                                         Kerala</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
+                                <td><span class="univ-accred-badge">AMBA, EQUIS, AACSB</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Global
+                                        Standards</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 9. IIM Bangalore -->
+                            <!-- 2. IIM Bangalore -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -759,13 +661,13 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Bangalore,
                                         Karnataka</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
+                                <td><span class="univ-accred-badge">EQUIS</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Industry
+                                        Connections</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 10. IIM Nagpur -->
+                            <!-- 3. IIM Nagpur -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -773,23 +675,9 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Nagpur,
                                         Maharashtra</span></td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Premier
-                                        Institute</span></td>
-                                <td class="text-center"><button type="button" class="univ-apply-btn"
-                                        onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
-                            </tr>
-                            <!-- 11. Paris School of Business -->
-                            <tr>
-                                <td>
-                                    <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Paris School
-                                            of Business</span></div>
-                                </td>
-                                <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
-                                </td>
-                                <td><span class="univ-accred-badge">Globally Recognized</span></td>
-                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> International
-                                        Faculty</span></td>
+                                <td><span class="univ-accred-badge">AACSB</span></td>
+                                <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Practical
+                                        Exposure</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>

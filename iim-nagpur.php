@@ -631,8 +631,8 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                        <tbody>
-                            <!-- 1. Rushford Business School -->
+                                                <tbody>
+                            <!-- 1. IIM Kozhikode -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -646,7 +646,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 2. Golden Gate University -->
+                            <!-- 2. IIM Bangalore -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -660,7 +660,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 3. Swiss School of Business and Management -->
+                            <!-- 3. IIM Nagpur -->
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -674,7 +674,6 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 4. IIIT Bangalore -->
                         </tbody>
                     </table>
                 </div>
