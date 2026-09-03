@@ -742,7 +742,8 @@
     <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for IIT Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -750,7 +751,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -759,7 +761,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -768,7 +771,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -777,7 +781,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -786,7 +791,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -795,7 +801,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -852,7 +859,7 @@
     </section>
 
     <!-- Top Online Universities for Admission 2026 Section -->
-    <section class="top-universities-section" id="top-universities">
+    <!-- <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
@@ -873,7 +880,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <!-- 1. Rushford Business School -->
+        
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Rushford
@@ -887,7 +894,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 2. Golden Gate University -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Golden Gate
@@ -901,7 +908,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 3. Swiss School of Business and Management -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Swiss School
@@ -915,7 +922,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 4. IIIT Bangalore -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIIT
@@ -929,7 +936,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 5. ESGCI -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>ESGCI</span>
@@ -943,7 +950,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 6. Edgewood University -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Edgewood
@@ -957,7 +964,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 7. Liverpool John Moores University -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Liverpool John
@@ -971,7 +978,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 8. IIM Kozhikode -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -985,7 +992,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 9. IIM Bangalore -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -999,7 +1006,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 10. IIM Nagpur -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>IIM
@@ -1013,7 +1020,7 @@
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
                                         onclick="openPopup()"><i class="fa fa-paper-plane"></i> Apply Now</button></td>
                             </tr>
-                            <!-- 11. Paris School of Business -->
+                            
                             <tr>
                                 <td>
                                     <div class="univ-name-cell"><i class="fa fa-graduation-cap"></i><span>Paris School
@@ -1030,28 +1037,6 @@
                         </tbody>
                     </table>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- About Section -->
-    <!-- <section class="amity-about-section" id="sode_about">
-        <div class="container">
-            <h2 class="amity-section-heading">About UNIVERSITY 360</h2>
-            <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
-
-            <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
-                education. We connect ambitious leaders with globally recognized institutions offering doctoral business
-                programs while providing expert guidance at every stage of their academic journey.</p>
-
-            <p class="amity-about-text">Whether you're a senior executive looking to advance your career, a business
-                leader seeking academic credentials, or an aspiring researcher, we help you find a DBA program that
-                aligns with your professional goals and aspirations.</p>
-
-            <div class="amity-about-actions">
-                <button class="amity-btn-get-help" onclick="openPopup()">Get Help</button>
-                <a href="#programmes" class="amity-btn-explore-courses">Explore Programs</a>
             </div>
         </div>
     </section> -->
