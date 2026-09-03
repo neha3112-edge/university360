@@ -297,9 +297,9 @@
                         <p class="amity-slogan">Executive Certification <br>from a Premier Institute</p>
 
                         <div class="amity-pill-box">
-                            <span class="amity-pill-badge">Certification Programs</span>
+                            <span class="amity-pill-badge">Certificate Programs</span>
                             <p class="amity-pill-courses">
-                                <strong>Young Leaders Programme in General Management</strong>
+                                <strong>YLP - Young Leaders Programme in General Management</strong>
                             </p>
                         </div>
 
@@ -396,14 +396,14 @@
             <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Indian Institute of Management
                 Bangalore</h2>
             <div class="row mt-4 justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/amba.webp" alt="AMBA"></div>
                         <h4>AMBA</h4>
                         <p>Accredited by the Association of MBAs (AMBA), UK, certifying that IIM Bangalore meets the
                             highest international standards in postgraduate management education.</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/equis.webp" alt="EQUIS">
@@ -505,10 +505,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for IIM Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -516,7 +517,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -525,7 +527,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -534,7 +537,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -543,7 +547,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -552,7 +557,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -561,7 +567,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -621,9 +628,9 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top IIM for Online Admission 2026</h2>
+                <!-- <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
+                    &amp; apply instantly.</p> -->
             </div>
 
             <div class="top-univ-table-card">
@@ -638,7 +645,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. IIM Kozhikode -->
                             <tr>
                                 <td>
@@ -751,9 +758,8 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
-                            guidance for business professionals exploring Indian Institute of Management Bangalore Young
-                            Leaders Programme in General Management
-                            programs.</p>
+                            guidance for business professionals exploring the Indian Institute of Management Bangalore
+                            Young Leaders Programme in General Management (remove programs).</p>
                     </div>
                 </div>
 
@@ -765,10 +771,9 @@
                             Bangalore?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the Young Leaders Programme in General Management
-                            program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>Candidates should have completed graduation in any discipline with 50% minimum score. They
+                            must also have around one to five years of work experience to be eligible for the IIM
+                            Bangalore Young Leaders Programme in General Management.</p>
                     </div>
                 </div>
 
@@ -780,16 +785,13 @@
                             Bangalore?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The Indian Institute of Management Bangalore Young Leaders Programme in General Management
-                            program is typically completed in 36 months
-                            (3 years).
-                            The program is designed for working professionals and can be pursued alongside a full-time
-                            career.</p>
+                        <p>The duration of the Indian Institute of Management Bangalore Young Leaders Programme in
+                            General Management is 11 months.</p>
                     </div>
                 </div>
 
                 <!-- Q4 -->
-                <div class="amity-accordion-item">
+                <!-- <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
                         <span>Q4. Is the Young Leaders Programme in General Management from Indian Institute of
                             Management Bangalore globally recognized?</span>
@@ -800,13 +802,13 @@
                             is designed to meet global academic and professional standards. For specific recognition
                             details, please refer to the official brochure or contact our counsellors.</p>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Q5 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q5. Can UNIVERSITY 360 help me compare Young Leaders Programme in General Management and
-                            doctoral options?</span>
+                        <span>Q4. Can UNIVERSITY 360 help me compare the Young Leaders Programme in General Management
+                            with other options?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare Young Leaders Programme in General Management
@@ -819,16 +821,13 @@
                 <!-- Q6 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q6. Can I pursue the Young Leaders Programme in General Management program online while
+                        <span>Q5. Can I pursue the Young Leaders Programme in General Management program online while
                             working full-time?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. The Indian Institute of Management Bangalore Young Leaders Programme in General
-                            Management program is specifically structured for
-                            working professionals,
-                            offering
-                            flexible online learning with live and recorded sessions, so you can balance your career
-                            and doctoral studies effectively.</p>
+                            Management is specifically structured for working professionals. The institute offers live
+                            classes so students can balance their career and studies effectively.</p>
                     </div>
                 </div>
             </div>
