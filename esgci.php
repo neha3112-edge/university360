@@ -63,7 +63,7 @@
                         </div>
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
-                        <h1 class="amity-main-title">ESGCI Business School</h1>
+                        <h1 class="amity-main-title">ESGCI, Paris</h1>
                         <p class="amity-slogan">Prepare for Strategic Leadership in a <br> Changing Business World</p>
 
                         <div class="amity-pill-box">
@@ -154,7 +154,7 @@
     <!-- Approvals & Recognition Section -->
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
-            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of ESGCI Business School</h2>
+            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of ESGCI, Paris</h2>
             <div class="row mt-4 custom_accreditation_row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
@@ -637,7 +637,7 @@
                         <span>Q4. Is the DBA from ESGCI globally recognized?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>ESGCI is an internationally recognized business school. The DBA degree
+                        <p>ESGCI, Paris is internationally recognized. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
                             details, please refer to the official brochure or contact our counsellors.</p>
                     </div>

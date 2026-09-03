@@ -1,5 +1,5 @@
 <?php
-// EdgeWood Online University Landing Page - University360
+// EdgeWood University Landing Page - University360
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,17 +19,17 @@
     </script>
 
 
-    <title>EdgeWood Online University DBA & MBA+DBA Programs Fees & Admissions Open 2026</title>
+    <title>Edgewood University DBA & MBA+DBA Programs Fees & Admissions Open 2026</title>
     <meta name="description"
-        content="EdgeWood Online University DBA and MBA+DBA Programs Fees & Admissions Open 2026. Explore various specializations and advance your career globally." />
+        content="EdgeWood University DBA and MBA+DBA Programs Fees & Admissions Open 2026. Explore various specializations and advance your career globally." />
     <meta name="keywords"
-        content="EdgeWood Online University DBA, Edgewood DBA Program, Doctor of Business Administration Online">
+        content="EdgeWood University DBA, Edgewood DBA Program, Doctor of Business Administration Online">
     <link rel="canonical" href="https://university360.co/edgewood.php">
 
     <!-- Open Graph & Social Meta Tags -->
-    <meta property="og:title" content="EdgeWood Online University DBA Program Fees &amp; Admissions Open 2026" />
+    <meta property="og:title" content="EdgeWood University DBA Program Fees &amp; Admissions Open 2026" />
     <meta property="og:description"
-        content="EdgeWood Online University DBA Programs 2026. Doctor of Business Administration with 9 specializations. Globally Recognized." />
+        content="EdgeWood University DBA Programs 2026. Doctor of Business Administration with 9 specializations. Globally Recognized." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/edgewood.php" />
     <meta property="og:image" content="https://university360.co/images/edgewood-banner.png" />
@@ -40,11 +40,11 @@
     {
       "@context": "https://schema.org",
       "@type": "CollegeOrUniversity",
-      "name": "EdgeWood Online University",
+      "name": "EdgeWood University",
       "url": "https://university360.co/edgewood.php",
       "logo": "https://university360.co/images/edgewood-logo.png",
       "slogan": "Where Business Meets Excellence",
-      "description": "EdgeWood Online University offers globally recognized Doctor of Business Administration (DBA) programs with specializations across various management domains.",
+      "description": "EdgeWood University offers globally recognized Doctor of Business Administration (DBA) programs with specializations across various management domains.",
       "address": {
         "@type": "PostalAddress",
         "addressRegion": "Geneva",
@@ -66,12 +66,11 @@
                 <div class="col-lg-5 col-md-12">
                     <div class="amity-banner-content-wrap">
                         <div class="d-none d-lg-block">
-                            <img src="images/edgewood-logo.png" alt="EdgeWood Online University"
-                                class="amity-banner-logo">
+                            <img src="images/edgewood-logo.png" alt="EdgeWood University" class="amity-banner-logo">
                         </div>
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
-                        <h1 class="amity-main-title">EdgeWood Online University</h1>
+                        <h1 class="amity-main-title">Edgewood University</h1>
                         <p class="amity-slogan">Build on Your Experience <br> to Lead Strategically</p>
 
                         <div class="amity-pill-box">
@@ -92,9 +91,8 @@
 
                     <!-- Mobile Center Visual (Logo + Student Cutout) -->
                     <div class="amity-mobile-center-visual">
-                        <img src="images/edgewood-logo.png" alt="EdgeWood Online University"
-                            class="amity-mobile-logo"><br>
-                        <img src="images/new-mobile-v1.webp" alt="EdgeWood Online University Student"
+                        <img src="images/edgewood-logo.png" alt="EdgeWood University" class="amity-mobile-logo"><br>
+                        <img src="images/new-mobile-v1.webp" alt="EdgeWood University Student"
                             class="amity-mobile-student">
                     </div>
                 </div>
@@ -114,7 +112,7 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>Online Programs at EdgeWood Online University</h2>
+            <h2>Online Programs at Edgewood University</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- DBA in General -->
@@ -300,7 +298,7 @@
     <!-- Approvals & Recognition Section -->
     <section class="amity-approvals-section" id="approvals">
         <div class="container">
-            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of EdgeWood Online University
+            <h2 class="approvals-main-heading text-center">Accreditation and Approvals of Edgewood University
             </h2>
             <div class="row mt-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -714,18 +712,18 @@
                 <!-- Q1 -->
                 <div class="amity-accordion-item open">
                     <h3 class="amity-accordion-heading">
-                        <span>Q1. How can UNIVERSITY 360 help with EdgeWood Online University DBA programs?</span>
+                        <span>Q1. How can UNIVERSITY 360 help with Edgewood University DBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
-                            guidance for business professionals exploring EdgeWood Online University DBA programs.</p>
+                            guidance for business professionals exploring Edgewood University DBA programs.</p>
                     </div>
                 </div>
 
                 <!-- Q2 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q2. What is the eligibility for a DBA program at EdgeWood Online University?</span>
+                        <span>Q2. What is the eligibility for a DBA program at Edgewood University?</span>
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
@@ -737,10 +735,10 @@
                 <!-- Q3 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q3. What is the duration of the DBA program at EdgeWood Online University?</span>
+                        <span>Q3. What is the duration of the DBA program at Edgewood University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The EdgeWood Online University DBA program is typically completed in 24 Months (2 years).
+                        <p>The Edgewood University DBA program is typically completed in 24 Months (2 years).
                             The program is designed for working professionals and can be pursued alongside a full-time
                             career.</p>
                     </div>
@@ -749,10 +747,10 @@
                 <!-- Q4 -->
                 <div class="amity-accordion-item">
                     <h3 class="amity-accordion-heading">
-                        <span>Q4. Is the DBA from EdgeWood Online University globally recognized?</span>
+                        <span>Q4. Is the DBA from Edgewood University globally recognized?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>EdgeWood Online University is an internationally recognized. The DBA degree
+                        <p>Edgewood University is globally recognized. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
                             details, please refer to the official brochure or contact our counsellors.</p>
                     </div>
@@ -792,7 +790,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on EdgeWood Online University DBA Programs</p>
+                        <p>Get 100% Free Counselling on Edgewood University DBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

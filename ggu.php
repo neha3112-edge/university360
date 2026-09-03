@@ -417,7 +417,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Finance')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>
@@ -439,7 +439,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Marketing')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>
@@ -461,7 +461,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Leadership & Strategy')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>
@@ -483,7 +483,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Business and Data Analytics')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>
@@ -504,7 +504,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in General')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
                             </div>
                         </div>
                     </div>

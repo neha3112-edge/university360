@@ -759,7 +759,7 @@
                     <div class="amity-accordion-content">
                         <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
                             guidance for business professionals exploring the Indian Institute of Management Bangalore
-                            Young Leaders Programme in General Management (remove programs).</p>
+                            Young Leaders Programme in General Management.</p>
                     </div>
                 </div>
 
