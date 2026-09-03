@@ -807,9 +807,7 @@
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
-                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
-                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
-                    your academic and career goals.</p>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations, and key advantages to choose the right university for your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">

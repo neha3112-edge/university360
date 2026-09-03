@@ -10,6 +10,9 @@
         window.PAGE_COURSES = [
             { "value": "DBA", "label": "DBA in Finance" },
             { "value": "DBA", "label": "DBA in Leadership" },
+            { "value": "DBA", "label": "DBA in Tech and AI" },
+            { "value": "MBA", "label": "MBA in Business Analytics" },
+            { "value": "MBA", "label": "MBA in Organisational Leadership & Change" },
             { "value": "MBA+DBA", "label": "MBA + DBA in Finance" },
             { "value": "MBA+DBA", "label": "MBA + DBA in Leadership" }
         ];
@@ -69,12 +72,12 @@
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
                         <h1 class="amity-main-title">EdgeWood Online University</h1>
-                        <p class="amity-slogan">Turn Business Knowledge into <br> Strategic Leadership</p>
+                        <p class="amity-slogan">Build on Your Experience <br> to Lead Strategically</p>
 
                         <div class="amity-pill-box">
-                            <span class="amity-pill-badge">Dual Degree Programs</span>
+                            <span class="amity-pill-badge">Program Offered</span>
                             <p class="amity-pill-courses">
-                                <strong>DBA | MBA + DBA</strong>
+                                <strong>DBA | MBA | MBA+DBA</strong>
                             </p>
                         </div>
 
@@ -111,25 +114,26 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>DBA Programs at EdgeWood Online University</h2>
+            <h2>Online Programs at EdgeWood Online University</h2>
 
             <div class="owl-carousel amity-program-carousel">
                 <!-- DBA in General -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/Edgewood DBA in General.webp" alt="DBA in General" class="amity-course-img">
+                        <img src="images/Edgewood DBA in General.webp" alt="DBA in Tech and AI"
+                            class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>DBA in General</h3>
+                            <h3>DBA in Tech and AI</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in General
-                                program, designed for global leaders.</p>
+                            <p>Build on your technology experience while exploring AI, digital transformation, and
+                                emerging technologies shaping how modern businesses operate and compete.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/edgewood_dba.pdf', 'DBA in General')">
+                                    onclick="openBrochurePopup('brochures/edgewood_dba.pdf', 'DBA in Tech and AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
                             </div>
                         </div>
                     </div>
@@ -144,14 +148,14 @@
                         <div class="amity-course-body">
                             <h3>DBA in Leadership</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Leadership
-                                program, designed for global leaders.</p>
+                            <p>Turn your professional experience into stronger leadership capabilities, with Edgewood
+                                University helping you navigate teams, strategy, change, and growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/edgewood_dba.pdf', 'DBA in Leadership')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
                             </div>
                         </div>
                     </div>
@@ -165,21 +169,21 @@
                         <div class="amity-course-body">
                             <h3>DBA in Finance</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Finance
-                                program, designed for global leaders.</p>
+                            <p>Build on your financial experience at Edgewood University while developing advanced
+                                insights into strategy, investment, risk, and business decision-making.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/edgewood_dba.pdf', 'DBA in Finance')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- MBA + DBA in General -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Dual Degree</span>
                         <img src="images/Edgewood MBA + DBA in General.webp" alt="MBA + DBA in General"
@@ -198,7 +202,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- MBA + DBA in Leadership -->
                 <div class="item">
@@ -209,14 +213,14 @@
                         <div class="amity-course-body">
                             <h3>MBA + DBA in Leadership</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA + DBA in
-                                Leadership program, designed for global leaders.</p>
+                            <p>Develop a strong foundation in business and advanced leadership expertise through this
+                                dual degree, preparing you to lead teams, change, and growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/edgewood_mba+dba.pdf', 'MBA + DBA in Leadership')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 48 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 30 Months</span>
                             </div>
                         </div>
                     </div>
@@ -231,14 +235,59 @@
                         <div class="amity-course-body">
                             <h3>MBA + DBA in Finance</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive MBA + DBA in Finance
-                                program, designed for global leaders.</p>
+                            <p>Build comprehensive financial expertise through this dual degree program, combining MBA
+                                business knowledge with DBA-level strategy, research, and financial leadership.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/edgewood_mba+dba.pdf', 'MBA + DBA in Finance')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 48 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 30 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- MBA in Business Analytics -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Master</span>
+                        <img src="images/Edgewood MBA in Business Analytics.webp" alt="MBA in Business Analytics"
+                            class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA in Business Analytics</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>Help students and working professionals use data, analytical tools, and business insights
+                                to make smarter decisions and solve real-world challenges.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/edgewood_mba.pdf', 'MBA in Business Analytics')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 14 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA in Organisational Leadership & Change -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Master</span>
+                        <img src="images/Edgewood MBA in Organisational Leadership & Change.webp"
+                            alt="MBA in Organisational Leadership & Change" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA in Organisational Leadership & Change</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>Prepare students and working professionals to lead teams, manage organisational change,
+                                and build strategies that support long-term business growth.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/edgewood_mba.pdf', 'MBA in Organisational Leadership & Change')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 14 Months</span>
                             </div>
                         </div>
                     </div>
@@ -253,7 +302,7 @@
         <div class="container">
             <h2 class="approvals-main-heading text-center">Accreditation and Approvals of EdgeWood Online University
             </h2>
-            <div class="row mt-4">
+            <div class="row mt-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/hlc.webp" alt="UGC Approved"></div>
@@ -363,10 +412,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for International University Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -374,7 +424,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -383,7 +434,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -392,7 +444,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -401,7 +454,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -410,7 +464,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -419,7 +474,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -427,7 +483,7 @@
     </section>
 
     <!-- Why Choose Section -->
-        <section class="amity-whychoose-section" id="whychoose">
+    <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
             <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
@@ -436,30 +492,36 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -473,9 +535,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
+                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -490,7 +553,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -677,7 +740,7 @@
                         <span>Q3. What is the duration of the DBA program at EdgeWood Online University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The EdgeWood Online University DBA program is typically completed in 36 months (3 years).
+                        <p>The EdgeWood Online University DBA program is typically completed in 24 Months (2 years).
                             The program is designed for working professionals and can be pursued alongside a full-time
                             career.</p>
                     </div>
@@ -689,7 +752,7 @@
                         <span>Q4. Is the DBA from EdgeWood Online University globally recognized?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>EdgeWood Online University is an internationally recognized business school. The DBA degree
+                        <p>EdgeWood Online University is an internationally recognized. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
                             details, please refer to the official brochure or contact our counsellors.</p>
                     </div>

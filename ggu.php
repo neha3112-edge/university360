@@ -13,14 +13,16 @@
             { "value": "DBA", "label": "DBA in Leadership" },
             { "value": "DBA", "label": "DBA in General" },
             { "value": "DBA", "label": "DBA in Business Analytics" },
-            { "value": "DBA", "label": "DBA in Generative AI" },
             { "value": "MBA", "label": "MBA in Business Analytics Concentration" },
-            { "value": "MBA", "label": "MBA in Industrial Organizational Psychology Concentration" },
-            { "value": "MBA", "label": "MBA in Information Technology Management" },
             { "value": "MBA", "label": "MBA in Finance" },
             { "value": "MBA", "label": "MBA in Marketing" },
             { "value": "MBA", "label": "MBA in Adaptive Leadership" },
-            { "value": "MBA", "label": "MBA in General" }
+            { "value": "MBA", "label": "MBA in General" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Finance" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Marketing" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Leadership & Strategy" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in Business and Data Analytics" },
+            { "value": "MBA+DBA", "label": "MBA + DBA in General" }
         ];
     </script>
 
@@ -77,13 +79,12 @@
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
                         <h1 class="amity-main-title">Golden Gate University</h1>
-                        <p class="amity-slogan">Business Leadership with <br>Applied Doctoral Learning</p>
+                        <p class="amity-slogan">Master Strategic Leadership <br>with Applied Doctoral Learning</p>
 
                         <div class="amity-pill-box">
-                            <span class="amity-pill-badge">Doctoral Programs</span>
+                            <span class="amity-pill-badge">Program Offered</span>
                             <p class="amity-pill-courses">
-                                <strong>Doctorate of Business Administration | Master of Business Administration
-                                </strong>
+                                <strong>DBA | MBA | MBA+DBA</strong>
                             </p>
                         </div>
 
@@ -119,136 +120,136 @@
     <!-- Programmes / Course Cards Section -->
     <section class="amity-programmes-section" id="programmes">
         <div class="container">
-            <h2>DBA Programs at Golden Gate University</h2>
+            <h2>Online Programs at Golden Gate University</h2>
 
             <div class="owl-carousel amity-program-carousel">
-                <!-- Online DBA in Finance -->
+                <!-- DBA in Finance -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/finance-ggu.webp" alt="Online DBA in Finance" class="amity-course-img">
+                        <img src="images/finance-ggu.webp" alt="DBA in Finance" class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in Finance</h3>
+                            <h3>DBA in Finance</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Advanced expertise in financial strategy, investment management, corporate finance, and
                                 global markets.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in Finance')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in Finance')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Online DBA in Leadership -->
+                <!-- DBA in Leadership -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/leadership-ggu.webp" alt="Online DBA in Leadership" class="amity-course-img">
+                        <img src="images/leadership-ggu.webp" alt="DBA in Leadership" class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in Leadership</h3>
+                            <h3>DBA in Leadership</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Develop strategic leadership capabilities, change management expertise, and
                                 organizational transformation strategies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in Leadership')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in Leadership')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Online DBA in Business Analytics -->
+                <!-- DBA in Business Analytics -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/business-analytics-ggu.webp" alt="Online DBA in Business Analytics"
+                        <img src="images/business-analytics-ggu.webp" alt="DBA in Business Analytics"
                             class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in Business Analytics</h3>
+                            <h3>DBA in Business Analytics</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Covering advanced quantitative methods, business intelligence, decision analytics, and
                                 strategic data application.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in Business Analytics')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in Business Analytics')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Online DBA in Marketing -->
+                <!-- DBA in Marketing -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/marketing-ggu.webp" alt="Online DBA in Marketing" class="amity-course-img">
+                        <img src="images/marketing-ggu.webp" alt="DBA in Marketing" class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in Marketing</h3>
+                            <h3>DBA in Marketing</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Explore advanced marketing strategy, consumer behavior, digital marketing, brand
                                 management, and market research.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in Marketing')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in Marketing')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Online DBA in General -->
+                <!-- DBA in General -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/general-ggu.webp" alt="Online DBA in General" class="amity-course-img">
+                        <img src="images/general-ggu.webp" alt="DBA in General" class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in General</h3>
+                            <h3>DBA in General</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Designed for experienced business professionals seeking to deepen their strategic
                                 knowledge and leadership capabilities.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in General')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in General')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Online DBA in Generative AI -->
-                <div class="item">
+                <!-- DBA in Generative AI -->
+                <!-- <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
-                        <img src="images/generative-ai-ggu.webp" alt="Online DBA in Generative AI"
+                        <img src="images/generative-ai-ggu.webp" alt="DBA in Generative AI"
                             class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Online DBA in Generative AI</h3>
+                            <h3>DBA in Generative AI</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Integrate Generative AI tools and strategies into business operations to drive innovation
                                 and competitive advantage.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'Online DBA in Generative AI')">
+                                    onclick="openBrochurePopup('brochures/ggu_dba.pdf', 'DBA in Generative AI')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 27 Months</span>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- MBA in Business Analytics Concentration -->
                 <div class="item">
@@ -266,14 +267,14 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in Business Analytics Concentration')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- MBA in Industrial Organizational Psychology -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Master's</span>
                         <img src="images/mba-in-industrial-organizational-psychology-concentration-ggu-mba.webp"
@@ -288,14 +289,14 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in Industrial Organizational Psychology')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- MBA in IT Management -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Master's</span>
                         <img src="images/mba-in-information-technology-management-ggu-mba.webp"
@@ -310,11 +311,11 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in IT Management')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- MBA in Finance -->
                 <div class="item">
@@ -331,7 +332,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in Finance')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
@@ -352,7 +353,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in Marketing')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
@@ -374,7 +375,7 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in Adaptive Leadership')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
                             </div>
                         </div>
                     </div>
@@ -395,7 +396,115 @@
                                     onclick="openBrochurePopup('brochures/ggu_mba.pdf', 'MBA in General')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
-                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 24 Months</span>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 13 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA + DBA in Finance -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Dual Degree</span>
+                        <img src="images/GGU DBA+MBA Finance.webp" alt="MBA + DBA in Finance" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA + DBA in Finance</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>For working professionals ready to deepen their financial expertise, this dual degree
+                                builds stronger skills in strategy, research, and financial leadership.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Finance')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA + DBA in Marketing -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Dual Degree</span>
+                        <img src="images/GGU DBA+MBA Marketing.webp" alt="MBA + DBA in Marketing"
+                            class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA + DBA in Marketing</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>Take your marketing career further by combining business knowledge with advanced
+                                expertise to understand markets, customers, strategy, and sustainable growth.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Marketing')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA + DBA in Leadership & Strategy -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Dual Degree</span>
+                        <img src="images/GGU DBA+MBA Leadership & Strategy.webp"
+                            alt="MBA + DBA in Leadership & Strategy" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA + DBA in Leadership & Strategy</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>If you’re aiming for senior leadership, this dual degree helps you strengthen your
+                                business foundation while developing strategic thinking and leadership expertise.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Leadership & Strategy')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA + DBA in Business and Data Analytics -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Dual Degree</span>
+                        <img src="images/GGU DBA +MBA Business and Data Analytics.webp"
+                            alt="MBA + DBA in Business and Data Analytics" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA + DBA in Business and Data Analytics</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>For professionals working with data and business decisions, this dual degree connects
+                                management expertise with analytics to drive smarter, evidence-based strategies.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in Business and Data Analytics')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- MBA + DBA in General -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Dual Degree</span>
+                        <img src="images/GGU DBA+MBA General.webp" alt="MBA + DBA in General" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>MBA + DBA in General</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>Keep your options open with a broad dual degree that strengthens business knowledge while
+                                developing advanced research, strategic thinking, and leadership capabilities.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/ggu_mba_dba.pdf', 'MBA + DBA in General')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 40 Months</span>
                             </div>
                         </div>
                     </div>
@@ -535,10 +644,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for International University Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -546,7 +656,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -555,7 +666,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -564,7 +676,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -573,7 +686,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -582,7 +696,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -591,7 +706,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -599,7 +715,7 @@
     </section>
 
     <!-- Why Choose Section -->
-        <section class="amity-whychoose-section" id="whychoose">
+    <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
             <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
@@ -608,30 +724,36 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -645,9 +767,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
+                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -662,7 +785,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -837,9 +960,8 @@
                         <span>Q2. What is the eligibility for a DBA program at Golden Gate University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>Typically, candidates with a Master's degree (or equivalent) or a Bachelor's degree with at
+                            least 5 years of work experience are eligible for the DBA program.</p>
                     </div>
                 </div>
 
@@ -849,7 +971,8 @@
                         <span>Q3. What is the duration of the DBA program at Golden Gate University?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The Golden Gate University DBA program is typically completed in 36 months (3 years).
+                        <p>The Golden Gate University DBA program is typically completed in 27 months (2 years 3
+                            months).
                             The program is designed for working professionals and can be pursued alongside a full-time
                             career.</p>
                     </div>

@@ -64,12 +64,12 @@
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
                         <h1 class="amity-main-title">ESGCI Business School</h1>
-                        <p class="amity-slogan">Develop Strategic Leadership <br> for a Changing Business World</p>
+                        <p class="amity-slogan">Prepare for Strategic Leadership in a <br> Changing Business World</p>
 
                         <div class="amity-pill-box">
                             <span class="amity-pill-badge">Doctoral Programs</span>
                             <p class="amity-pill-courses">
-                                <strong>Doctorate of Business Administration</strong>
+                                <strong>DBA - Doctorate of Business Administration</strong>
                             </p>
                         </div>
 
@@ -121,13 +121,13 @@
                             <h3 class="iimk-course-title">DBA in Leadership &amp; AI Strategy</h3>
 
                             <div class="iimk-course-highlights">
-                                <span class="highlight-pill"><i class="fa fa-calendar"></i> 36 Months Online</span>
+                                <span class="highlight-pill"><i class="fa fa-calendar"></i> 24 Months Online</span>
                             </div>
 
                             <p class="iimk-course-desc">
                                 The ESGCI Doctorate of Business Administration helps professionals gain advanced skills
                                 in
-                                business and management. The 36-month program includes foundation, leadership, and
+                                business and management. The 24-month program includes foundation, leadership, and
                                 dissertation phases, giving a clear path for learning. Students receive personal
                                 guidance
                                 from experienced ESGCI faculty to support their research and studies.
@@ -297,10 +297,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for International University Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -308,7 +309,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -317,7 +319,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -326,7 +329,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -335,7 +339,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -344,7 +349,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -353,7 +359,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -361,7 +368,7 @@
     </section>
 
     <!-- Why Choose Section -->
-        <section class="amity-whychoose-section" id="whychoose">
+    <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
             <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
@@ -370,30 +377,36 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -407,9 +420,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
+                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -424,7 +438,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -599,9 +613,9 @@
                         <span>Q2. What is the eligibility for a DBA program at ESGCI?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>Candidates must hold a Master’s degree (or equivalent), or a Bachelor’s degree with 3+ years
+                            of work experience; diploma holders require at least 8 years’ experience which depends on
+                            case consideration by university.</p>
                     </div>
                 </div>
 
@@ -611,7 +625,7 @@
                         <span>Q3. What is the duration of the DBA program at ESGCI?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>The ESGCI DBA program is typically completed in 36 months (3 years).
+                        <p>The ESGCI DBA program is typically completed in 24 months (2 years).
                             The program is designed for working professionals and can be pursued alongside a full-time
                             career.</p>
                     </div>

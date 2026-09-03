@@ -16,7 +16,8 @@
             { "value": "DBA", "label": "Finance" },
             { "value": "DBA", "label": "Data Science" },
             { "value": "DBA", "label": "Marketing" },
-            { "value": "DBA", "label": "Business Analytics" }
+            { "value": "DBA", "label": "Big Data" },
+            { "value": "DBA", "label": "Sustainability & Environmental Management" }
         ];
     </script>
 
@@ -79,7 +80,7 @@
                         <div class="amity-pill-box">
                             <span class="amity-pill-badge">Doctoral Programs</span>
                             <p class="amity-pill-courses">
-                                <strong>Doctorate of Business Administration</strong>
+                                <strong>DBA - Doctorate of Business Administration</strong>
                             </p>
                         </div>
 
@@ -301,7 +302,7 @@
                 </div>
 
                 <!-- DBA Business Analytics -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Doctorate</span>
                         <img src="images/DBA in Business Analytics.webp" alt="DBA Business Analytics"
@@ -315,6 +316,52 @@
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/rushford_main_brochure.pdf', 'DBA in Business Analytics')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+
+                <!-- DBA Big Data -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Doctorate</span>
+                        <img src="images/DBA in Big Data.webp" alt="DBA Big Data" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>DBA in Big Data</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>DBA in Big Data is perfect for professionals who want to be experts in analytics,
+                                forecasting, and predictive techniques to interpret complex datasets, support strategic
+                                decision-making, and identify business opportunities.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/rushford_main_brochure.pdf', 'DBA in Big Data')">
+                                    <span>Get Brochure</span> <i class="fa fa-download"></i>
+                                </button>
+                                <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- DBA Sustainability & Environmental Management -->
+                <div class="item">
+                    <div class="amity-course-card">
+                        <span class="amity-course-badge">Doctorate</span>
+                        <img src="images/DBA in Sustainability & Environmental Management.webp"
+                            alt="DBA Sustainability & Environmental Management" class="amity-course-img">
+                        <div class="amity-course-body">
+                            <h3>DBA in Sustainability & Environmental Management</h3>
+                            <h4>Doctor of Business Administration</h4>
+                            <p>This specialisation includes subjects like sustainable business, environmental policy,
+                                energy management, and risk management. Here, Professionals learn to align
+                                organisational growth with environmental responsibility and long-term sustainability
+                                goals.</p>
+                            <div class="amity-course-footer">
+                                <button class="get-brochure-btn"
+                                    onclick="openBrochurePopup('brochures/rushford_main_brochure.pdf', 'DBA in Sustainability & Environmental Management')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
                                 <span class="duration-info"><i class="fa fa-hourglass-half"></i> 36 Months</span>
@@ -472,10 +519,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for International University Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -483,7 +531,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -492,7 +541,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -501,7 +551,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -510,7 +561,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -519,7 +571,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -528,7 +581,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -536,7 +590,7 @@
     </section>
 
     <!-- Why Choose Section -->
-        <section class="amity-whychoose-section" id="whychoose">
+    <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
             <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
@@ -545,30 +599,36 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -582,9 +642,8 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations, and key advantages to choose the right university for your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -599,7 +658,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -774,9 +833,9 @@
                         <span>Q2. What is the eligibility for a DBA program at Rushford Business School?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>Typically, candidates with a Master's degree (MBA or equivalent) or a Bachelor’s with at
+                            least three years of professional experience are eligible for the DBA program. Please
+                            download the brochure or contact our counsellors for exact eligibility criteria.</p>
                     </div>
                 </div>
 

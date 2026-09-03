@@ -88,7 +88,7 @@
                         <div class="amity-pill-box">
                             <span class="amity-pill-badge">Doctoral Programs</span>
                             <p class="amity-pill-courses">
-                                <strong>Doctorate of Business Administration</strong>
+                                <strong>DBA - Doctorate of Business Administration</strong>
                             </p>
                         </div>
 
@@ -159,8 +159,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Cybersecurity Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Cybersecurity
-                                Management program, designed for global leaders.</p>
+                            <p>For working professionals, this SSBM DBA specialisation explores cyber risk, digital
+                                security, governance, and strategies for building resilient organisations.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Cybersecurity Management')">
@@ -181,8 +181,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Human Resources Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Human
-                                Resources Management program, designed for global leaders.</p>
+                            <p>Learn how the SSBM DBA course can help working professionals understand talent, workplace
+                                culture, leadership, and strategies for developing high-performing teams.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Human Resources Management')">
@@ -203,8 +203,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Tax Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Tax
-                                Management program, designed for global leaders.</p>
+                            <p>This specialisation prepares working professionals with a broader understanding of
+                                taxation within today’s complex business environment.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Tax Management')">
@@ -225,8 +225,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Finance and Banking</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Finance and
-                                Banking program, designed for global leaders.</p>
+                            <p>Study the forces shaping modern finance and banking while building practical insights
+                                into investments, risk, financial strategy, and business decisions.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Finance and Banking')">
@@ -246,8 +246,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Marketing</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Marketing
-                                program, designed for global leaders.</p>
+                            <p>Gain a deeper understanding of how brands, customers, digital channels, and market
+                                insights come together to shape effective marketing strategies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Marketing')">
@@ -268,8 +268,9 @@
                         <div class="amity-course-body">
                             <h3>DBA in Operations Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Operations
-                                Management program, designed for global leaders.</p>
+                            <p>Learn how organisations improve processes, manage resources, and strengthen operational
+                                performance while connecting business challenges with practical management strategies.
+                            </p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Operations Management')">
@@ -290,8 +291,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Strategic Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Strategic
-                                Management program, designed for global leaders.</p>
+                            <p>The SSBM DBA helps working professionals look at the bigger picture through strategic
+                                thinking, competitive analysis, decision-making, and long-term business planning.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Strategic Management')">
@@ -312,8 +313,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Entrepreneurship</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in
-                                Entrepreneurship program, designed for global leaders.</p>
+                            <p>Turn business ideas into stronger opportunities by exploring innovation, venture
+                                creation, entrepreneurial thinking, and the strategies behind sustainable growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Entrepreneurship')">
@@ -334,8 +335,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in IT Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in IT Management
-                                program, designed for global leaders.</p>
+                            <p>Understand how technology supports modern businesses, from IT operations and information
+                                systems to digital transformation and technology-led organisational growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in IT Management')">
@@ -356,8 +357,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Energy Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Energy
-                                Management program, designed for global leaders.</p>
+                            <p>Explore how businesses can respond to changing energy needs through sustainability,
+                                resource management, and forward-looking energy strategies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Energy Management')">
@@ -378,8 +379,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Health Care Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Health Care
-                                Management program, designed for global leaders.</p>
+                            <p>Build a management perspective on healthcare by examining organisational performance,
+                                service delivery, leadership, and the challenges shaping the healthcare sector.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Health Care Management')">
@@ -400,8 +401,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Data Science</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Data Science
-                                program, designed for global leaders.</p>
+                            <p>Learn to make sense of data through analytical and research-driven approaches that can
+                                help working professionals turn information into meaningful business insights.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Data Science')">
@@ -422,8 +423,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Machine Learning</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Machine
-                                Learning program, designed for global leaders.</p>
+                            <p>Understand how machine learning and predictive approaches are being applied to solve
+                                business problems, improve decisions, and support data-driven innovation.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Machine Learning')">
@@ -443,8 +444,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Finance</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Finance
-                                program, designed for global leaders.</p>
+                            <p>Strengthen your understanding of financial strategy, investments, risk, and corporate
+                                finance while developing insights relevant to complex business decisions.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Finance')">
@@ -465,8 +466,9 @@
                         <div class="amity-course-body">
                             <h3>DBA in International Business Leadership</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in International
-                                Business Leadership program, designed for global leaders.</p>
+                            <p>Prepare to lead across borders by exploring global strategy, multicultural teams,
+                                international markets, and the leadership challenges of today’s interconnected
+                                businesses.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in International Business Leadership')">
@@ -487,8 +489,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Global Supply Chain Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Global Supply
-                                Chain Management program, designed for global leaders.</p>
+                            <p>Explore the moving parts behind global supply chains, including sourcing, logistics,
+                                procurement, risk, and strategies for building more resilient operations.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Global Supply Chain Management')">
@@ -508,8 +510,8 @@
                         <div class="amity-course-body">
                             <h3>DBA in Accounting</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in Accounting
-                                program, designed for global leaders.</p>
+                            <p>Gain a deeper perspective on accounting, financial reporting, analysis, and governance
+                                while understanding how financial information supports better business decisions.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in Accounting')">
@@ -530,8 +532,9 @@
                         <div class="amity-course-body">
                             <h3>DBA in AML Compliance</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>Advance your career and deepen your expertise with our comprehensive DBA in AML
-                                Compliance program, designed for global leaders.</p>
+                            <p>For professionals working in finance and compliance, this DBA specialisation examines AML
+                                frameworks, risk assessment, regulation, and approaches to preventing financial crime.
+                            </p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/ssbm_dba.pdf', 'DBA in AML Compliance')">
@@ -692,10 +695,11 @@
     </section>
 
     <!-- How to Apply Steps Section -->
-        <section class="amity-steps-section">
+    <section class="amity-steps-section">
         <div class="container">
             <h2>How to Apply for International University Online Programs?</h2>
-            <p class="section-desc">Select the right course based on your education and career goals. We help you understand the admission requirements and assist you with the application process.</p>
+            <p class="section-desc">Select the right course based on your education and career goals. We help you
+                understand the admission requirements and assist you with the application process.</p>
 
             <div class="row">
                 <!-- Step 1 -->
@@ -703,7 +707,8 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counsellors can understand your academic background and
+                            career goals.</p>
                     </div>
                 </div>
 
@@ -712,7 +717,8 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                            placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -721,7 +727,8 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget, and
+                            future career plans.</p>
                     </div>
                 </div>
 
@@ -730,7 +737,8 @@
                     <div class="amity-step-card amity-step-4">
                         <div class="amity-step-number">4</div>
                         <h4>Complete the Application</h4>
-                        <p>Fill out the admission application accurately and submit it through the official admission portal of the selected institution.</p>
+                        <p>Fill out the admission application accurately and submit it through the official admission
+                            portal of the selected institution.</p>
                     </div>
                 </div>
 
@@ -739,7 +747,8 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                            institution or university.</p>
                     </div>
                 </div>
 
@@ -748,7 +757,8 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities, and get
+                            confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -756,7 +766,7 @@
     </section>
 
     <!-- Why Choose Section -->
-        <section class="amity-whychoose-section" id="whychoose">
+    <section class="amity-whychoose-section" id="whychoose">
         <div class="container">
             <h2 class="amity-whychoose-heading">Why Choose University 360 for International Programs?</h2>
             <div class="row align-items-center">
@@ -765,30 +775,36 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                    place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with
+                                    details on study options, learning resources, and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <p>Connect with our education counsellors for guidance on program selection,
+                                    eligibility, fees, admission requirements, and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                    and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
                     <div class="amity-why-action">
-                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span class="btn-arrow">&#10132;</span></button>
+                        <button class="amity-btn-apply-now" onclick="openPopup()">Apply Now <span
+                                class="btn-arrow">&#10132;</span></button>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 text-center mt-4 mt-md-0">
@@ -802,9 +818,10 @@
     <section class="top-universities-section" id="top-universities">
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
-                <h2 class="top-univ-title">Check Out Top Online Universities for Admission 2026</h2>
-                <p class="top-univ-subtitle">Compare UGC-DEB recognized universities, accreditations, key advantages
-                    &amp; apply instantly.</p>
+                <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
+                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -819,7 +836,7 @@
                                 <th style="width: 14%; text-align: center;">Action</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             <!-- 1. Rushford Business School -->
                             <tr>
                                 <td>
@@ -997,9 +1014,8 @@
                             Management?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
-                            professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                        <p>Candidates require a Master's degree (MBA or equivalent) or a Bachelor’s with five years of
+                            work experience to be eligible for the DBA program.</p>
                     </div>
                 </div>
 
