@@ -35,7 +35,7 @@
     <title>DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360
     </title>
     <meta name="description"
-        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open!" />
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals & Admissions Open!" />
     <meta name="keywords"
         content="DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online">
     <link rel="canonical" href="https://university360.co/dsu/">
@@ -49,7 +49,7 @@
     <meta property="og:title"
         content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals & Admissions Open & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/dsu/" />
     <meta property="og:image"
@@ -62,7 +62,7 @@
     <meta name="twitter:title"
         content="DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees & Admissions Open | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals, & Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for DSU Online | Dayananda Sagar University Online MBA MCA BBA BCA B.Com Fees, Eligibility, Approvals & Admissions Open & How to Apply?" />
     <meta name="twitter:image"
         content="https://university360.co/images/dsu-online-dayananda-sagar-university-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
@@ -91,7 +91,7 @@
       "isPartOf": {
         "@id": "https://university360.co/#website"
       },
-      "description": "Get Counseling from UNIVERSITY 360 for DSU Online Dayananda Sagar University Online Courses (MBA, MCA, BBA, BCA, BCom) Fees, Eligibility, Syllabus, and Admission Process.",
+      "description": "Get Counseling from UNIVERSITY 360 for DSU Online Dayananda Sagar University Online Courses (MBA, MCA, BBA, BCA, BCom) Fees, Eligibility, Syllabus and Admission Process.",
       "keywords": "DSU Online Dayananda Sagar University Online, DSU Online, Dayananda Sagar University Online MBA, Dayananda Sagar Online MBA, Dayananda Sagar University Online MBA Fees, Dayananda Sagar University Online",
       "about": [
         {
@@ -105,7 +105,7 @@
       "name": "University360",
       "url": "https://university360.co/",
       "slogan": "#LearnWithFreedom",
-      "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner.",
+      "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "B-63, Sector-2, Noida, Gautam Buddha Nagar",
@@ -123,7 +123,7 @@
         }
       ],
       "award": [
-        "30K+ Students Counselled",
+        "30K+ Students Counseled",
         "100+ Education Experts",
         "25+ Online & Distance Programs",
         "20+ Recognized Universities"
@@ -132,16 +132,16 @@
     {
       "@type": "Service",
       "@id": "https://university360.co/dsu/#counselingservice",
-      "name": "Educational Counselling for Dayananda Sagar University Online Courses",
+      "name": "Educational Counseling for Dayananda Sagar University Online Courses",
       "provider": {
         "@id": "https://university360.co/#organization"
       },
-      "serviceType": "Educational Counselling",
+      "serviceType": "Educational Counseling",
       "areaServed": {
         "@type": "Country",
         "name": "India"
       },
-      "description": "Counselling and career guidance for working professionals and students exploring online degree programs at Dayananda Sagar University.",
+      "description": "Counseling and career guidance for working professionals and students exploring online degree programs at Dayananda Sagar University.",
       "offers": {
         "@type": "Offer",
         "price": "0.00",
@@ -152,12 +152,12 @@
         {
           "@type": "CreativeWork",
           "name": "Top Online Universities Admission List 2026",
-          "text": "Compare options: Lovely Professional University, Manipal University, Chandigarh University, Amity University, Galgotias University, Sikkim Manipal University, Mangalayatan University, and Uttaranchal University."
+          "text": "Compare options: Lovely Professional University, Manipal University, Chandigarh University, Amity University, Galgotias University, Sikkim Manipal University, Mangalayatan University and Uttaranchal University."
         },
         {
           "@type": "CreativeWork",
           "name": "Checklist for Trusted Universities",
-          "text": "UGC Approved (recognized by UGC), UGC-DEB Recognized (authorized to offer online/distance courses), NAAC Accredited (e.g. LPU holds NAAC A++), AICTE Approved (quality management/technical programs), NIRF Ranked (academic performance), and AIU Recognized (widely accepted degrees)."
+          "text": "UGC Approved (recognized by UGC), UGC-DEB Recognized (authorized to offer online/distance courses), NAAC Accredited (e.g. LPU holds NAAC A++), AICTE Approved (quality management/technical programs), NIRF Ranked (academic performance) and AIU Recognized (widely accepted degrees)."
         }
       ]
     },
@@ -165,7 +165,7 @@
       "@type": "Course",
       "@id": "https://university360.co/dsu/#mba",
       "name": "Online MBA (Master of Business Administration) - Dayananda Sagar University",
-      "description": "Professionals can advance their management careers with Dayananda Sagar University Online MBA, which includes 8 diverse electives, enabling them to gain expertise in leadership, business strategy, finance, marketing, and modern management practices through flexible online learning. Counselled by University360.",
+      "description": "Professionals can advance their management careers with Dayananda Sagar University Online MBA, which includes 8 diverse electives, enabling them to gain expertise in leadership, business strategy, finance, marketing and modern management practices through flexible online learning. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Dayananda Sagar University",
@@ -188,7 +188,7 @@
       "@type": "Course",
       "@id": "https://university360.co/dsu/#mca",
       "name": "Online MCA (Master of Computer Applications) - Dayananda Sagar University",
-      "description": "Learners can build advanced technology skills with DSU Online MCA, which includes 15 electives and prepares them for careers in software development, data analytics, and emerging IT domains through practical learning. Counselled by University360.",
+      "description": "Learners can build advanced technology skills with DSU Online MCA, which includes 15 electives and prepares them for careers in software development, data analytics and emerging IT domains through practical learning. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Dayananda Sagar University",
@@ -210,7 +210,7 @@
       "@type": "Course",
       "@id": "https://university360.co/dsu/#bba",
       "name": "Online BBA (Bachelor of Business Administration) - Dayananda Sagar University",
-      "description": "Learners can strengthen their business skills with the DSU Online BBA by selecting from three electives in Digital Marketing, Supply Chain Management, and Business Analytics, preparing for diverse industry roles. Counselled by University360.",
+      "description": "Learners can strengthen their business skills with the DSU Online BBA by selecting from three electives in Digital Marketing, Supply Chain Management and Business Analytics, preparing for diverse industry roles. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Dayananda Sagar University",
@@ -232,7 +232,7 @@
       "@type": "Course",
       "@id": "https://university360.co/dsu/#bca",
       "name": "Online BCA (Bachelor of Computer Applications) - Dayananda Sagar University",
-      "description": "Students can build future-ready technology skills with DSU Online BCA by choosing from twelve electives covering programming, AI, data analytics, cybersecurity, cloud technologies, and other in-demand IT domains. Counselled by University360.",
+      "description": "Students can build future-ready technology skills with DSU Online BCA by choosing from twelve electives covering programming, AI, data analytics, cybersecurity, cloud technologies and other in-demand IT domains. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Dayananda Sagar University",
@@ -254,7 +254,7 @@
       "@type": "Course",
       "@id": "https://university360.co/dsu/#bcom",
       "name": "Online BCom (Bachelor of Commerce) - Dayananda Sagar University",
-      "description": "Students can strengthen their foundation in commerce through online undergraduate degree courses, choosing electives in Fintech Regulations & Security, Supply Chain Management, and Business Analytics. Counselled by University360.",
+      "description": "Students can strengthen their foundation in commerce through online undergraduate degree courses, choosing electives in Fintech Regulations & Security, Supply Chain Management and Business Analytics. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Dayananda Sagar University",
@@ -281,7 +281,7 @@
           "name": "How can UNIVERSITY 360 help with Dayananda Sagar University Online degree programs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for students and working professionals exploring Dayananda Sagar University Online degree programs."
+            "text": "UNIVERSITY 360 provides program information, counseling, course comparison and admission guidance for students and working professionals exploring Dayananda Sagar University Online degree programs."
           }
         },
         {
@@ -313,7 +313,7 @@
           "name": "Can UNIVERSITY 360 help me compare online degree programs and MBA options?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online degrees, based on factors such as eligibility, curriculum, duration, and other available information."
+            "text": "Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online degrees, based on factors such as eligibility, curriculum, duration and other available information."
           }
         },
         {
@@ -357,7 +357,7 @@
 
                         <h2 class="amity-sub-lead">Get Guidance From University360 for</h2>
                         <h1 class="amity-main-title">Dayananda Sagar University Online</h1>
-                        <p class="amity-slogan">DSU Online Empowers You with Future-Ready Skills to Lead, Innovate, and
+                        <p class="amity-slogan">DSU Online Empowers You with Future-Ready Skills to Lead, Innovate and
                             Thrive in a Rapidly Evolving Global Workforce.</p>
 
                         <div class="amity-pill-box">
@@ -414,7 +414,7 @@
                             <h4>Master of Business Administration</h4>
                             <p>Professionals can advance their management careers with Dayananda Sagar University Online
                                 MBA, which includes 8 diverse electives, enabling them to gain expertise in leadership,
-                                business strategy, finance, marketing, and modern management practices through flexible
+                                business strategy, finance, marketing and modern management practices through flexible
                                 online learning.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -437,7 +437,7 @@
                             <h3>MCA</h3>
                             <h4>Master of Computer Applications</h4>
                             <p>Learners can build advanced technology skills with DSU Online MCA, which includes 15
-                                electives and prepares them for careers in software development, data analytics, and
+                                electives and prepares them for careers in software development, data analytics and
                                 emerging IT domains through practical learning.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -460,7 +460,7 @@
                             <h3>BBA</h3>
                             <h4>Bachelor of Business Administration</h4>
                             <p>Learners can strengthen their business skills with the DSU Online BBA by selecting from
-                                three electives in Digital Marketing, Supply Chain Management, and Business Analytics,
+                                three electives in Digital Marketing, Supply Chain Management and Business Analytics,
                                 preparing for diverse industry roles.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -484,7 +484,7 @@
                             <h4>Bachelor of Computer Applications</h4>
                             <p>Students can build future-ready technology skills with DSU Online BCA by choosing from
                                 twelve electives covering programming, AI, data analytics, cybersecurity, cloud
-                                technologies, and other in-demand IT domains.</p>
+                                technologies and other in-demand IT domains.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/dsu_bca.pdf', 'BCA')">
@@ -506,7 +506,7 @@
                             <h3>BCom</h3>
                             <h4>Bachelor of Commerce</h4>
                             <p>Students can strengthen their foundation in commerce through online undergraduate degree
-                                courses, choosing electives in Fintech Regulations & Security, Supply Chain Management,
+                                courses, choosing electives in Fintech Regulations & Security, Supply Chain Management
                                 and Business Analytics.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -550,7 +550,7 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
                         <h4>NAAC Accredited</h4>
-                        <p>Shows that the university meets high standards of teaching, infrastructure, research, and
+                        <p>Shows that the university meets high standards of teaching, infrastructure, research and
                             overall educational quality.</p>
                     </div>
                 </div>
@@ -569,7 +569,7 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
 
@@ -577,7 +577,7 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -593,7 +593,7 @@
                     <div class="col-md-3" id="fact-box">
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
                     </div>
 
                     <div class="col-md-3" id="fact-box">
@@ -641,7 +641,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -696,7 +696,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    and postgraduate study options. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Other Programs</h3>
                                 <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
+                                    programs and other online degrees and programs based on your education and career
                                     goals.</p>
                             </div>
                         </div>
@@ -993,16 +993,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -1025,7 +1025,7 @@
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring Dayananda Sagar University Online
                             degree programs.</p>
                     </div>
@@ -1071,7 +1071,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online
-                            degrees, based on factors such as eligibility, curriculum, duration, and other available
+                            degrees, based on factors such as eligibility, curriculum, duration and other available
                             information.</p>
                     </div>
                 </div>
@@ -1108,7 +1108,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Dayananda Sagar University Online Degree Programs</p>
+                        <p>Get 100% Free Counseling on Dayananda Sagar University Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

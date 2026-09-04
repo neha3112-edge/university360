@@ -6,7 +6,7 @@ session_start();
 <head>
     <?php include "header.php"; ?>
     <title>Disclaimer - UNIVERSITY 360</title>
-    <meta name="description" content="Disclaimer policy for UNIVERSITY 360 educational counselling services." />
+    <meta name="description" content="Disclaimer policy for UNIVERSITY 360 educational counseling services." />
 </head>
 <body class="legal-page-body">
 
@@ -36,7 +36,7 @@ session_start();
 
                 <div class="legal-section">
                     <h3><i class="fa fa-refresh"></i> Information May Change</h3>
-                    <p>University details, course structures, eligibility criteria, fee structures, approvals, rankings, admission schedules, and other academic information may change without prior notice.</p>
+                    <p>University details, course structures, eligibility criteria, fee structures, approvals, rankings, admission schedules and other academic information may change without prior notice.</p>
                     <p>Although we regularly review and update our content, University360 cannot guarantee that every page reflects the latest information at all times. Students should always verify important details with the respective university before making any academic or financial decisions.</p>
                 </div>
 
@@ -47,7 +47,7 @@ session_start();
 
                 <div class="legal-section">
                     <h3><i class="fa fa-times-circle"></i> No Guarantee of Outcomes</h3>
-                    <p>University360 does not guarantee admission, scholarships, placements, internships, salary packages, examination results, academic performance, or career outcomes. Success depends on several factors, including eligibility, university policies, individual performance, and market conditions.</p>
+                    <p>University360 does not guarantee admission, scholarships, placements, internships, salary packages, examination results, academic performance, or career outcomes. Success depends on several factors, including eligibility, university policies, individual performance and market conditions.</p>
                 </div>
 
                 <div class="legal-section">

@@ -29,7 +29,7 @@
     <meta property="og:title"
         content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/iimk/" />
     <meta property="og:image" content="https://university360.co/images/iim-kozhikode-hrm-course-banner.png" />
@@ -41,7 +41,7 @@
     <meta name="twitter:title"
         content="IIM Kozhikode HR Management and Analytics Course (6 Months) IIMK HRM Certification | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIM Kozhikode HR Management and Analytics after 12th Course (6 Months) IIMK HRM Certification Fees, Eligibility, Syllabus, Download Brochure & Admissions Open & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/iim-kozhikode-hrm-course-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -83,7 +83,7 @@
           "name": "University360",
           "url": "https://university360.co/",
           "slogan": "#LearnWithFreedom",
-          "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+          "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner. All admissions, approvals and course policies are governed by the respective universities.",
           "contactPoint": [
             {
               "@type": "ContactPoint",
@@ -96,16 +96,16 @@
         {
           "@type": "Service",
           "@id": "https://university360.co/iimk/#counselingservice",
-          "name": "Educational Counselling for IIM Kozhikode Professional Certificate Programme in HR Management and Analytics",
+          "name": "Educational Counseling for IIM Kozhikode Professional Certificate Programme in HR Management and Analytics",
           "provider": {
             "@id": "https://university360.co/#organization"
           },
-          "serviceType": "Educational Counselling",
+          "serviceType": "Educational Counseling",
           "areaServed": {
             "@type": "Country",
             "name": "India"
           },
-          "description": "Get guidance from UNIVERSITY 360 on IIM Kozhikode's HR Management and Analytics course. Access syllabus, eligibility criteria, and fee details to compare with top management certificates.",
+          "description": "Get guidance from UNIVERSITY 360 on IIM Kozhikode's HR Management and Analytics course. Access syllabus, eligibility criteria and fee details to compare with top management certificates.",
           "offers": {
             "@type": "Offer",
             "price": "0.00",
@@ -117,7 +117,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iimk/#course",
           "name": "Professional Certificate Programme in HR Management and Analytics - IIM Kozhikode",
-          "description": "The HRM & Analytics Professional Certificate Program by IIM Kozhikode, offered via upGrad, is a top online HR course that builds HR management, HR analytics, and Gen AI skills with a recognized certification.",
+          "description": "The HRM & Analytics Professional Certificate Program by IIM Kozhikode, offered via upGrad, is a top online HR course that builds HR management, HR analytics and Gen AI skills with a recognized certification.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIM Kozhikode",
@@ -135,7 +135,7 @@
           },
           "audience": {
             "@type": "Audience",
-            "audienceType": "Managers, HR professionals, HR Business Partners, consultants, L&D/OD aspirants, MBA Graduates, and entrepreneurs looking to upskill."
+            "audienceType": "Managers, HR professionals, HR Business Partners, consultants, L&D/OD aspirants, MBA Graduates and entrepreneurs looking to upskill."
           },
           "coursePrerequisites": [
             "Bachelor's Degree holders require a minimum of 2 years of work experience.",
@@ -156,12 +156,12 @@
             "Sentiment & Engagement Analytics",
             "AI Tools & HRIS Platforms"
           ],
-          "educationalCredentialAwarded": "Professional Certification in HR Management and Analytics from IIM Kozhikode, Microsoft Power BI Data Analyst Certification, PwC Academy People Analytics Certificate, and NSDC Certification (recognized by the Government of India).",
+          "educationalCredentialAwarded": "Professional Certification in HR Management and Analytics from IIM Kozhikode, Microsoft Power BI Data Analyst Certification, PwC Academy People Analytics Certificate and NSDC Certification (recognized by the Government of India).",
           "hasCourseInstance": {
             "@type": "CourseInstance",
             "courseMode": "Online",
             "duration": "P6M",
-            "description": "6 Months duration. 280+ Hours of learning, 3 IIMK-led case studies (Google Project Oxygen, Orix Geoscience, Southwest Airlines), 20+ live sessions, 1 Capstone project, and Microsoft Power BI simulator.",
+            "description": "6 Months duration. 280+ Hours of learning, 3 IIMK-led case studies (Google Project Oxygen, Orix Geoscience, Southwest Airlines), 20+ live sessions, 1 Capstone project and Microsoft Power BI simulator.",
             "instructor": [
               {
                 "@type": "Person",
@@ -200,7 +200,7 @@
               "name": "What is the Professional Certificate Programme in HR Management and Analytics with upGrad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The HR Analytics Certification Course with upGrad offers a 6-month online program. This is the best HR analytics certification in India, awarded by IIMK. Target Audience: Mid-level to senior managers, master's graduates, and professionals looking to upskill in HR management and analytics. Certifications include Professional Certification in HR Management from IIM Kozhikode, and Microsoft Power BI Data Analyst Certification."
+                "text": "The HR Analytics Certification Course with upGrad offers a 6-month online program. This is the best HR analytics certification in India, awarded by IIMK. Target Audience: Mid-level to senior managers, master's graduates and professionals looking to upskill in HR management and analytics. Certifications include Professional Certification in HR Management from IIM Kozhikode and Microsoft Power BI Data Analyst Certification."
               }
             },
             {
@@ -208,7 +208,7 @@
               "name": "What can I expect from the Professional Certificate Programme in HR Management and Analytics?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "In this HR Analytics Certification Course Online, you'll develop the skills to analyze HR data, identify trends, and make data-driven decisions across the employee lifecycle."
+                "text": "In this HR Analytics Certification Course Online, you'll develop the skills to analyze HR data, identify trends and make data-driven decisions across the employee lifecycle."
               }
             },
             {
@@ -216,7 +216,7 @@
               "name": "What topics will be covered in the program?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The HR Analytics Certification Course Online covers essential HR topics, including: HR Management, HR Dashboarding, Workforce Planning, Talent Acquisition & Development Analytics, Compensation Management, Employee Retention, Performance Management, Team Collaboration, and HR Practices & Benchmarking."
+                "text": "The HR Analytics Certification Course Online covers essential HR topics, including: HR Management, HR Dashboarding, Workforce Planning, Talent Acquisition & Development Analytics, Compensation Management, Employee Retention, Performance Management, Team Collaboration and HR Practices & Benchmarking."
               }
             },
             {
@@ -293,10 +293,10 @@
             },
             {
               "@type": "Question",
-              "name": "What are the must-have skills and knowledge gained from human resource management courses, and how do they apply in real-world scenarios?",
+              "name": "What are the must-have skills and knowledge gained from human resource management courses and how do they apply in real-world scenarios?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Our Human Resource Management Courses include must-have skills around data-backed recruiting frameworks, workflow management, and keeping employee lifecycle experiences centralised."
+                "text": "Our Human Resource Management Courses include must-have skills around data-backed recruiting frameworks, workflow management and keeping employee lifecycle experiences centralised."
               }
             },
             {
@@ -395,9 +395,9 @@
                             <p class="iimk-course-desc">
                                 The certificate course of IIM Kozhikode in HR Analytics is a 6-month online program that
                                 helps professionals learn HR concepts with modern analytics. The course is 280 hours of
-                                expert learning, live faculty sessions, and industry projects. Learners receive hands-on
-                                training in tools such as Tableau, Excel, and Power BI. The course is recognized as one
-                                of the leading HR courses. It is ideal for HR professionals, managers, and MBA graduates
+                                expert learning, live faculty sessions and industry projects. Learners receive hands-on
+                                training in tools such as Tableau, Excel and Power BI. The course is recognized as one
+                                of the leading HR courses. It is ideal for HR professionals, managers and MBA graduates
                                 seeking to advance their careers.
                             </p>
 
@@ -498,7 +498,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -544,7 +544,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counselors can understand your academic background and career goals.</p>
                     </div>
                 </div>
 
@@ -552,8 +552,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -562,7 +562,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget and future career plans.</p>
                     </div>
                 </div>
 
@@ -580,7 +580,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected institution or university.</p>
                     </div>
                 </div>
 
@@ -589,7 +589,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities and get confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -606,8 +606,8 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
-                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes and admission details in one
                                     place.</p>
                             </div>
                         </div>
@@ -615,20 +615,20 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
                                 <p>Explore online courses designed for working professionals and flexible learners, with
-                                    details on study options, learning resources, and student support.</p>
+                                    details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection,
-                                    eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection,
+                                    eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams
                                     and other admission-related information for your selected program.</p>
                             </div>
                         </div>
@@ -651,8 +651,8 @@
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top IIMs for Online Admission 2026</h2>
                 <p class="top-univ-subtitle">Selecting the right IIM programme can boost career growth, leadership
-                    development, and professional advancement. Get key accreditations and advantages of IIM Kozhikode,
-                    IIM Bangalore, and IIM Nagpur to compare their offerings and make an informed decision for your
+                    development and professional advancement. Get key accreditations and advantages of IIM Kozhikode,
+                    IIM Bangalore and IIM Nagpur to compare their offerings and make an informed decision for your
                     career goals:</p>
             </div>
 
@@ -725,7 +725,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -747,16 +747,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -779,7 +779,7 @@
                             Programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for business professionals exploring IIM Kozhikode HRM Analytics Certificate
                             Programs.</p>
                     </div>
@@ -814,7 +814,7 @@
                         <span>Q4. Are IIM Kozhikode HRM Analytics Certificate Programs globally recognized?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes, IIM Kozhikode holds AMBA, EQUIS, and AACSB accreditations, making it a globally
+                        <p>Yes, IIM Kozhikode holds AMBA, EQUIS and AACSB accreditations, making it a globally
                             recognised institution.</p>
                     </div>
                 </div>
@@ -827,7 +827,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare IIM Kozhikode HRM Analytics Certificate Programs
-                            based on factors such as eligibility, specialization, curriculum, duration, and other
+                            based on factors such as eligibility, specialization, curriculum, duration and other
                             available program information.</p>
                     </div>
                 </div>
@@ -855,7 +855,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on IIM Kozhikode DBA Programs</p>
+                        <p>Get 100% Free Counseling on IIM Kozhikode DBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

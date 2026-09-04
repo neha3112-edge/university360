@@ -130,7 +130,7 @@
                             <h3>DBA General</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>The Rushford DBA General program is designed for experienced business professionals
-                                seeking to deepen their strategic knowledge, enhance leadership capabilities, and
+                                seeking to deepen their strategic knowledge, enhance leadership capabilities and
                                 contribute original research to the business world.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -153,7 +153,7 @@
                             <h3>DBA in International Business</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>This specialized DBA equips professionals with advanced understanding of global trade,
-                                multinational strategy, cross-cultural management, and international business dynamics
+                                multinational strategy, cross-cultural management and international business dynamics
                                 to lead organizations in global markets.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -176,7 +176,7 @@
                             <h3>DBA in Healthcare Management</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>Designed for healthcare leaders, this DBA integrates advanced business management
-                                principles with healthcare strategy, hospital administration, health policy, and
+                                principles with healthcare strategy, hospital administration, health policy and
                                 evidence-based decision-making in the medical sector.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -198,7 +198,7 @@
                         <div class="amity-course-body">
                             <h3>DBA in Human Resource Management</h3>
                             <h4>Doctor of Business Administration</h4>
-                            <p>This DBA focuses on advanced HR strategy, talent management, organizational behavior,
+                            <p>This DBA focuses on advanced HR strategy, talent management, organizational behavior
                                 and workforce planning, empowering HR professionals to lead transformative people
                                 strategies in global organizations.</p>
                             <div class="amity-course-footer">
@@ -222,7 +222,7 @@
                             <h3>DBA in Supply Chain Management</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>This doctoral program covers advanced logistics, global supply chain strategy,
-                                procurement, operations research, and sustainability, preparing leaders to optimize
+                                procurement, operations research and sustainability, preparing leaders to optimize
                                 complex supply chains in a competitive global economy.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -244,7 +244,7 @@
                             <h3>DBA in Finance</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>The DBA in Finance at Rushford provides advanced expertise in financial strategy,
-                                investment management, corporate finance, risk analysis, and global financial markets,
+                                investment management, corporate finance, risk analysis and global financial markets,
                                 preparing CFOs and finance leaders for top-tier roles.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -266,7 +266,7 @@
                             <h3>DBA in Data Science</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>This DBA bridges business strategy and data science, covering AI, machine learning,
-                                predictive analytics, and big data management, preparing business leaders to leverage
+                                predictive analytics and big data management, preparing business leaders to leverage
                                 data-driven insights for competitive advantage.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -288,7 +288,7 @@
                             <h3>DBA in Marketing</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>This doctoral program explores advanced marketing strategy, consumer behavior, digital
-                                marketing, brand management, and market research, equipping professionals to lead
+                                marketing, brand management and market research, equipping professionals to lead
                                 marketing functions in global organizations.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -311,7 +311,7 @@
                             <h3>DBA in Business Analytics</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>The DBA in Business Analytics covers advanced quantitative methods, business
-                                intelligence, decision analytics, and strategic data application, preparing leaders
+                                intelligence, decision analytics and strategic data application, preparing leaders
                                 to drive data-informed decisions at the highest organizational levels.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -333,8 +333,8 @@
                             <h3>DBA in Big Data</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>DBA in Big Data is perfect for professionals who want to be experts in analytics,
-                                forecasting, and predictive techniques to interpret complex datasets, support strategic
-                                decision-making, and identify business opportunities.</p>
+                                forecasting and predictive techniques to interpret complex datasets, support strategic
+                                decision-making and identify business opportunities.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/rushford_main_brochure.pdf', 'DBA in Big Data')">
@@ -356,7 +356,7 @@
                             <h3>DBA in Sustainability & Environmental Management</h3>
                             <h4>Doctor of Business Administration</h4>
                             <p>This specialisation includes subjects like sustainable business, environmental policy,
-                                energy management, and risk management. Here, Professionals learn to align
+                                energy management and risk management. Here, Professionals learn to align
                                 organisational growth with environmental responsibility and long-term sustainability
                                 goals.</p>
                             <div class="amity-course-footer">
@@ -484,7 +484,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -531,7 +531,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and
+                        <p>Share your basic details so our counselors can understand your academic background and
                             career goals.</p>
                     </div>
                 </div>
@@ -540,8 +540,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships,
                             placement support and available programs.</p>
                     </div>
                 </div>
@@ -551,7 +551,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and
+                        <p>Select the university and course that best match your education, interests, budget and
                             future career plans.</p>
                     </div>
                 </div>
@@ -571,7 +571,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected
                             institution or university.</p>
                     </div>
                 </div>
@@ -581,7 +581,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get
+                        <p>Receive application updates, complete the required admission formalities and get
                             confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
@@ -599,8 +599,8 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
-                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes and admission details in one
                                     place.</p>
                             </div>
                         </div>
@@ -608,20 +608,20 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
                                 <p>Explore online courses designed for working professionals and flexible learners, with
-                                    details on study options, learning resources, and student support.</p>
+                                    details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection,
-                                    eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection,
+                                    eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams
                                     and other admission-related information for your selected program.</p>
                             </div>
                         </div>
@@ -643,7 +643,7 @@
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
-                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations, and key advantages to choose the right university for your academic and career goals.</p>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations and key advantages to choose the right university for your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -749,7 +749,7 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
                                 </td>
-                                <td><span class="univ-accred-badge">EQUIS, AACSB, and AMBA</span></td>
+                                <td><span class="univ-accred-badge">EQUIS, AACSB and AMBA</span></td>
                                 <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Career
                                         services</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
@@ -769,7 +769,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -791,16 +791,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -822,7 +822,7 @@
                         <span>Q1. How can UNIVERSITY 360 help with Rushford Business School DBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for business professionals exploring Rushford Business School DBA programs.</p>
                     </div>
                 </div>
@@ -835,7 +835,7 @@
                     <div class="amity-accordion-content">
                         <p>Typically, candidates with a Master's degree (MBA or equivalent) or a Bachelor’s with at
                             least three years of professional experience are eligible for the DBA program. Please
-                            download the brochure or contact our counsellors for exact eligibility criteria.</p>
+                            download the brochure or contact our counselors for exact eligibility criteria.</p>
                     </div>
                 </div>
 
@@ -859,7 +859,7 @@
                     <div class="amity-accordion-content">
                         <p>Rushford Business School is an internationally recognized business school. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                            details, please refer to the official brochure or contact our counselors.</p>
                     </div>
                 </div>
 
@@ -870,7 +870,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare DBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
+                            eligibility, specialization, curriculum, duration and other available program
                             information.</p>
                     </div>
                 </div>
@@ -897,7 +897,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Rushford Business School DBA Programs</p>
+                        <p>Get 100% Free Counseling on Rushford Business School DBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

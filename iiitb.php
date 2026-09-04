@@ -8,7 +8,7 @@
     <?php include "header.php"; ?>
     <script>
         window.PAGE_COURSES = [
-            { "value": "CERTIFICATE", "label": "Executive Programme in Generative AI for Leaders" },
+            { "value": "CERTIFICATE", "label": "Executive Programme in Generative AI & Agentic AI for Leaders" },
             { "value": "CERTIFICATE", "label": "Executive Post Graduate Certificate Programme in Data Science & AI" },
             { "value": "CERTIFICATE", "label": "Professional Certificate Programme in Data Science with Generative AI" },
             { "value": "CERTIFICATE", "label": "Executive Post Graduate Programme in Applied AI and Agentic AI" },
@@ -23,7 +23,7 @@
     <title>IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions
         Open | UNIVERSITY 360</title>
     <meta name="description"
-        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications." />
+        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate & Diploma Programmes or Certifications." />
     <meta name="keywords"
         content="IIIT Bangalore Online Courses, IIIT Bangalore Online Masters, IIIT Bangalore Online PG Courses, IIIT Bangalore Online Degree, IIITB Online Courses">
     <link rel="canonical" href="https://university360.co/iiitb">
@@ -37,7 +37,7 @@
     <meta property="og:title"
         content="IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate & Diploma Programmes or Certifications & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/iiitb" />
     <meta property="og:image" content="https://university360.co/images/iiit-bangalore-online-courses-banner.png" />
@@ -49,7 +49,7 @@
     <meta name="twitter:title"
         content="IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure & Admissions Open | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate & Diploma Programmes or Certifications & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/iiit-bangalore-online-courses-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -77,7 +77,7 @@
           "isPartOf": {
             "@id": "https://university360.co/#website"
           },
-          "description": "Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate, & Diploma Programmes or Certifications.",
+          "description": "Get Counseling from UNIVERSITY 360 for IIIT Bangalore Online Courses (Masters / PG Courses) Degree Fees, Eligibility, Download Brochure, Syllabus & Admissions Open. Get IIITB Placement, NIRF Ranking, Admission Process Details for IIITB Executive, CTO, Post-Graduate & Diploma Programmes or Certifications.",
           "keywords": "IIIT Bangalore Online Courses, IIIT Bangalore Online Masters, IIIT Bangalore Online PG Courses, IIIT Bangalore Online Degree, IIITB Online Courses",
           "about": [
             {
@@ -90,7 +90,7 @@
           "@id": "https://university360.co/#organization",
           "name": "University360",
           "url": "https://university360.co/",
-          "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+          "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner. All admissions, approvals and course policies are governed by the respective universities.",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "B-63, Sector-2, Noida, Gautam Buddha Nagar",
@@ -108,7 +108,7 @@
             }
           ],
           "award": [
-            "30K+ Students Counselled",
+            "30K+ Students Counseled",
             "100+ Education Experts",
             "25+ Online & Distance Programs",
             "20+ Recognized Universities"
@@ -117,16 +117,16 @@
         {
           "@type": "Service",
           "@id": "https://university360.co/iiitb/#counselingservice",
-          "name": "Educational Counselling for IIIT Bangalore Online Courses",
+          "name": "Educational Counseling for IIIT Bangalore Online Courses",
           "provider": {
             "@id": "https://university360.co/#organization"
           },
-          "serviceType": "Educational Counselling",
+          "serviceType": "Educational Counseling",
           "areaServed": {
             "@type": "Country",
             "name": "India"
           },
-          "description": "Counselling and career guidance for working professionals and students exploring IIIT Bangalore online courses in Data Science, AI, Machine Learning, and leadership programs.",
+          "description": "Counseling and career guidance for working professionals and students exploring IIIT Bangalore online courses in Data Science, AI, Machine Learning and leadership programs.",
           "offers": {
             "@type": "Offer",
             "price": "0.00",
@@ -137,17 +137,17 @@
             {
               "@type": "CreativeWork",
               "name": "Why Choose IIIT Bangalore Online Courses",
-              "text": "Premier institute credibility with strong academic standards and industry trust. Future-ready AI learning built around practical outcomes in IIIT Bangalore artificial intelligence. Strong Data Science foundation covering statistics, ML models, and business insights. Structured IIIT Bangalore certification courses for credible credentials. Leadership edge through the CTO track with IIM Udaipur AI coverage. Hands-on learning via projects, labs, and capstones across all tracks."
+              "text": "Premier institute credibility with strong academic standards and industry trust. Future-ready AI learning built around practical outcomes in IIIT Bangalore artificial intelligence. Strong Data Science foundation covering statistics, ML models and business insights. Structured IIIT Bangalore certification courses for credible credentials. Leadership edge through the CTO track with IIM Udaipur AI coverage. Hands-on learning via projects, labs and capstones across all tracks."
             },
             {
               "@type": "CreativeWork",
               "name": "IIIT Bangalore Online Courses Key Highlights",
-              "text": "NAAC A+ accredited institute. 6+ Certification courses. Partnership of IIIT Bangalore and IIM Udaipur. Programme durations ranging from 5 to 14 months. Delivered via upGrad platform. 10+ years of experience, 30K+ learners, 15+ assignments & case studies, and 30+ tools."
+              "text": "NAAC A+ accredited institute. 6+ Certification courses. Partnership of IIIT Bangalore and IIM Udaipur. Programme durations ranging from 5 to 14 months. Delivered via upGrad platform. 10+ years of experience, 30K+ learners, 15+ assignments & case studies and 30+ tools."
             },
             {
               "@type": "CreativeWork",
               "name": "IIIT Bangalore Accreditations & Approvals",
-              "text": "NAAC A+ (quality learning outcomes), UGC (institute credibility and trust in online credentials), AICTE (industry-aligned curriculum with technical rigour), and AACSB (global business-quality benchmark for leadership and learning)."
+              "text": "NAAC A+ (quality learning outcomes), UGC (institute credibility and trust in online credentials), AICTE (industry-aligned curriculum with technical rigour) and AACSB (global business-quality benchmark for leadership and learning)."
             },
             {
               "@type": "CreativeWork",
@@ -159,8 +159,8 @@
         {
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#exec_genai_leaders",
-          "name": "Executive Programme in Generative AI for Leaders - IIIT Bangalore",
-          "description": "Helps leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level outcomes.",
+          "name": "Executive Programme in Generative AI & Agentic AI for Leaders - IIIT Bangalore",
+          "description": "Helps leaders learn GenAI strategy and adoption using the A.D.A.P.T. Framework, with real business use cases, a capstone and executive-level outcomes.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore",
@@ -183,7 +183,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#exec_pg_data_science_ai",
           "name": "Executive Post Graduate Certificate Programme in Data Science & AI - IIIT Bangalore",
-          "description": "Builds skills in IIIT Bangalore data science and artificial intelligence through statistics, ML, deep learning, projects, and mentorship.",
+          "description": "Builds skills in IIIT Bangalore data science and artificial intelligence through statistics, ML, deep learning, projects and mentorship.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore",
@@ -199,7 +199,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#prof_cert_data_science_genai",
           "name": "Professional Certificate Programme in Data Science with Generative AI - IIIT Bangalore",
-          "description": "Delivers an IIIT Bangalore data science course in analytics, ML pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio support.",
+          "description": "Delivers an IIIT Bangalore data science course in analytics, ML pipelines and GenAI, with labs, real datasets, hands-on projects and portfolio support.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore",
@@ -215,7 +215,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#exec_pg_applied_agentic_ai",
           "name": "Executive Post Graduate Programme in Applied AI and Agentic AI - IIIT Bangalore",
-          "description": "Covers applied AI, agents, RAG, and automation, strengthening IIIT Bangalore's artificial intelligence skills through practical assignments.",
+          "description": "Covers applied AI, agents, RAG and automation, strengthening IIIT Bangalore's artificial intelligence skills through practical assignments.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore",
@@ -231,7 +231,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#exec_diploma_ml_ai",
           "name": "Executive Diploma in Machine Learning & Artificial Intelligence - IIIT Bangalore",
-          "description": "Offers advanced ML, MLOps, deep learning, and GenAI modules, ideal certification courses for working professionals seeking strong career growth.",
+          "description": "Offers advanced ML, MLOps, deep learning and GenAI modules, ideal certification courses for working professionals seeking strong career growth.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore",
@@ -247,7 +247,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#cto_ai_leadership",
           "name": "Chief Technology Officer & AI Leadership Programme - IIIT Bangalore powered by IIM Udaipur",
-          "description": "Powered by IIM Udaipur, this online course covers CTO AI leadership skills including tech strategy, governance, and AI decision-making. Combines IIIT Bangalore and IIM Udaipur artificial intelligence expertise to prepare future technology leaders.",
+          "description": "Powered by IIM Udaipur, this online course covers CTO AI leadership skills including tech strategy, governance and AI decision-making. Combines IIIT Bangalore and IIM Udaipur artificial intelligence expertise to prepare future technology leaders.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore in partnership with IIM Udaipur",
@@ -263,7 +263,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iiitb/#ms_ml_ai",
           "name": "Master of Science in Machine Learning & Artificial Intelligence - IIIT Bangalore",
-          "description": "MS in Machine Learning & AI with double accreditation (IIIT Bangalore + LJMU, UK) covering advanced ML, deep learning, and Generative AI with 80+ tools. Ideal for working professionals seeking career growth, with up to 433% salary hikes reported.",
+          "description": "MS in Machine Learning & AI with double accreditation (IIIT Bangalore + LJMU, UK) covering advanced ML, deep learning and Generative AI with 80+ tools. Ideal for working professionals seeking career growth, with up to 433% salary hikes reported.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIIT Bangalore in partnership with Liverpool John Moores University (LJMU), UK",
@@ -302,7 +302,7 @@
               "name": "What are the IIIT Bangalore online courses?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "They are industry-focused online programmes from IIIT Bangalore, designed for working professionals with flexible learning, projects, and recognised certification."
+                "text": "They are industry-focused online programmes from IIIT Bangalore, designed for working professionals with flexible learning, projects and recognised certification."
               }
             },
             {
@@ -310,7 +310,7 @@
               "name": "Do IIIT Bangalore certification courses help in career growth?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. These certifications add credibility, strengthen skills, and help professionals qualify for better roles in tech and management."
+                "text": "Yes. These certifications add credibility, strengthen skills and help professionals qualify for better roles in tech and management."
               }
             },
             {
@@ -318,7 +318,7 @@
               "name": "Is IIIT Bangalore artificial intelligence taught with practical training?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and capstone projects to build job-ready expertise."
+                "text": "Yes. The AI-focused programmes include real-world use cases, hands-on assignments and capstone projects to build job-ready expertise."
               }
             },
             {
@@ -326,7 +326,7 @@
               "name": "Do IIIT Bangalore data science programmes include projects?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. Data Science programmes include applied projects, tool-based learning, and an industry-aligned curriculum for real-world analytics and ML problem-solving."
+                "text": "Yes. Data Science programmes include applied projects, tool-based learning and an industry-aligned curriculum for real-world analytics and ML problem-solving."
               }
             },
             {
@@ -417,21 +417,21 @@
             <h2>Programmes &amp; Certifications at IIIT Bangalore</h2>
 
             <div class="owl-carousel amity-program-carousel">
-                <!-- Executive Programme in Generative AI for Leaders -->
+                <!-- Executive Programme in Generative AI & Agentic AI for Leaders -->
                 <div class="item">
                     <div class="amity-course-card">
                         <span class="amity-course-badge">Executive Programme</span>
                         <img src="images/IIITB Executive Programme in Generative AI for Leaders.webp"
-                            alt="Executive Programme in Generative AI for Leaders" class="amity-course-img">
+                            alt="Executive Programme in Generative AI & Agentic AI for Leaders" class="amity-course-img">
                         <div class="amity-course-body">
-                            <h3>Executive Programme in Generative AI for Leaders</h3>
-                            <h4>Generative AI for Leaders</h4>
+                            <h3>Executive Programme in Generative AI & Agentic AI for Leaders</h3>
+                            <h4>Generative AI & Agentic AI for Leaders</h4>
                             <p>IIIT Bangalore online courses help leaders learn GenAI strategy and adoption using the
-                                A.D.A.P.T. Framework, with real business use cases, a capstone, and executive-level
+                                A.D.A.P.T. Framework, with real business use cases, a capstone and executive-level
                                 outcomes.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
-                                    onclick="openBrochurePopup('brochures/IIITB_Executive_Program_in_Generative_AI_for_Leaders.pdf', 'Executive Programme in Generative AI for Leaders')">
+                                    onclick="openBrochurePopup('brochures/IIITB_Executive_Program_in_Generative_AI_for_Leaders.pdf', 'Executive Programme in Generative AI & Agentic AI for Leaders')">
                                     <span>Get Brochure</span> <i class="fa fa-download"></i>
                                 </button>
                                 <span class="duration-info"><i class="fa fa-hourglass-half"></i> 20 weeks</span>
@@ -451,7 +451,7 @@
                             <h3>Executive Post Graduate Certificate Programme in Data Science & AI</h3>
                             <h4>Data Science & AI</h4>
                             <p>IIIT Bangalore online courses build skills in data science and artificial intelligence
-                                through statistics, ML, deep learning, projects, and mentorship.</p>
+                                through statistics, ML, deep learning, projects and mentorship.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/IIITB_EPGC_DS_AI.pdf', 'Executive Post Graduate Certificate Programme in Data Science & AI')">
@@ -474,7 +474,7 @@
                             <h3>Professional Certificate Programme in Data Science with Generative AI</h3>
                             <h4>Data Science with Generative AI</h4>
                             <p>IIIT Bangalore online courses offer a data science course covering analytics, ML
-                                pipelines, and GenAI, with labs, real datasets, hands-on projects, and portfolio
+                                pipelines and GenAI, with labs, real datasets, hands-on projects and portfolio
                                 support.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -497,7 +497,7 @@
                         <div class="amity-course-body">
                             <h3>Executive Post Graduate Programme in Applied AI and Agentic AI</h3>
                             <h4>Applied AI & Agentic AI</h4>
-                            <p>IIIT Bangalore certification courses cover applied AI, agents, RAG, and automation,
+                            <p>IIIT Bangalore certification courses cover applied AI, agents, RAG and automation,
                                 strengthening IIIT Bangalore's artificial intelligence skills through assignments.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -520,7 +520,7 @@
                         <div class="amity-course-body">
                             <h3>Executive Diploma in Machine Learning & Artificial Intelligence</h3>
                             <h4>Machine Learning & AI</h4>
-                            <p>IIIT Bangalore's online courses offer advanced modules in ML, MLOps, deep learning, and
+                            <p>IIIT Bangalore's online courses offer advanced modules in ML, MLOps, deep learning and
                                 GenAI, making them ideal certification courses for working professionals seeking strong
                                 career growth.</p>
                             <div class="amity-course-footer">
@@ -568,7 +568,7 @@
                             <h3>Master of Science in Machine Learning & Artificial Intelligence</h3>
                             <h4>MS in ML & AI</h4>
                             <p>IIIT Bangalore's MS in Machine Learning & AI offers dual accreditation (IIIT Bangalore +
-                                LJMU, UK), covering advanced ML, deep learning, and Generative AI, with 80+ tools. Ideal
+                                LJMU, UK), covering advanced ML, deep learning and Generative AI, with 80+ tools. Ideal
                                 for working professionals seeking career growth, achieving up to 433% salary hikes.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -636,7 +636,7 @@
                         <div class="approval-icon"><img src="images/aicte-1.webp" alt="Globally Accredited"></div>
                         <h4>AICTE</h4>
                         <p>It makes sure that the course is industry-aligned with curriculum standards, technical
-                            rigour, and value.</p>
+                            rigour and value.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -704,7 +704,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -751,7 +751,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and
+                        <p>Share your basic details so our counselors can understand your academic background and
                             career goals.</p>
                     </div>
                 </div>
@@ -760,8 +760,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships,
                             placement support and available programs.</p>
                     </div>
                 </div>
@@ -771,7 +771,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and
+                        <p>Select the university and course that best match your education, interests, budget and
                             future career plans.</p>
                     </div>
                 </div>
@@ -791,7 +791,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected
                             institution or university.</p>
                     </div>
                 </div>
@@ -801,7 +801,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get
+                        <p>Receive application updates, complete the required admission formalities and get
                             confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
@@ -819,8 +819,8 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
-                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes and admission details in one
                                     place.</p>
                             </div>
                         </div>
@@ -828,20 +828,20 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
                                 <p>Explore online courses designed for working professionals and flexible learners, with
-                                    details on study options, learning resources, and student support.</p>
+                                    details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection,
-                                    eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection,
+                                    eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams
                                     and other admission-related information for your selected program.</p>
                             </div>
                         </div>
@@ -1048,16 +1048,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -1079,7 +1079,7 @@
                         <span>Q1. How can UNIVERSITY 360 help with IIITB Online Programmes?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring IIITB Online Programmes.</p>
                     </div>
                 </div>
@@ -1091,7 +1091,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>They are industry-focused online programmes from IIIT Bangalore, designed for working
-                            professionals, offering flexible learning, projects, and a recognised certification.</p>
+                            professionals, offering flexible learning, projects and a recognised certification.</p>
                     </div>
                 </div>
 
@@ -1101,7 +1101,7 @@
                         <span>Q3. Do IIIT Bangalore certification courses help in career growth?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. These certifications add credibility, strengthen skills, and help professionals qualify
+                        <p>Yes. These certifications add credibility, strengthen skills and help professionals qualify
                             for better roles in tech and management.</p>
                     </div>
                 </div>
@@ -1112,7 +1112,7 @@
                         <span>Q4. Is artificial intelligence taught at IIIT Bangalore with practical training?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments, and
+                        <p>Yes. The AI-focused programmes include real-world use cases, hands-on assignments and
                             capstone projects to build job-ready expertise.</p>
                     </div>
                 </div>
@@ -1125,7 +1125,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online executive programmes, including CTO
-                            certifications, based on factors such as eligibility, curriculum, duration, and other
+                            certifications, based on factors such as eligibility, curriculum, duration and other
                             available information.</p>
                     </div>
                 </div>
@@ -1136,7 +1136,7 @@
                         <span>Q6. Do IIIT Bangalore data science programmes include projects?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>Yes. Data Science programmes include applied projects, tool-based learning, and an
+                        <p>Yes. Data Science programmes include applied projects, tool-based learning and an
                             industry-aligned curriculum for real-world analytics and ML problem-solving.</p>
                     </div>
                 </div>
@@ -1162,7 +1162,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on International Institute of Information Technology Bangalore DBA
+                        <p>Get 100% Free Counseling on International Institute of Information Technology Bangalore DBA
                             Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">

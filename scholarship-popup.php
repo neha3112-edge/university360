@@ -19,17 +19,22 @@ $base_url = BASE_URL;
         <div class="splz-form-container">
             <div id="form">
                 <div class="frm-heading" style="border-left: 3px solid #fbcb12; padding-left: 10px;">
-                    <h5><strong><span class="sp-text" style="color: #002B5C;">Get Scholarship Coupon Code</span></strong></h5>
-                    <p style="font-size: 12px; color: #666; margin: 2px 0 0 0;">Academic Experts will assist you with up to 100% Scholarship!</p>
+                    <h5><strong><span class="sp-text" style="color: #002B5C;">Get Scholarship Coupon
+                                Code</span></strong></h5>
+                    <p style="font-size: 12px; color: #666; margin: 2px 0 0 0;">Get expert academic guidance and claim
+                        your exclusive scholarship today!</p>
                 </div>
                 <hr style="margin: 10px 0 15px 0;">
 
                 <form action="<?= $base_url ?>mail.php" method="post" name="scholarship_form" id="scholarship-form">
-                    <input type="text" name="full_name" id="scholarship_full_name" class="form-control" placeholder="Enter Your Name" required>
+                    <input type="text" name="full_name" id="scholarship_full_name" class="form-control"
+                        placeholder="Enter Your Name" required>
 
-                    <input type="email" name="email" id="scholarship_email" class="form-control" placeholder="Enter Your Email" required>
+                    <input type="email" name="email" id="scholarship_email" class="form-control"
+                        placeholder="Enter Your Email" required>
 
-                    <input type="tel" name="phone" id="scholarship_phone" pattern="[0-9]{10}" maxlength="10" class="form-control" placeholder="Enter 10-digit Mobile Number" required>
+                    <input type="tel" name="phone" id="scholarship_phone" pattern="[0-9]{10}" maxlength="10"
+                        class="form-control" placeholder="Enter 10-digit Mobile Number" required>
 
                     <select name="course" class="form-control" id="scholarship_course" required>
                         <option value="" hidden>Select Your Course</option>
@@ -72,7 +77,8 @@ $base_url = BASE_URL;
                         <option value="Ladakh">Ladakh</option>
                         <option value="Chandigarh">Chandigarh</option>
                         <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
-                        <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and Diu</option>
+                        <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and
+                            Diu</option>
                     </select>
 
                     <input type="hidden" name="source" id="scholarship_source" value="UNIV360" required>

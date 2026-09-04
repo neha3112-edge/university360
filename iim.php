@@ -187,14 +187,14 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -255,7 +255,7 @@
 
 					<img src="images/student-enrolled.webp">
 					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+					<p>Students <br>Counseled</p>
 
 				</div>
 
@@ -311,7 +311,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -366,7 +366,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore DBA Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore Doctor of Business Administration programs across
-                                    multiple specializations. Compare programs, eligibility, specializations, and
+                                    multiple specializations. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -390,7 +390,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore DBA &amp; Doctoral Options
                                 </h3>
-                                <p>Compare DBA programs, specializations such as Finance, HR, Data Science, Marketing,
+                                <p>Compare DBA programs, specializations such as Finance, HR, Data Science, Marketing
                                     and Supply Chain Management based on your professional background and career goals.
                                 </p>
                             </div>
@@ -1013,7 +1013,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -1035,16 +1035,16 @@
 			<p class="about-u360-text">
 				University 360 is your trusted partner in achieving your higher education goals. We guide students in
 				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
+				counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+				universities, accredited online degree programs, admissions, eligibility, fees and career
 				opportunities, helping students make confident decisions.
 			</p>
 
 			<p class="about-u360-text">
 				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
 				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
+				reliable university insights, expert support and student-focused services, we empower learners across
+				India to choose the right course, build the right skills and create a successful future with
 				confidence.
 			</p>
 
@@ -1066,7 +1066,7 @@
                         <span>Q1. How can UNIVERSITY 360 help with IIM Kozhikode DBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for business professionals exploring IIM Kozhikode DBA programs.</p>
                     </div>
                 </div>
@@ -1079,7 +1079,7 @@
                     <div class="amity-accordion-content">
                         <p>Typically, candidates with a Master's degree (MBA or equivalent) and significant
                             professional experience are eligible for the DBA program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                            contact our counselors for exact eligibility criteria.</p>
                     </div>
                 </div>
 
@@ -1103,7 +1103,7 @@
                     <div class="amity-accordion-content">
                         <p>IIM Kozhikode is an internationally recognized business school. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                            details, please refer to the official brochure or contact our counselors.</p>
                     </div>
                 </div>
 
@@ -1114,7 +1114,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare DBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
+                            eligibility, specialization, curriculum, duration and other available program
                             information.</p>
                     </div>
                 </div>
@@ -1142,7 +1142,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on IIM Kozhikode DBA Programs</p>
+                        <p>Get 100% Free Counseling on IIM Kozhikode DBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

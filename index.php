@@ -59,7 +59,7 @@
 	  "isPartOf": {
 		"@id": "https://university360.co/#website"
 	  },
-	  "description": "UNIVERSITY 360 is India's trusted education counseling platform. Get counseling for online degree courses in India, distance education MBA courses, and UGC approved online degrees.",
+	  "description": "UNIVERSITY 360 is India's trusted education counseling platform. Get counseling for online degree courses in India, distance education MBA courses and UGC approved online degrees.",
 	  "keywords": "online degree courses in india, online degree courses, online degree programs accredited, accredited online degree programs, online degree programs, online degrees and programs, ugc approved online degree courses in india, online degree courses after 12th, distance education courses, what distance education, list of distance education courses, distance education courses list, what is distance learning courses, is distance education degree valid, distance education courses after 12th, best mba online degree programs, mba online degree programs, online degree programs mba, distance education mba courses, online degree programs computer science, distance learning diploma courses",
 	  "about": [
 		{
@@ -73,19 +73,19 @@
 	  "name": "UNIVERSITY 360",
 	  "url": "https://university360.co/",
 	  "slogan": "#LearnWithFreedom",
-	  "description": "UNIVERSITY 360 is India's Trusted Education Counseling Platform. We help students & working professionals explore and compare UGC-Approved Online Degrees (such as Online MBA, MCA, M.Com, MA, M.Sc, BBA, BCA, B.Com, BA, & B.Sc). We act strictly as an authorized counseling and career guidance partner; we do not conduct admissions, collect university fees, or award degrees.",
+	  "description": "UNIVERSITY 360 is India's Trusted Education Counseling Platform. We help students & working professionals explore and compare UGC-Approved Online Degrees (such as Online MBA, MCA, M.Com, MA, M.Sc, BBA, BCA, B.Com, BA & B.Sc). We act strictly as an authorized counseling and career guidance partner; we do not conduct admissions, collect university fees, or award degrees.",
 	  "knowsAbout": [
 		"Online Degree Courses in India",
 		"Distance Education Programs",
-		"Career Counselling & Guidance"
+		"Career Counseling & Guidance"
 	  ],
 	  "potentialAction": {
 		"@type": "Action",
-		"name": "Download Brochure & Get Counselling",
+		"name": "Download Brochure & Get Counseling",
 		"target": "https://university360.co/"
 	  },
 	  "award": [
-		"30K+ Students Counselled",
+		"30K+ Students Counseled",
 		"100+ Education Experts",
 		"25+ Online & Distance Programs",
 		"20+ Recognized Universities"
@@ -103,23 +103,23 @@
 		"@type": "Country",
 		"name": "India"
 	  },
-	  "description": "Authorized Counselling Partner for Top Online Universities. Helps students and working professionals compare university approvals, locations, and fees to find UGC, NAAC, and AICTE accredited online degree programs.",
+	  "description": "Authorized Counseling Partner for Top Online Universities. Helps students and working professionals compare university approvals, locations and fees to find UGC, NAAC and AICTE accredited online degree programs.",
 	  "offers": {
 		"@type": "Offer",
 		"price": "0.00",
 		"priceCurrency": "INR",
-		"description": "Expert Career Counselling & Personalized Course Recommendations"
+		"description": "Expert Career Counseling & Personalized Course Recommendations"
 	  },
 	  "subjectOf": [
 		{
 		  "@type": "CreativeWork",
 		  "name": "Why 10,000+ Students Trust UNIVERSITY 360",
-		  "text": "Expert Career Counselling (personalized guidance from experienced counsellors), Trusted University Information (accurate details about UGC-approved online & distance universities), Wide Range of Courses (compare online degree courses, distance education, and diplomas), Personalized Course Recommendations (matching interests and budget), End-to-End Admission Support (assistance with course selection, eligibility, documentation), and Student-Centric Approach."
+		  "text": "Expert Career Counseling (personalized guidance from experienced counselors), Trusted University Information (accurate details about UGC-approved online & distance universities), Wide Range of Courses (compare online degree courses, distance education and diplomas), Personalized Course Recommendations (matching interests and budget), End-to-End Admission Support (assistance with course selection, eligibility, documentation) and Student-Centric Approach."
 		},
 		{
 		  "@type": "CreativeWork",
 		  "name": "UNIVERSITY 360 Checklist for Trusted Universities & Courses",
-		  "text": "UGC Approved (recognized by the University Grants Commission), UGC-DEB Recognized (authorized for online/distance learning), NAAC Accredited (meets high teaching and quality standards), AICTE Approved (quality standards for technical/management programs), NIRF Ranked (academic and research performance), and AIU Recognized (degrees accepted widely for academic equivalence)."
+		  "text": "UGC Approved (recognized by the University Grants Commission), UGC-DEB Recognized (authorized for online/distance learning), NAAC Accredited (meets high teaching and quality standards), AICTE Approved (quality standards for technical/management programs), NIRF Ranked (academic and research performance) and AIU Recognized (degrees accepted widely for academic equivalence)."
 		}
 	  ]
 	},
@@ -127,7 +127,7 @@
 	  "@type": "Course",
 	  "@id": "https://university360.co/#online_mba",
 	  "name": "Online MBA",
-	  "description": "Develop leadership and business skills through accredited online degree programs designed for career growth, flexibility, and professional success. (Note: UNIVERSITY 360 acts as the authorized counseling partner to help you select the right university for this course).",
+	  "description": "Develop leadership and business skills through accredited online degree programs designed for career growth, flexibility and professional success. (Note: UNIVERSITY 360 acts as the authorized counseling partner to help you select the right university for this course).",
 	  "provider": {
 		"@type": "EducationalOrganization",
 		"name": "UGC-Approved Online Universities"
@@ -222,7 +222,7 @@
 	  "@type": "Course",
 	  "@id": "https://university360.co/#online_bba",
 	  "name": "Online BBA",
-	  "description": "Learn business, marketing, and management through one of the most popular online degree courses after 12th for future leaders. (Note: UNIVERSITY 360 acts as the authorized counseling partner to help you select the right university for this course).",
+	  "description": "Learn business, marketing and management through one of the most popular online degree courses after 12th for future leaders. (Note: UNIVERSITY 360 acts as the authorized counseling partner to help you select the right university for this course).",
 	  "provider": {
 		"@type": "EducationalOrganization",
 		"name": "UGC-Approved Online Universities"
@@ -246,7 +246,7 @@
 		  "name": "How does UNIVERSITY 360 help students?",
 		  "acceptedAnswer": {
 			"@type": "Answer",
-			"text": "We help students compare universities, explore online degree programs, understand eligibility, fees, approvals, and choose the right course based on their career goals."
+			"text": "We help students compare universities, explore online degree programs, understand eligibility, fees, approvals and choose the right course based on their career goals."
 		  }
 		},
 		{
@@ -254,7 +254,7 @@
 		  "name": "Are the universities listed on UNIVERSITY 360 approved?",
 		  "acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Yes. We feature information about universities that are recognized by regulatory bodies such as UGC, UGC-DEB, NAAC, and other relevant authorities, wherever applicable."
+			"text": "Yes. We feature information about universities that are recognized by regulatory bodies such as UGC, UGC-DEB, NAAC and other relevant authorities, wherever applicable."
 		  }
 		},
 		{
@@ -262,7 +262,7 @@
 		  "name": "Can I find online degree courses after 12th on UNIVERSITY 360?",
 		  "acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Yes. Students can explore a wide range of online degree courses after 12th, including BBA, BCA, B.Com, BA, and B.Sc., along with postgraduate programs like MBA, MCA, M.Com, MA, and M.Sc."
+			"text": "Yes. Students can explore a wide range of online degree courses after 12th, including BBA, BCA, B.Com, BA and B.Sc., along with postgraduate programs like MBA, MCA, M.Com, MA and M.Sc."
 		  }
 		},
 		{
@@ -270,15 +270,15 @@
 		  "name": "Does UNIVERSITY 360 provide admission or award degrees?",
 		  "acceptedAnswer": {
 			"@type": "Answer",
-			"text": "No. UNIVERSITY 360 works only as a counseling, information, and career guidance platform. We help students explore universities and courses, but we do not conduct admissions, collect university fees, or award degrees."
+			"text": "No. UNIVERSITY 360 works only as a counseling, information and career guidance platform. We help students explore universities and courses, but we do not conduct admissions, collect university fees, or award degrees."
 		  }
 		},
 		{
 		  "@type": "Question",
-		  "name": "Is career counselling available for both online and distance education?",
+		  "name": "Is career counseling available for both online and distance education?",
 		  "acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Yes. Our career counselling services help students choose the right online degree programs or distance education courses based on their academic qualifications, career aspirations, and future goals."
+			"text": "Yes. Our career counseling services help students choose the right online degree programs or distance education courses based on their academic qualifications, career aspirations and future goals."
 		  }
 		}
 	  ]
@@ -299,7 +299,7 @@
 					<h1>University360: India's Trusted Education Counseling Platform for Online Degree Programs
 					</h1>
 					<p style="padding-bottom:20px; font-size:14px;">University360 helps students & working professionals
-						to achieve UGC-Approved Online Degree | Online MBA, MCA, M.Com, MA, M.Sc, BBA, BCA, B.Com, BA, &
+						to achieve UGC-Approved Online Degree | Online MBA, MCA, M.Com, MA, M.Sc, BBA, BCA, B.Com, BA &
 						B.Sc</p>
 
 					<div class="slider owl-carousel">
@@ -369,11 +369,11 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 universities-heading">
-						<p class="mba-sub-h">Get Counselling for Online Degrees from Trusted Universities</p>
-						<h2><b>University360: Authorized Counselling Partner for Top Online Universities</b></h2>
+						<p class="mba-sub-h">Get Counseling for Online Degrees from University360</p>
+						<h2><b>University360: Authorized Counseling Partner for Top Online Universities</b></h2>
 						<p class="univ-section-desc"
 							style="color: #555; font-size: 14px; margin-top: 6px; margin-bottom: 20px; line-height: 1.5;">
-							Compare UGC-recognized universities on approvals, programmes, locations, and fees to choose
+							Compare UGC-recognized universities on approvals, programmes, locations and fees to choose
 							an institution that matches your academic and career goals.</p>
 					</div>
 				</div>
@@ -1019,7 +1019,7 @@
 			<p class="about-u360-text">
 				University 360 is a reliable platform that helps students explore distance education universities and
 				online learning options across India. We provide clear and useful information about universities,
-				courses, admissions, eligibility, fees, approvals, and career opportunities. This makes it easier for
+				courses, admissions, eligibility, fees, approvals and career opportunities. This makes it easier for
 				learners to understand their choices and select a course that suits their goals.
 			</p>
 
@@ -1032,7 +1032,7 @@
 
 			<p class="about-u360-text">
 				Our goal is simple: to make higher education easier to understand and easier to choose. With practical
-				university information, personalised guidance, and student-focused support, we help learners find
+				university information, personalised guidance and student-focused support, we help learners find
 				suitable courses and plan their education.
 			</p>
 
@@ -1051,7 +1051,7 @@
 
 					<img src="images/student-enrolled.webp">
 					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+					<p>Students <br>Counseled</p>
 
 				</div>
 
@@ -1098,10 +1098,10 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="working-p-box">
-							<img src="images/ic-2.webp" alt="Expert Career Counselling">
+							<img src="images/ic-2.webp" alt="Expert Career Counseling">
 							<div class="working-p-cnt">
-								<h4>Expert Career Counselling</h4>
-								<p>Personalised Career Guidance:- Get personalised guidance from expert counsellors in
+								<h4>Expert Career Counseling</h4>
+								<p>Personalised Career Guidance:- Get personalised guidance from expert counselors in
 									choosing the right university and course.</p>
 							</div>
 						</div>
@@ -1125,7 +1125,7 @@
 							<img src="images/ic3.webp" alt="Wide Range of Courses">
 							<div class="working-p-cnt">
 								<h4>Wide Range of Courses</h4>
-								<p>Compare online degree courses, distance education programs, diplomas, UG, and PG
+								<p>Compare online degree courses, distance education programs, diplomas, UG and PG
 									courses in one place.</p>
 							</div>
 						</div>
@@ -1137,7 +1137,7 @@
 							<div class="working-p-cnt">
 								<h4>Find the Right Course
 								</h4>
-								<p>Find the right course based on your qualifications, interests, career goals, and
+								<p>Find the right course based on your qualifications, interests, career goals and
 									budget.
 								</p>
 							</div>
@@ -1151,7 +1151,7 @@
 							<img src="images/ic4.webp" alt="End-to-End Admission Support">
 							<div class="working-p-cnt">
 								<h4>End-to-End Admission Support</h4>
-								<p>Receive assistance with course selection, eligibility, documentation, and the
+								<p>Receive assistance with course selection, eligibility, documentation and the
 									admission process.</p>
 							</div>
 						</div>
@@ -1212,7 +1212,7 @@
 							<img src="images/naac-a.webp" alt="NAAC Accredited">
 						</div>
 						<h4>NAAC Accredited</h4>
-						<p>Shows that the university meets high standards of teaching, infrastructure, research, and
+						<p>Shows that the university meets high standards of teaching, infrastructure, research and
 							overall educational quality.</p>
 					</div>
 				</div>
@@ -1235,7 +1235,7 @@
 						</div>
 						<h4>NIRF Ranked</h4>
 						<p>Reflects the university's performance and ranking based on teaching, research, graduation
-							outcomes, and overall excellence.</p>
+							outcomes and overall excellence.</p>
 					</div>
 				</div>
 
@@ -1245,7 +1245,7 @@
 							<img src="images/wes.webp" alt="AIU Recognized">
 						</div>
 						<h4>AIU Member</h4>
-						<p>Ensures the university's degrees are widely accepted for higher education, employment, and
+						<p>Ensures the university's degrees are widely accepted for higher education, employment and
 							academic equivalence across institutions.</p>
 					</div>
 				</div>
@@ -1260,7 +1260,7 @@
 
 				<div class="row">
 					<div class="col-md-12 courses-heading">
-						<p class="sub-h-splz">Find Your Trusted Counselling Partner for Online Degree Programs</p>
+						<p class="sub-h-splz">Find Your Trusted Counseling Partner for Online Degree Programs</p>
 						<h2>Top Online Degree Programs</h2><br>
 					</div>
 				</div>
@@ -1272,7 +1272,7 @@
 							<div class="course-details">
 								<h3>Online MBA</h3>
 								<p>Develop leadership and business skills through accredited online degree programs
-									designed for career growth, flexibility, and professional success.</p>
+									designed for career growth, flexibility and professional success.</p>
 								<p><span class='ab2'>Ideal For: </span> Professionals &amp; aspiring managers</p>
 								<p><span class='ab2'>Duration: </span> 2 Years</p>
 								<hr>
@@ -1346,7 +1346,7 @@
 							<img src="images/BBA.webp" alt="Online BBA">
 							<div class="course-details">
 								<h3>Online BBA</h3>
-								<p>Learn business, marketing, and management through one of the most popular online
+								<p>Learn business, marketing and management through one of the most popular online
 									degree courses after 12th for future leaders.</p>
 								<p><span class='ab2'>Ideal For: </span> Future managers &amp; entrepreneurs</p>
 								<p><span class='ab2'>Duration: </span> 3 Years</p>
@@ -1379,7 +1379,7 @@
 								<img src="images/Bcom.webp" alt="Online B.Com">
 								<div class="course-details">
 									<h3>Online B.Com</h3>
-									<p>Develop accounting, finance, and business skills through accredited online degree
+									<p>Develop accounting, finance and business skills through accredited online degree
 										programs designed for commerce and banking careers.</p>
 									<p><span class='ab2'>Ideal For: </span> Commerce students</p>
 									<p><span class='ab2'>Duration: </span> 3 Years</p>
@@ -1442,7 +1442,7 @@
 					<div class="accordion-content">
 						<p>
 							We help students compare online universities, explore degree programs, understand
-							eligibility, fees, approvals, and choose the right course based on their career goals.
+							eligibility, fees, approvals and choose the right course based on their career goals.
 						</p>
 					</div>
 				</div>
@@ -1456,7 +1456,7 @@
 							Yes, we feature recognised and approved institutions offering online and distance education
 							programmes. Students can check the list of distance education universities approved by UGC
 							and online universities before applying. We recommend verifying the university, course, mode
-							of delivery, and applicable academic session on the official UGC-DEB portal before taking
+							of delivery and applicable academic session on the official UGC-DEB portal before taking
 							admission.
 						</p>
 					</div>
@@ -1470,7 +1470,7 @@
 					<div class="accordion-content">
 						<p>
 							Yes. Students can explore a wide range of online degree courses after 12th, including BBA,
-							BCA, B.Com, BA, and B.Sc., along with postgraduate programs like MBA, MCA, M.Com, MA, and
+							BCA, B.Com, BA and B.Sc., along with postgraduate programs like MBA, MCA, M.Com, MA and
 							M.Sc.
 						</p>
 					</div>
@@ -1482,7 +1482,7 @@
 					</button>
 					<div class="accordion-content">
 						<p>
-							No. University360 works only as a counseling, information, and career guidance platform. We
+							No. University360 works only as a counseling, information and career guidance platform. We
 							help students explore universities and courses, but we do not conduct admissions, collect
 							university fees, or award degrees.
 						</p>
@@ -1490,14 +1490,14 @@
 				</div>
 				<div class="accordion-item">
 					<button id="accordion-button-5" aria-expanded="false">
-						<span class="accordion-title">5. Is career counselling available for both online and distance
+						<span class="accordion-title">5. Is career counseling available for both online and distance
 							education?</span>
 						<span class="icon" aria-hidden="true"></span>
 					</button>
 					<div class="accordion-content">
 						<p>
-							Yes. Our career counselling services help students choose the right online degree programs
-							or distance education courses based on their academic qualifications, career aspirations,
+							Yes. Our career counseling services help students choose the right online degree programs
+							or distance education courses based on their academic qualifications, career aspirations
 							and future goals.
 						</p>
 					</div>
@@ -1511,7 +1511,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-						<p>Get 100% Free Counselling on Online Degree Courses & Distance Education Programs</p>
+						<p>Get 100% Free Counseling on Online Degree Courses & Distance Education Programs</p>
 					</div>
 					<div class="col-md-6">
 						<center> <button class="ftr-btn" onclick="openPopup()"><i

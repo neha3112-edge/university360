@@ -49,7 +49,7 @@
     <meta property="og:title"
         content="Paris School of Business Online MBA | Executive Program in Strategy, Finance, AI & Leadership from IIM Lucknow | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for Paris School of Business Online MBA (PSB) Eligibility, Syllabus, Download Brochure & Fees for Indian Students Admissions Open | Executive Program in Strategy, Innovation, Finance, AI & Leadership from IIM Lucknow, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for Paris School of Business Online MBA (PSB) Eligibility, Syllabus, Download Brochure & Fees for Indian Students Admissions Open | Executive Program in Strategy, Innovation, Finance, AI & Leadership from IIM Lucknow & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/psb/" />
     <meta property="og:image"
@@ -62,7 +62,7 @@
     <meta name="twitter:title"
         content="Paris School of Business Online MBA | Executive Program in Strategy, Finance, AI & Leadership from IIM Lucknow | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for Paris School of Business Online MBA (PSB) Eligibility, Syllabus, Download Brochure & Fees for Indian Students Admissions Open | Executive Program in Strategy, Innovation, Finance, AI & Leadership from IIM Lucknow, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for Paris School of Business Online MBA (PSB) Eligibility, Syllabus, Download Brochure & Fees for Indian Students Admissions Open | Executive Program in Strategy, Innovation, Finance, AI & Leadership from IIM Lucknow & How to Apply?" />
     <meta name="twitter:image"
         content="https://university360.co/images/paris-school-of-business-online-mba-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
@@ -105,7 +105,7 @@
           "name": "University360",
           "url": "https://university360.co/",
           "slogan": "#LearnWithFreedom",
-          "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+          "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner. All admissions, approvals and course policies are governed by the respective universities.",
           "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+919218082995",
@@ -113,7 +113,7 @@
             "contactType": "customer support"
           },
           "award": [
-            "30K+ Students Counselled",
+            "30K+ Students Counseled",
             "100+ Education Experts",
             "25+ Online & Distance Programs",
             "20+ Recognized Universities"
@@ -122,16 +122,16 @@
         {
           "@type": "Service",
           "@id": "https://university360.co/psb/#counselingservice",
-          "name": "Education Guidance and Counselling for Paris School of Business MBA Programs",
+          "name": "Education Guidance and Counseling for Paris School of Business MBA Programs",
           "provider": {
             "@id": "https://university360.co/#organization"
           },
-          "serviceType": "Educational Counselling",
+          "serviceType": "Educational Counseling",
           "areaServed": {
             "@type": "Country",
             "name": "India"
           },
-          "description": "Get 100% Free Counselling on Paris School of Business MBA Programs. Compare globally recognized MBA and doctoral options across Finance, HR, Data Science, Marketing, and Supply Chain Management based on your career goals.",
+          "description": "Get 100% Free Counseling on Paris School of Business MBA Programs. Compare globally recognized MBA and doctoral options across Finance, HR, Data Science, Marketing and Supply Chain Management based on your career goals.",
           "offers": {
             "@type": "Offer",
             "price": "0.00",
@@ -142,12 +142,12 @@
             {
               "@type": "CreativeWork",
               "name": "How to Apply for a MBA Program with UNIVERSITY 360",
-              "text": "1. Submit Form (share details to explore programs). 2. Get Guidance (connect with a counsellor for course/eligibility details). 3. Select Program (choose specialization). 4. Complete Application (apply via relevant university channel). 5. Submit Documents (upload academic/professional documents). 6. Admission Update."
+              "text": "1. Submit Form (share details to explore programs). 2. Get Guidance (connect with a counselor for course/eligibility details). 3. Select Program (choose specialization). 4. Complete Application (apply via relevant university channel). 5. Submit Documents (upload academic/professional documents). 6. Admission Update."
             },
             {
               "@type": "CreativeWork",
               "name": "Checklist for Trusted Universities & Courses (Approvals & Recognition)",
-              "text": "UGC Approved (degrees valid across India), UGC-DEB Recognized (authorized for online/distance programs), Globally Accredited (Paris School of Business is internationally recognized), AICTE Approved (quality standards for management), NIRF Ranked (performance/excellence), and AIU Recognized (equivalence across institutions)."
+              "text": "UGC Approved (degrees valid across India), UGC-DEB Recognized (authorized for online/distance programs), Globally Accredited (Paris School of Business is internationally recognized), AICTE Approved (quality standards for management), NIRF Ranked (performance/excellence) and AIU Recognized (equivalence across institutions)."
             }
           ]
         },
@@ -317,7 +317,7 @@
               "name": "How can UNIVERSITY 360 help with Paris School of Business MBA programs?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for business professionals exploring Paris School of Business MBA programs."
+                "text": "UNIVERSITY 360 provides program information, counseling, course comparison and admission guidance for business professionals exploring Paris School of Business MBA programs."
               }
             },
             {
@@ -325,7 +325,7 @@
               "name": "What is the eligibility for a MBA program at Paris School of Business?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Typically, candidates with a Master's degree (MBA or equivalent) and significant professional experience are eligible for the MBA program. Please download the brochure or contact our counsellors for exact eligibility criteria."
+                "text": "Typically, candidates with a Master's degree (MBA or equivalent) and significant professional experience are eligible for the MBA program. Please download the brochure or contact our counselors for exact eligibility criteria."
               }
             },
             {
@@ -341,7 +341,7 @@
               "name": "Is the MBA from Paris School of Business globally recognized?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Paris School of Business is an internationally recognized business school. The MBA degree is designed to meet global academic and professional standards. For specific recognition details, please refer to the official brochure or contact our counsellors."
+                "text": "Paris School of Business is an internationally recognized business school. The MBA degree is designed to meet global academic and professional standards. For specific recognition details, please refer to the official brochure or contact our counselors."
               }
             },
             {
@@ -349,7 +349,7 @@
               "name": "Can UNIVERSITY 360 help me compare MBA programs and doctoral options?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. UNIVERSITY 360 helps learners compare MBA programs based on factors such as eligibility, specialization, curriculum, duration, and other available program information."
+                "text": "Yes. UNIVERSITY 360 helps learners compare MBA programs based on factors such as eligibility, specialization, curriculum, duration and other available program information."
               }
             },
             {
@@ -459,7 +459,7 @@
                             <h3>MBA in AI and Technology</h3>
                             <h4>Master of Business Administration</h4>
                             <p>Build skills to handle artificial intelligence, emerging technologies, digital
-                                transformation, and technology-driven business strategies.</p>
+                                transformation and technology-driven business strategies.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in AI and Technology')">
@@ -478,7 +478,7 @@
                             <h3>MBA in Finance</h3>
                             <h4>Master of Business Administration</h4>
                             <p>Build industry-aligned knowledge in financial management, investment analysis, corporate
-                                finance, risk management, and strategic financial decision-making.</p>
+                                finance, risk management and strategic financial decision-making.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/psb_main_brochure.pdf', 'MBA in Finance')">
@@ -496,7 +496,7 @@
                         <div class="amity-course-body">
                             <h3>MBA in Marketing</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Develop knowledge of marketing strategy, consumer behaviour, branding, digital marketing,
+                            <p>Develop knowledge of marketing strategy, consumer behaviour, branding, digital marketing
                                 and market research to drive business growth.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -516,7 +516,7 @@
                         <div class="amity-course-body">
                             <h3>MBA in Operations and Supply Chain</h3>
                             <h4>Master of Business Administration</h4>
-                            <p>Learn to manage business operations, logistics, supply chains, and processes to improve
+                            <p>Learn to manage business operations, logistics, supply chains and processes to improve
                                 organisational performance.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -551,7 +551,7 @@
                         </div>
                         <h4>AACSB Accredited</h4>
                         <p>AACSB accreditation recognizes IIM Lucknow's excellence in business education, research,
-                            faculty quality, and continuous innovation.</p>
+                            faculty quality and continuous innovation.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -627,7 +627,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -674,7 +674,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and
+                        <p>Share your basic details so our counselors can understand your academic background and
                             career goals.</p>
                     </div>
                 </div>
@@ -683,8 +683,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships,
                             placement support and available programs.</p>
                     </div>
                 </div>
@@ -694,7 +694,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and
+                        <p>Select the university and course that best match your education, interests, budget and
                             future career plans.</p>
                     </div>
                 </div>
@@ -714,7 +714,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected
                             institution or university.</p>
                     </div>
                 </div>
@@ -724,7 +724,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get
+                        <p>Receive application updates, complete the required admission formalities and get
                             confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
@@ -742,25 +742,25 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions. Compare fees, eligibility, duration, learning modes, and admission details in one place.</p>
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions. Compare fees, eligibility, duration, learning modes and admission details in one place.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
-                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources, and student support.</p>
+                                <p>Explore online courses designed for working professionals and flexible learners, with details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection, eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection, eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams, and other admission-related information for your selected program.</p>
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams and other admission-related information for your selected program.</p>
                             </div>
                         </div>
                     </div>
@@ -780,7 +780,7 @@
         <div class="container">
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
-                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations, and key advantages to choose the right university for your academic and career goals.</p>
+                <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in 2026. Compare their locations, accreditations and key advantages to choose the right university for your academic and career goals.</p>
             </div>
 
             <div class="top-univ-table-card">
@@ -964,7 +964,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -986,16 +986,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -1017,7 +1017,7 @@
                         <span>Q1. How can UNIVERSITY 360 help with Paris School of Business MBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for business professionals exploring Paris School of Business MBA programs.</p>
                     </div>
                 </div>
@@ -1065,7 +1065,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare MBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
+                            eligibility, specialization, curriculum, duration and other available program
                             information.</p>
                     </div>
                 </div>
@@ -1093,7 +1093,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Paris School of Business MBA Programs</p>
+                        <p>Get 100% Free Counseling on Paris School of Business MBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

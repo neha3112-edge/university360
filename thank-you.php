@@ -9,7 +9,7 @@ unset($_SESSION['brochure_pdf']); // prevents opening again on refresh
 		<?php include "header.php"; ?>
 
 		<title>Top Distance Education Universities Approved by UGC in India – Admissions Open 2026</title>
-		<meta name="description" content="Get Enrolled in Top Distance Education Universities Approved by UGC in India. Apply for Online MBA, MCA, BBA, BCA, MA, BCom, BA, BSc, MCom, MSc, & Diploma Programs Now!">
+		<meta name="description" content="Get Enrolled in Top Distance Education Universities Approved by UGC in India. Apply for Online MBA, MCA, BBA, BCA, MA, BCom, BA, BSc, MCom, MSc & Diploma Programs Now!">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		
         <!-- Event snippet for University360 lp conversion page -->

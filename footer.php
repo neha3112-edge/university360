@@ -95,9 +95,9 @@ $base_url = BASE_URL;
 
 <div class="row">
 	<div class="col-md-12 footer-bottom">
-		<p>University360 is an independent education guidance and counselling platform. Our partner universities have
+		<p>University360 is an independent education guidance and counseling platform. Our partner universities have
 			authorized us to share information about their programs. We do not award degrees and act only as a
-			counselling partner. All admissions, approvals, and course policies are governed by the respective
+			counseling partner. All admissions, approvals and course policies are governed by the respective
 			universities.
 
 			<br><br>
@@ -131,24 +131,24 @@ $base_url = BASE_URL;
 
 		<p>
 			This information is provided by university360.co, under the legal entity of UNIVERSITY 360, providing
-			information, guidance, and
-			counselling services about UGC-DEB-approved universities. We do not act as a university or an admission
+			information, guidance and
+			counseling services about UGC-DEB-approved universities. We do not act as a university or an admission
 			authority.
 		</p>
 
 		<h5>Essential Points</h5>
 		<ul>
-			<li>All university names, logos, and trademarks used are for informational purposes only.</li>
-			<li>Our role is to provide updates, information, and guidance on universities regarding their distance or
+			<li>All university names, logos and trademarks used are for informational purposes only.</li>
+			<li>Our role is to provide updates, information and guidance on universities regarding their distance or
 				online education programs.</li>
-			<li>We do not charge students any fees for counselling or guidance on university applications.</li>
+			<li>We do not charge students any fees for counseling or guidance on university applications.</li>
 			<li>We do not issue degrees, mark sheets, or certificates in the name of any university.</li>
-			<li>Our aim is to offer free and unbiased counselling to help students choose the right path.</li>
+			<li>Our aim is to offer free and unbiased counseling to help students choose the right path.</li>
 			<li>We respect the integrity and reputation of all listed universities and do not engage in any activity
 				that damages their credibility.</li>
 			<li>Users are encouraged to verify information from official university portals before making decisions.
 			</li>
-			<li>Our services are transparent, legal, and purely for student support. </li>
+			<li>Our services are transparent, legal and purely for student support. </li>
 		</ul>
 	</div>
 </div>
@@ -171,7 +171,7 @@ $base_url = BASE_URL;
 			and third-party tools are involved.</p>
 
 		<h5>1. Our Role</h5>
-		<p>We provide information and counselling services only. We are not a university and do not collect any
+		<p>We provide information and counseling services only. We are not a university and do not collect any
 			university fees directly. All academic or admission-related payments must be made to the respective
 			university.</p>
 
@@ -199,7 +199,7 @@ $base_url = BASE_URL;
 		<hr>
 
 		<p>All information on this platform is provided by university360.co, under the legal name of UNIVERSITY 360. We
-			are an educational counselling platform that helps students find trusted distance and online courses from
+			are an educational counseling platform that helps students find trusted distance and online courses from
 			UGC-DEB-approved universities. Our goal is to provide accurate information and personalised support to help
 			you choose the right program.</p>
 
@@ -211,7 +211,7 @@ $base_url = BASE_URL;
 		<p>Your information is used to:</p>
 		<ul>
 			<li>Guide you in choosing the right university or course</li>
-			<li>Provide counselling support</li>
+			<li>Provide counseling support</li>
 			<li>Share admission-related updates</li>
 		</ul>
 		<p>We may send you important updates (like admission deadlines or university alerts) via WhatsApp and email. You
@@ -219,13 +219,13 @@ $base_url = BASE_URL;
 
 		<h5>3. Scope</h5>
 		<p>This privacy policy applies to visitors who access this specific platform operated under university360.co by
-			UNIVERSITY 360. It covers how we collect, use, and protect data when you explore course information, compare
+			UNIVERSITY 360. It covers how we collect, use and protect data when you explore course information, compare
 			universities, or fill out enquiry forms on this platform. This policy applies only to the information
 			collected through this platform and does not cover any data collected on the main website or other external
 			sites.</p>
 
 		<h5>4. Data Sharing</h5>
-		<p>We share your details only with trusted university partners, and only for the purpose of counselling or
+		<p>We share your details only with trusted university partners and only for the purpose of counseling or
 			admission. We do not sell or share data with third-party advertisers.</p>
 
 		<h5>5. External Links</h5>

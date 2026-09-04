@@ -8,7 +8,7 @@ session_start();
     <?php include "header.php"; ?>
     <title>Contact Us - UNIVERSITY 360</title>
     <meta name="description"
-        content="Get in touch with UNIVERSITY 360 for expert online higher education counselling, course guidance, and admission support." />
+        content="Get in touch with UNIVERSITY 360 for expert online higher education counseling, course guidance and admission support." />
 </head>
 
 <body class="legal-page-body">
@@ -38,7 +38,7 @@ session_start();
                         <h3><i class="fa fa-comments" style="color: #ff6600;"></i> Get in Touch</h3>
                         <p>Have questions about online degree programs, distance education courses, admissions, or
                             university selection? The University360 team is here to help. Whether you need expert career
-                            counselling or want to learn more about our partner universities, our education experts are
+                            counseling or want to learn more about our partner universities, our education experts are
                             ready to assist you.</p>
                     </div>
 
@@ -88,7 +88,7 @@ session_start();
                         <h4><i class="fa fa-star" style="color: #ff6600;"></i> Why Contact University360?</h4>
                         <div class="contact-reasons-grid">
                             <div class="contact-reason-item"><i class="fa fa-check-circle"></i> Expert Career
-                                Counselling</div>
+                                Counseling</div>
                             <div class="contact-reason-item"><i class="fa fa-check-circle"></i> Guidance on Online &
                                 Distance Ed</div>
                             <div class="contact-reason-item"><i class="fa fa-check-circle"></i> University & Course
@@ -124,7 +124,7 @@ session_start();
                         </h3>
                         <p
                             style="color: #64748b !important; font-size: 13.5px !important; margin: 0 !important; font-weight: 400 !important;">
-                            Fill out the enquiry form below, and one of our education counsellors will get in touch with
+                            Fill out the enquiry form below and one of our education counselors will get in touch with
                             you shortly.</p>
                     </div>
                     <?php include "form.php"; ?>
@@ -142,7 +142,7 @@ session_start();
                     </h3>
                     <p
                         style="color: rgba(255,255,255,0.92) !important; font-size: 14.5px !important; margin: 0 !important; line-height: 1.6 !important; font-weight: 400 !important;">
-                        Our counsellors are just a call or message away. Contact us today and take the first step toward
+                        Our counselors are just a call or message away. Contact us today and take the first step toward
                         choosing the right university and building a successful future.</p>
                 </div>
                 <div>

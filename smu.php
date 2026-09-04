@@ -39,7 +39,7 @@
     <title>Sikkim Manipal University Online | SMU Online Degree Courses BA BCom MA MBA MCom MCA Fees & Admissions Open
         2026 | UNIVERSITY 360</title>
     <meta name="description"
-        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom, & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility & How to Apply?" />
     <meta name="keywords"
         content="Sikkim Manipal University Online, Online SMU, SMU Online, Sikkim Manipal University for Distance Education, SMU Online Programs">
     <link rel="canonical" href="https://university360.co/smu/">
@@ -53,7 +53,7 @@
     <meta property="og:title"
         content="Sikkim Manipal University Online | SMU Online Degree Courses BA BCom MA MBA MCom MCA Fees & Admissions Open 2026 | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom, & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/smu/" />
     <meta property="og:image" content="https://university360.co/images/smu-online-banner.png" />
@@ -65,7 +65,7 @@
     <meta name="twitter:title"
         content="Sikkim Manipal University Online | SMU Online Degree Courses BA BCom MA MBA MCom MCA Fees & Admissions Open 2026 | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom, & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for Sikkim Manipal University Online | SMU Online Degree Courses BA, BCom, MA, MBA, MCom & MCA Fees & Admission July Batch 2026. UGC-Approved Online Programs Syllabus, Eligibility & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/smu-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -80,7 +80,7 @@
   "url": "https://university360.co/smu/",
   "logo": "https://university360.co/images/logo.png",
   "slogan": "Where Ambitions Find Their Wings",
-  "description": "Sikkim Manipal University (SMU) is one of the most prestigious private institutions which is known for its credible education for over 27 years. The university offers a wide range of programs across multiple domains. SMU Online offers flexible, UGC-entitled and NAAC A+ accredited online degree programs for learners across India. Students get access to choose from Sikkim Manipal University courses which include BA, BCom, MCA, MA etc. Online MBA Sikkim Manipal University is crafted for working professionals and students. Learners get to interact with experienced faculty, a curriculum fulfilling present-day industry requirements, and advanced digital learning platforms. It enables them to gain recognised qualifications for career growth while studying anytime and anywhere.",
+  "description": "Sikkim Manipal University (SMU) is one of the most prestigious private institutions which is known for its credible education for over 27 years. The university offers a wide range of programs across multiple domains. SMU Online offers flexible, UGC-entitled and NAAC A+ accredited online degree programs for learners across India. Students get access to choose from Sikkim Manipal University courses which include BA, BCom, MCA, MA etc. Online MBA Sikkim Manipal University is crafted for working professionals and students. Learners get to interact with experienced faculty, a curriculum fulfilling present-day industry requirements and advanced digital learning platforms. It enables them to gain recognised qualifications for career growth while studying anytime and anywhere.",
   "address": {
     "@type": "PostalAddress",
     "addressRegion": "Sikkim",
@@ -102,7 +102,7 @@
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "BCOM",
       "name": "Bachelor of Commerce",
-      "description": "Sikkim Manipal University course admissions in the BCom program build expertise in business laws, finance, and cost accounting."
+      "description": "Sikkim Manipal University course admissions in the BCom program build expertise in business laws, finance and cost accounting."
     },
     {
       "@type": "EducationalOccupationalCredential",
@@ -114,7 +114,7 @@
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "MA",
       "name": "Master of Arts",
-      "description": "This course develops communication and analytical skills for careers in various fields such as media, research, education, and public relations."
+      "description": "This course develops communication and analytical skills for careers in various fields such as media, research, education and public relations."
     },
     {
       "@type": "EducationalOccupationalCredential",
@@ -125,7 +125,7 @@
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "MCA",
-      "name": "Master of Computer Application",
+      "name": "Master of Computer Applications",
       "description": "Learners get prepared for in-demand tech careers with Sikkim Manipal University courses. This program enhances industry relevance knowledge in computer applications."
     }
   ],
@@ -146,7 +146,7 @@
   "name": "UNIVERSITY 360",
   "url": "https://university360.co/smu/",
   "logo": "https://university360.co/images/univ360-logo-icon.png",
-  "description": "This information is provided by university360.co, under the legal entity of UNIVERSITY 360, registered with the Ministry of Corporate Affairs, with the main objective of providing information, guidance, and counselling services about UGC-DEB-approved universities. We do not act as a university or an admission authority."
+  "description": "This information is provided by university360.co, under the legal entity of UNIVERSITY 360, registered with the Ministry of Corporate Affairs, with the main objective of providing information, guidance and counseling services about UGC-DEB-approved universities. We do not act as a university or an admission authority."
 }
     </script>
 
@@ -201,7 +201,7 @@
       "name": "What are all the courses offered by Sikkim Manipal University Online?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "SMU online provides courses in different areas, which include MBA, MCom, MCA, MA, BA, and BCom."
+        "text": "SMU online provides courses in different areas, which include MBA, MCom, MCA, MA, BA and BCom."
       }
     },
     {
@@ -313,7 +313,7 @@
                             <h3>BA</h3>
                             <h4>Bachelor of Arts</h4>
                             <p>SMU Online BA is a 3-year undergraduate program offering learning in humanities,
-                                communication, and social sciences. It builds critical thinking and language skills
+                                communication and social sciences. It builds critical thinking and language skills
                                 for diverse career paths.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -335,8 +335,8 @@
                             <h3>BCOM</h3>
                             <h4>Bachelor of Commerce</h4>
                             <p>SMU Online B.Com is a 3-year undergraduate program offering a strong foundation in
-                                commerce, accounting, taxation, and finance, preparing students for careers in
-                                banking, auditing, and business finance.</p>
+                                commerce, accounting, taxation and finance, preparing students for careers in
+                                banking, auditing and business finance.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/smu_bcom.pdf', 'BCOM')">
@@ -357,7 +357,7 @@
                             <h3>MA</h3>
                             <h4>Master of Arts</h4>
                             <p>SMU Online MA program offers in-depth learning in humanities and social sciences with
-                                specializations to open career doors in teaching, research, civil services, and
+                                specializations to open career doors in teaching, research, civil services and
                                 various professional fields.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -401,7 +401,7 @@
                             <h3>MCOM</h3>
                             <h4>Master of Commerce</h4>
                             <p>SMU Online M.Com is a 2-year postgraduate program covering advanced Commerce, Finance,
-                                Taxation, and Financial Management topics for strong career opportunities in finance
+                                Taxation and Financial Management topics for strong career opportunities in finance
                                 and accounting sectors.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -421,9 +421,9 @@
                         <img src="images/MCA-amity.png" alt="MCA" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>MCA</h3>
-                            <h4>Master of Computer Application</h4>
+                            <h4>Master of Computer Applications</h4>
                             <p>SMU Online MCA is a 2-year advanced program providing expertise in software
-                                development, cloud computing, AI, and emerging technologies, preparing students for
+                                development, cloud computing, AI and emerging technologies, preparing students for
                                 high-demand roles in the tech industry.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -467,7 +467,7 @@
                         <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
                         <h4>NAAC A+ Accredited</h4>
                         <p>Sikkim Manipal University holds a NAAC A+ grade, reflecting strong standards in teaching,
-                            infrastructure, research, and overall educational quality.</p>
+                            infrastructure, research and overall educational quality.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -483,14 +483,14 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -551,7 +551,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -605,7 +605,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -652,7 +652,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    and postgraduate study options. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -676,7 +676,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Other Programs</h3>
                                 <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
+                                    programs and other online degrees and programs based on your education and career
                                     goals.</p>
                             </div>
                         </div>
@@ -963,7 +963,7 @@
             <h3 class="amity-section-subheading">Your Guide to Online Degree Courses &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping students make informed decisions about their higher education.
+                counseling platform dedicated to helping students make informed decisions about their higher education.
                 We connect aspiring learners with recognized universities offering online and distance education
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -985,16 +985,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -1017,7 +1017,7 @@
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring Sikkim Manipal University Online
                             degree programs.</p>
                     </div>
@@ -1030,7 +1030,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Sikkim Manipal University Online has both scholarships and EMI criteria. Students can easily
-                            access by clicking on the scholarship coupon code, and EMI options are also awarded by the
+                            access by clicking on the scholarship coupon code and EMI options are also awarded by the
                             university.</p>
                     </div>
                 </div>
@@ -1055,7 +1055,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>The university has an advanced digital Learning Management System (LMS) that comprises live
-                            lectures, both live and recorded, and online resources such as study notes.</p>
+                            lectures, both live and recorded and online resources such as study notes.</p>
                     </div>
                 </div>
 
@@ -1066,7 +1066,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online
-                            degree programs, based on factors such as eligibility, curriculum, duration, and other
+                            degree programs, based on factors such as eligibility, curriculum, duration and other
                             available program information.</p>
                     </div>
                 </div>
@@ -1092,7 +1092,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on SMU Online Degree Programs</p>
+                        <p>Get 100% Free Counseling on SMU Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

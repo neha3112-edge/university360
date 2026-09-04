@@ -10,12 +10,12 @@
         window.PAGE_COURSES = [
             { "value": "MA", "label": "MA - Master of Arts" },
             { "value": "MBA", "label": "MBA - Master of Business Administration" },
-            { "value": "MCA", "label": "MCA - Master of Computer Application" },
+            { "value": "MCA", "label": "MCA - Master of Computer Applications" },
             { "value": "MCOM", "label": "MCOM - Master of Commerce" },
             { "value": "MSC", "label": "MSC - Master of Science" },
             { "value": "BA", "label": "BA - Bachelor of Arts" },
             { "value": "BBA", "label": "BBA - Bachelor of Business Administration" },
-            { "value": "BCA", "label": "BCA - Bachelor of Computer Application" },
+            { "value": "BCA", "label": "BCA - Bachelor of Computer Applications" },
             { "value": "BCOM", "label": "BCOM - Bachelor of Commerce" },
             { "value": "BSC", "label": "BSC - Bachelor of Science" },
             { "value": "BLIS", "label": "BLIS - Bachelor of Library and Information Science" },
@@ -27,7 +27,7 @@
 
 
     <title>Mangalayatan University Online & Distance MBA MCA MCom MSc MA MLIS BBA BCA BCom BA BSc BLIS Degree Courses | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE, & AIU." />
+    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE & AIU." />
     <meta name="keywords" content="Mangalayatan University Online, MUDE Distance Education Courses, MU Online MBA, MU Online and Distance MBA, MU Online Degree Courses">
     <link rel="canonical" href="https://university360.co/mu/">
     <meta name="robots" content="index, follow">
@@ -36,7 +36,7 @@
 
     <!-- OG Tags -->
     <meta property="og:title" content="Mangalayatan University Online & Distance MBA MCA MCom MSc MA MLIS BBA BCA BCom BA BSc BLIS Degree Courses | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE, & AIU." />
+    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE & AIU." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/mu/" />
     <meta property="og:image" content="https://university360.co/images/mangalayatan-university-online-banner.png" />
@@ -46,7 +46,7 @@
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Mangalayatan University Online & Distance MBA MCA MCom MSc MA MLIS BBA BCA BCom BA BSc BLIS Degree Courses | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE, & AIU." />
+    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Mangalayatan University Online MBA MCA MCom MSc MA BBA BCA BA Degrees. MUDE Distance Education Courses such as Distance MBA MA MLIS BCom BA BSc BLIS and Diploma Program. MU Online UGC, NAAC A+, AICTE & AIU." />
     <meta name="twitter:image" content="https://university360.co/images/mangalayatan-university-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -157,7 +157,7 @@
           "@type":"Course",
           "position":1,
           "name":"Online MBA",
-          "description":"Build expertise in business strategy, leadership, financial management, and decision-making skills to accelerate career growth in the corporate world.",
+          "description":"Build expertise in business strategy, leadership, financial management and decision-making skills to accelerate career growth in the corporate world.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MBA",
@@ -168,7 +168,7 @@
           "@type":"Course",
           "position":2,
           "name":"Online MCA",
-          "description":"Develop strong knowledge in programming, software development, database systems, cloud technologies, and modern computer applications.",
+          "description":"Develop strong knowledge in programming, software development, database systems, cloud technologies and modern computer applications.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MCA",
@@ -179,7 +179,7 @@
           "@type":"Course",
           "position":3,
           "name":"Online MCOM",
-          "description":"Gain advanced understanding of accounting, finance, taxation, business economics, and corporate management concepts.",
+          "description":"Gain advanced understanding of accounting, finance, taxation, business economics and corporate management concepts.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MCOM",
@@ -190,7 +190,7 @@
           "@type":"Course",
           "position":4,
           "name":"Online MSC",
-          "description":"Enhance analytical thinking and research skills through advanced scientific concepts, data interpretation, and specialized subject knowledge.",
+          "description":"Enhance analytical thinking and research skills through advanced scientific concepts, data interpretation and specialized subject knowledge.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MSc",
@@ -201,7 +201,7 @@
           "@type":"Course",
           "position":5,
           "name":"Online MA",
-          "description":"Strengthen critical thinking, communication abilities, research methods, and in-depth understanding of social and humanities subjects.",
+          "description":"Strengthen critical thinking, communication abilities, research methods and in-depth understanding of social and humanities subjects.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MA",
@@ -212,7 +212,7 @@
           "@type":"Course",
           "position":6,
           "name":"Online MBA Plus",
-          "description":"Master advanced business strategies, leadership principles, industry insights, and practical management skills for competitive careers.",
+          "description":"Master advanced business strategies, leadership principles, industry insights and practical management skills for competitive careers.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online MBA",
@@ -223,7 +223,7 @@
           "@type":"Course",
           "position":7,
           "name":"Online BBA",
-          "description":"Learn business fundamentals, management principles, entrepreneurship concepts, and professional skills for future leadership opportunities.",
+          "description":"Learn business fundamentals, management principles, entrepreneurship concepts and professional skills for future leadership opportunities.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online BBA",
@@ -234,7 +234,7 @@
           "@type":"Course",
           "position":8,
           "name":"Online BCA",
-          "description":"Build expertise in coding, software technologies, web development, and computer applications for the evolving digital industry.",
+          "description":"Build expertise in coding, software technologies, web development and computer applications for the evolving digital industry.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online BCA",
@@ -245,7 +245,7 @@
           "@type":"Course",
           "position":9,
           "name":"Online BA",
-          "description":"Develop knowledge of society, culture, communication, and analytical thinking through diverse arts and humanities subjects.",
+          "description":"Develop knowledge of society, culture, communication and analytical thinking through diverse arts and humanities subjects.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online BA",
@@ -256,7 +256,7 @@
           "@type":"Course",
           "position":10,
           "name":"Distance MBA",
-          "description":"Gain practical business knowledge, leadership skills, and strategic management expertise while learning with flexibility.",
+          "description":"Gain practical business knowledge, leadership skills and strategic management expertise while learning with flexibility.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education MBA",
@@ -267,7 +267,7 @@
           "@type":"Course",
           "position":11,
           "name":"Distance MA",
-          "description":"Build advanced subject understanding, research abilities, and critical thinking skills through flexible distance learning.",
+          "description":"Build advanced subject understanding, research abilities and critical thinking skills through flexible distance learning.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education MA",
@@ -278,7 +278,7 @@
           "@type":"Course",
           "position":12,
           "name":"Distance MLIS",
-          "description":"Learn information management, library systems, digital resources, and research services for modern knowledge environments.",
+          "description":"Learn information management, library systems, digital resources and research services for modern knowledge environments.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education MLIS",
@@ -289,7 +289,7 @@
           "@type":"Course",
           "position":13,
           "name":"Distance BA",
-          "description":"Study humanities and social science subjects to improve communication, reasoning, and career-oriented knowledge.",
+          "description":"Study humanities and social science subjects to improve communication, reasoning and career-oriented knowledge.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education BA",
@@ -300,7 +300,7 @@
           "@type":"Course",
           "position":14,
           "name":"Distance BCOM",
-          "description":"Develop strong foundations in accounting, taxation, finance, auditing, and business operations for commerce careers.",
+          "description":"Develop strong foundations in accounting, taxation, finance, auditing and business operations for commerce careers.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education BCOM",
@@ -311,7 +311,7 @@
           "@type":"Course",
           "position":15,
           "name":"Distance BSc",
-          "description":"Gain scientific knowledge, analytical skills, and practical understanding across various disciplines and career fields.",
+          "description":"Gain scientific knowledge, analytical skills and practical understanding across various disciplines and career fields.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education BSc",
@@ -322,7 +322,7 @@
           "@type":"Course",
           "position":16,
           "name":"Distance BLIS",
-          "description":"Learn library organization, cataloguing systems, information services, and resource management techniques effectively.",
+          "description":"Learn library organization, cataloguing systems, information services and resource management techniques effectively.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education BLIS",
@@ -333,7 +333,7 @@
           "@type":"Course",
           "position":17,
           "name":"Distance DLIS",
-          "description":"Build foundational knowledge of library science, record management, cataloguing practices, and information handling systems.",
+          "description":"Build foundational knowledge of library science, record management, cataloguing practices and information handling systems.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Distance Education Diploma",
@@ -344,7 +344,7 @@
           "@type":"Course",
           "position":18,
           "name":"Diploma in Arts & Humanities",
-          "description":"Build communication, critical thinking, and cultural knowledge with MU Online Diploma in Arts & Humanities.",
+          "description":"Build communication, critical thinking and cultural knowledge with MU Online Diploma in Arts & Humanities.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online Diploma",
@@ -355,7 +355,7 @@
           "@type":"Course",
           "position":19,
           "name":"Diploma in Business Administration",
-          "description":"Gain business, management, and leadership skills with Mangalayatan University Online Diploma in Business Administration.",
+          "description":"Gain business, management and leadership skills with Mangalayatan University Online Diploma in Business Administration.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online Diploma",
@@ -366,7 +366,7 @@
           "@type":"Course",
           "position":20,
           "name":"Diploma in Computer Application",
-          "description":"Learn computer applications, MS Office, internet, and digital skills with MU Online Diploma in Computer Application.",
+          "description":"Learn computer applications, MS Office, internet and digital skills with MU Online Diploma in Computer Application.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online Diploma",
@@ -377,7 +377,7 @@
           "@type":"Course",
           "position":21,
           "name":"PG Diploma in Administration and Public Policy",
-          "description":"Learn governance, policy analysis, and public administration skills with MU Online PG Diploma for career growth.",
+          "description":"Learn governance, policy analysis and public administration skills with MU Online PG Diploma for career growth.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -388,7 +388,7 @@
           "@type":"Course",
           "position":22,
           "name":"PG Diploma in English Literature and Linguistic Studies",
-          "description":"Develop literary analysis, language proficiency, and communication skills with MU Online PG Diploma.",
+          "description":"Develop literary analysis, language proficiency and communication skills with MU Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -399,7 +399,7 @@
           "@type":"Course",
           "position":23,
           "name":"PG Diploma in Political Studies",
-          "description":"Understand political systems, governance, and public affairs while strengthening analytical and research skills.",
+          "description":"Understand political systems, governance and public affairs while strengthening analytical and research skills.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -410,7 +410,7 @@
           "@type":"Course",
           "position":24,
           "name":"PG Diploma in Accounts and Finance",
-          "description":"Gain accounting, taxation, finance, and financial analysis skills with Mangalayatan University Online PG Diploma.",
+          "description":"Gain accounting, taxation, finance and financial analysis skills with Mangalayatan University Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -421,7 +421,7 @@
           "@type":"Course",
           "position":25,
           "name":"PG Diploma in Business Management",
-          "description":"Learn strategic management, marketing, operations, and leadership skills through MU Online PG Diploma.",
+          "description":"Learn strategic management, marketing, operations and leadership skills through MU Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -432,7 +432,7 @@
           "@type":"Course",
           "position":26,
           "name":"PG Diploma in Computer Application (PGDCA)",
-          "description":"Master programming, databases, software applications, and IT skills with MU Online PGDCA for better careers.",
+          "description":"Master programming, databases, software applications and IT skills with MU Online PGDCA for better careers.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -443,7 +443,7 @@
           "@type":"Course",
           "position":27,
           "name":"PG Diploma in Journalism and Mass Communication",
-          "description":"Build reporting, digital media, content writing, and communication skills with MU Online PG Diploma.",
+          "description":"Build reporting, digital media, content writing and communication skills with MU Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -454,7 +454,7 @@
           "@type":"Course",
           "position":28,
           "name":"PG Diploma in Education",
-          "description":"Develop modern teaching, curriculum planning, and educational management skills with MU Online PG Diploma.",
+          "description":"Develop modern teaching, curriculum planning and educational management skills with MU Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -465,7 +465,7 @@
           "@type":"Course",
           "position":29,
           "name":"PG Diploma in Mathematics",
-          "description":"Strengthen problem-solving, quantitative analysis, and mathematical skills with MU Online PG Diploma.",
+          "description":"Strengthen problem-solving, quantitative analysis and mathematical skills with MU Online PG Diploma.",
           "provider":{
             "@type":"CollegeOrUniversity",
             "name":"Mangalayatan University Online PG Diploma",
@@ -686,9 +686,9 @@
                         <img src="images/MCA-amity.png" alt="MCA" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>MCA</h3>
-                            <h4>Master of Computer Application</h4>
+                            <h4>Master of Computer Applications</h4>
                             <p>Mangalayatan University Online MCA is a 2-year program that provides advanced knowledge
-                                in software development, cloud computing, data science, and emerging technologies for a
+                                in software development, cloud computing, data science and emerging technologies for a
                                 successful tech career.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -709,7 +709,7 @@
                         <div class="amity-course-body">
                             <h3>MCOM</h3>
                             <h4>Master of Commerce</h4>
-                            <p>Mangalayatan University Online M.Com offers a strong foundation in Commerce, Finance, and
+                            <p>Mangalayatan University Online M.Com offers a strong foundation in Commerce, Finance and
                                 Taxation with specializations in Financial Management, providing strong career
                                 opportunities in the finance and accounting sector.</p>
                             <div class="amity-course-footer">
@@ -733,7 +733,7 @@
                             <h4>Master of Science</h4>
                             <p>Mangalayatan University Online MSC is a 2-year program offering advanced knowledge in
                                 science disciplines. It builds research skills and analytical expertise required for
-                                academic, industry, and government career opportunities.</p>
+                                academic, industry and government career opportunities.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/mu_main_brochure.pdf', 'MSC')">
@@ -755,7 +755,7 @@
                             <h4>Master of Arts</h4>
                             <p>Mangalayatan University Online MA program offers advanced learning in humanities and
                                 social sciences with specializations to open doors to teaching, research, civil
-                                services, and a wide range of professional opportunities.</p>
+                                services and a wide range of professional opportunities.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
                                     onclick="openBrochurePopup('brochures/mu_ma.pdf', 'MA')">
@@ -798,7 +798,7 @@
                             <h3>BBA</h3>
                             <h4>Bachelor of Business Administration</h4>
                             <p>Mangalayatan University Online BBA is a 3-year undergraduate program covering management,
-                                marketing, finance, and entrepreneurship to build a strong foundation for future
+                                marketing, finance and entrepreneurship to build a strong foundation for future
                                 business leaders and corporate professionals.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -818,9 +818,9 @@
                         <img src="images/BCA-amity.png" alt="BCA" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>BCA</h3>
-                            <h4>Bachelor of Computer Application</h4>
+                            <h4>Bachelor of Computer Applications</h4>
                             <p>Mangalayatan University Online BCA is a 3-year program that provides in-depth knowledge
-                                of computer science, programming, software development, and digital technology for a
+                                of computer science, programming, software development and digital technology for a
                                 strong IT career foundation.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -842,7 +842,7 @@
                             <h3>BA</h3>
                             <h4>Bachelor of Arts</h4>
                             <p>Mangalayatan University Online BA is a 3-year undergraduate program offering learning in
-                                humanities, social sciences, and communication. It builds critical thinking and language
+                                humanities, social sciences and communication. It builds critical thinking and language
                                 skills for diverse career paths.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -885,7 +885,7 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
                         <h4>NAAC Accredited</h4>
-                        <p>Shows that the university meets high standards of teaching, infrastructure, research, and
+                        <p>Shows that the university meets high standards of teaching, infrastructure, research and
                             overall educational quality.</p>
                     </div>
                 </div>
@@ -902,14 +902,14 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -970,7 +970,7 @@
 
 					<img src="images/student-enrolled.webp">
 					<h4>30K+</h4>
-					<p>Students <br>Counselled</p>
+					<p>Students <br>Counseled</p>
 
 				</div>
 
@@ -1024,7 +1024,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -1071,7 +1071,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    and postgraduate study options. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -1095,7 +1095,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Other Programs</h3>
                                 <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
+                                    programs and other online degrees and programs based on your education and career
                                     goals.</p>
                             </div>
                         </div>
@@ -1421,7 +1421,7 @@
             <h3 class="amity-section-subheading">Your Guide to Online Degree Courses &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping students make informed decisions about their higher education.
+                counseling platform dedicated to helping students make informed decisions about their higher education.
                 We connect aspiring learners with recognized universities offering online and distance education
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -1443,16 +1443,16 @@
 			<p class="about-u360-text">
 				University 360 is your trusted partner in achieving your higher education goals. We guide students in
 				choosing the right online degree courses and distance education courses through expert career
-				counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-				universities, accredited online degree programs, admissions, eligibility, fees, and career
+				counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+				universities, accredited online degree programs, admissions, eligibility, fees and career
 				opportunities, helping students make confident decisions.
 			</p>
 
 			<p class="about-u360-text">
 				Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
 				diploma course, University 360 connects you with the best options based on your career aspirations. With
-				reliable university insights, expert support, and student-focused services, we empower learners across
-				India to choose the right course, build the right skills, and create a successful future with
+				reliable university insights, expert support and student-focused services, we empower learners across
+				India to choose the right course, build the right skills and create a successful future with
 				confidence.
 			</p>
 
@@ -1475,7 +1475,7 @@
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring Mangalayatan University Online
                             degree
                             programs.</p>
@@ -1489,7 +1489,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Mangalayatan University Online has both scholarships and EMI criteria. Students can easily
-                            access by clicking on the scholarship coupon code, and EMI options are also awarded by the
+                            access by clicking on the scholarship coupon code and EMI options are also awarded by the
                             university.</p>
                     </div>
                 </div>
@@ -1516,7 +1516,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>The university has an advanced digital Learning Management System (LMS) that comprises live
-                            lectures, both live and recorded, and online resources such as study notes.</p>
+                            lectures, both live and recorded and online resources such as study notes.</p>
                     </div>
                 </div>
 
@@ -1527,7 +1527,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online
-                            degree programs, based on factors such as eligibility, curriculum, duration, and other
+                            degree programs, based on factors such as eligibility, curriculum, duration and other
                             available program information.</p>
                     </div>
                 </div>
@@ -1554,7 +1554,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Mangalayatan University Online Degree Programs</p>
+                        <p>Get 100% Free Counseling on Mangalayatan University Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

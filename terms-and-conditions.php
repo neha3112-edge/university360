@@ -36,13 +36,13 @@ session_start();
 
                 <div class="legal-section">
                     <h3><i class="fa fa-university"></i> About University360</h3>
-                    <p>University360 is an independent education guidance and counselling platform. We provide information about universities, online and distance education programs, and career counselling services. We work with partner universities that authorize us to share information about their programs.</p>
-                    <p>University360 is not a university, does not award degrees, and does not independently conduct admissions.</p>
+                    <p>University360 is an independent education guidance and counseling platform. We provide information about universities, online and distance education programs and career counseling services. We work with partner universities that authorize us to share information about their programs.</p>
+                    <p>University360 is not a university, does not award degrees and does not independently conduct admissions.</p>
                 </div>
 
                 <div class="legal-section">
                     <h3><i class="fa fa-check-square-o"></i> Acceptance of Terms</h3>
-                    <p>By accessing this website, you confirm that you have read, understood, and agreed to these Terms & Conditions, our Privacy Policy, and any other applicable policies published on this website.</p>
+                    <p>By accessing this website, you confirm that you have read, understood and agreed to these Terms & Conditions, our Privacy Policy and any other applicable policies published on this website.</p>
                 </div>
 
                 <div class="legal-section">
@@ -59,24 +59,24 @@ session_start();
 
                 <div class="legal-section">
                     <h3><i class="fa fa-info-circle"></i> Information Accuracy</h3>
-                    <p>We strive to provide accurate and updated information regarding universities, courses, eligibility, approvals, fee structures, and admission processes. However, universities may revise their policies, fees, eligibility criteria, or admission guidelines without prior notice.</p>
+                    <p>We strive to provide accurate and updated information regarding universities, courses, eligibility, approvals, fee structures and admission processes. However, universities may revise their policies, fees, eligibility criteria, or admission guidelines without prior notice.</p>
                     <p>Students are advised to verify all information with the respective university before making any admission or payment decisions.</p>
                 </div>
 
                 <div class="legal-section">
-                    <h3><i class="fa fa-comments"></i> Career Counselling Services</h3>
-                    <p>University360 offers career counselling to help students explore suitable universities and academic programs. The guidance provided is based on the information shared by the student and should not be considered a guarantee of admission, employment, placements, or academic outcomes.</p>
+                    <h3><i class="fa fa-comments"></i> Career Counseling Services</h3>
+                    <p>University360 offers career counseling to help students explore suitable universities and academic programs. The guidance provided is based on the information shared by the student and should not be considered a guarantee of admission, employment, placements, or academic outcomes.</p>
                     <p>Final decisions regarding admissions remain solely with the respective universities.</p>
                 </div>
 
                 <div class="legal-section">
                     <h3><i class="fa fa-handshake-o"></i> University Partnerships</h3>
-                    <p>University360 collaborates with partner universities that have authorized us to market their educational programs and assist prospective students. Admissions, examinations, academic regulations, certifications, and degree awards are managed exclusively by the respective universities.</p>
+                    <p>University360 collaborates with partner universities that have authorized us to market their educational programs and assist prospective students. Admissions, examinations, academic regulations, certifications and degree awards are managed exclusively by the respective universities.</p>
                 </div>
 
                 <div class="legal-section">
                     <h3><i class="fa fa-copyright"></i> Intellectual Property</h3>
-                    <p>All website content, including text, graphics, logos, designs, icons, images, and other materials, is the intellectual property of University360 unless otherwise stated. No content may be copied, reproduced, modified, or distributed without prior written consent.</p>
+                    <p>All website content, including text, graphics, logos, designs, icons, images and other materials, is the intellectual property of University360 unless otherwise stated. No content may be copied, reproduced, modified, or distributed without prior written consent.</p>
                 </div>
 
                 <div class="legal-section">
@@ -122,7 +122,7 @@ session_start();
 
                 <div class="aep-box">
                     <h4><i class="fa fa-shield"></i> Disclaimer Notice</h4>
-                    <p>University360 is an independent education guidance and counselling platform. We provide career counselling and information about partner universities that have authorized us to share information about their programs. University360 does not represent itself as a university and does not independently conduct admissions, examinations, or award degrees. All academic decisions, admissions, examinations, and certifications are governed solely by the respective universities.</p>
+                    <p>University360 is an independent education guidance and counseling platform. We provide career counseling and information about partner universities that have authorized us to share information about their programs. University360 does not represent itself as a university and does not independently conduct admissions, examinations, or award degrees. All academic decisions, admissions, examinations and certifications are governed solely by the respective universities.</p>
                 </div>
 
             </div>

@@ -29,7 +29,7 @@
 
 
     <title>Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
+    <meta name="description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA & BA Approvals, Fees, Eligibility, Placements & How to Apply?" />
     <meta name="keywords" content="Bharathidasan University Online Courses, Bharathidasan University Online, Bharathidasan University Online Education, Bharathidasan University Distance Education Online Admission, Bharathidasan University Online Degree, Bharathidasan University Online MBA">
     <link rel="canonical" href="https://university360.co/bdu/">
     <meta name="robots" content="index, follow">
@@ -40,7 +40,7 @@
 
     <!-- OG Tags -->
     <meta property="og:title" content="Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
+    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA & BA Approvals, Fees, Eligibility, Placements & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/bdu/" />
     <meta property="og:image" content="https://university360.co/images/bharathidasan-university-online-courses-banner.png" />
@@ -50,7 +50,7 @@
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Bharathidasan University Online Courses | Bharathidasan University Online MBA BBA MA BA | Bharathidasan University Distance Education Courses List 2026 | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA, & BA Approvals, Fees, Eligibility, Placements, & How to Apply?" />
+    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses | Bharathidasan University Distance Education Courses List | Bharathidasan University Online MBA, BBA, MA & BA Approvals, Fees, Eligibility, Placements & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/bharathidasan-university-online-courses-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -78,7 +78,7 @@
       "isPartOf": {
         "@id": "https://university360.co/#website"
       },
-      "description": "Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses (MBA, BBA, MA, BA) Fees, Eligibility, Syllabus, and Admission Process.",
+      "description": "Get Counseling from UNIVERSITY 360 for Bharathidasan University Online Courses (MBA, BBA, MA, BA) Fees, Eligibility, Syllabus and Admission Process.",
       "keywords": "Bharathidasan University Online Courses, Bharathidasan University Online, Bharathidasan University Online Education, Bharathidasan University Distance Education Online Admission, Bharathidasan University Online Degree, Bharathidasan University Online MBA",
       "about": [
         {
@@ -92,7 +92,7 @@
       "name": "University360",
       "url": "https://university360.co/",
       "slogan": "#LearnWithFreedom",
-      "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. All admissions, approvals, and course policies are governed by the respective universities.",
+      "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner. All admissions, approvals and course policies are governed by the respective universities.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "B-63, Sector-2, Noida, Gautam Buddha Nagar",
@@ -110,7 +110,7 @@
         }
       ],
       "award": [
-        "30K+ Students Counselled",
+        "30K+ Students Counseled",
         "100+ Education Experts",
         "25+ Online & Distance Programs",
         "20+ Recognized Universities"
@@ -119,16 +119,16 @@
     {
       "@type": "Service",
       "@id": "https://university360.co/bdu/#counselingservice",
-      "name": "Educational Counselling for Bharathidasan University Online Courses",
+      "name": "Educational Counseling for Bharathidasan University Online Courses",
       "provider": {
         "@id": "https://university360.co/#organization"
       },
-      "serviceType": "Educational Counselling",
+      "serviceType": "Educational Counseling",
       "areaServed": {
         "@type": "Country",
         "name": "India"
       },
-      "description": "Counselling and career guidance for working professionals and students looking to enroll in undergraduate and postgraduate online degree courses at Bharathidasan University.",
+      "description": "Counseling and career guidance for working professionals and students looking to enroll in undergraduate and postgraduate online degree courses at Bharathidasan University.",
       "offers": {
         "@type": "Offer",
         "price": "0.00",
@@ -139,12 +139,12 @@
         {
           "@type": "CreativeWork",
           "name": "Top Online Universities Admission List 2026",
-          "text": "Compare options: Lovely Professional University, Manipal University, Chandigarh University, Amity University, Galgotias University, Sikkim Manipal University, Mangalayatan University, and Uttaranchal University."
+          "text": "Compare options: Lovely Professional University, Manipal University, Chandigarh University, Amity University, Galgotias University, Sikkim Manipal University, Mangalayatan University and Uttaranchal University."
         },
         {
           "@type": "CreativeWork",
           "name": "Checklist for Trusted Universities",
-          "text": "UGC Approved (recognized by UGC), UGC-DEB Recognized (authorized to offer online/distance courses), NAAC Accredited (e.g. LPU holds NAAC A++), AICTE Approved (quality management/technical programs), NIRF Ranked (academic performance), and AIU Recognized (widely accepted degrees)."
+          "text": "UGC Approved (recognized by UGC), UGC-DEB Recognized (authorized to offer online/distance courses), NAAC Accredited (e.g. LPU holds NAAC A++), AICTE Approved (quality management/technical programs), NIRF Ranked (academic performance) and AIU Recognized (widely accepted degrees)."
         }
       ]
     },
@@ -152,7 +152,7 @@
       "@type": "Course",
       "@id": "https://university360.co/bdu/#mba",
       "name": "Online MBA (Master of Business Administration) - Bharathidasan University",
-      "description": "Bharathidasan University Online MBA equips learners with practical business skills. Students choose from a range of electives and learn to apply Generative AI tools while strengthening their subject expertise. Counselled by University360.",
+      "description": "Bharathidasan University Online MBA equips learners with practical business skills. Students choose from a range of electives and learn to apply Generative AI tools while strengthening their subject expertise. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Bharathidasan University",
@@ -175,7 +175,7 @@
       "@type": "Course",
       "@id": "https://university360.co/bdu/#bba",
       "name": "Online BBA (Bachelor of Business Administration) - Bharathidasan University",
-      "description": "Learners will build a strong foundation in various business disciplines. This program will help them become job-ready and gain the right career guidance, resume building, and placement support. Counselled by University360.",
+      "description": "Learners will build a strong foundation in various business disciplines. This program will help them become job-ready and gain the right career guidance, resume building and placement support. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Bharathidasan University",
@@ -198,7 +198,7 @@
       "@type": "Course",
       "@id": "https://university360.co/bdu/#ma",
       "name": "Online MA (Master of Arts) - Bharathidasan University",
-      "description": "Students and Professionals can enhance their knowledge in the subject electives through this online postgraduate program. The expert faculty helps them develop the skills needed for the real world. Counselled by University360.",
+      "description": "Students and Professionals can enhance their knowledge in the subject electives through this online postgraduate program. The expert faculty helps them develop the skills needed for the real world. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Bharathidasan University",
@@ -221,7 +221,7 @@
       "@type": "Course",
       "@id": "https://university360.co/bdu/#ba",
       "name": "Online BA (Bachelor of Arts) - Bharathidasan University",
-      "description": "This program equips students with foundational subject matter knowledge. Students also develop transferable skills throughout the course of study, depending on their specialisation and professional aspirations. Counselled by University360.",
+      "description": "This program equips students with foundational subject matter knowledge. Students also develop transferable skills throughout the course of study, depending on their specialisation and professional aspirations. Counseled by University360.",
       "provider": {
         "@type": "EducationalOrganization",
         "name": "Bharathidasan University",
@@ -249,7 +249,7 @@
           "name": "How can UNIVERSITY 360 help with Bharathidasan University Online degree programs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "UNIVERSITY 360 provides program information, counselling, course comparison, and admission guidance for students and working professionals exploring Bharathidasan University Online degree programs."
+            "text": "UNIVERSITY 360 provides program information, counseling, course comparison and admission guidance for students and working professionals exploring Bharathidasan University Online degree programs."
           }
         },
         {
@@ -281,7 +281,7 @@
           "name": "Can UNIVERSITY 360 help me compare online degree programs and MBA options?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online degrees, based on factors such as eligibility, curriculum, duration, and other available information."
+            "text": "Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online degrees, based on factors such as eligibility, curriculum, duration and other available information."
           }
         },
         {
@@ -412,7 +412,7 @@
                             <h3>BBA</h3>
                             <h4>Bachelor of Business Administration</h4>
                             <p>Learners will build a strong foundation in various business disciplines. This program
-                                will help them become job-ready and gain the right career guidance, resume building, and
+                                will help them become job-ready and gain the right career guidance, resume building and
                                 placement support.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -500,7 +500,7 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
                         <h4>NAAC Accredited</h4>
-                        <p>Shows that the university meets high standards of teaching, infrastructure, research, and
+                        <p>Shows that the university meets high standards of teaching, infrastructure, research and
                             overall educational quality.</p>
                     </div>
                 </div>
@@ -519,7 +519,7 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
 
@@ -527,7 +527,7 @@
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -543,7 +543,7 @@
                     <div class="col-md-3" id="fact-box">
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
                     </div>
 
                     <div class="col-md-3" id="fact-box">
@@ -591,7 +591,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -646,7 +646,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    and postgraduate study options. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -670,7 +670,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Other Programs</h3>
                                 <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
+                                    programs and other online degrees and programs based on your education and career
                                     goals.</p>
                             </div>
                         </div>
@@ -903,16 +903,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -935,7 +935,7 @@
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring Bharathidasan University Online
                             degree programs.</p>
                     </div>
@@ -980,7 +980,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online
-                            degrees, based on factors such as eligibility, curriculum, duration, and other available
+                            degrees, based on factors such as eligibility, curriculum, duration and other available
                             information.</p>
                     </div>
                 </div>
@@ -1031,7 +1031,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on Bharathidasan University Online Degree Programs</p>
+                        <p>Get 100% Free Counseling on Bharathidasan University Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

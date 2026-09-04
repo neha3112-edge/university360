@@ -6,7 +6,7 @@ session_start();
 <head>
     <?php include "header.php"; ?>
     <title>Privacy Policy - UNIVERSITY 360</title>
-    <meta name="description" content="Privacy Policy for UNIVERSITY 360 educational counselling services." />
+    <meta name="description" content="Privacy Policy for UNIVERSITY 360 educational counseling services." />
 </head>
 <body class="legal-page-body">
 
@@ -29,7 +29,7 @@ session_start();
                 
                 <div class="legal-intro">
                     <i class="fa fa-shield" style="color: #0f385f; font-size: 20px; margin-right: 8px;"></i>
-                    At <strong>University360</strong>, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our career counselling and education guidance services. By accessing our website, you agree to the terms outlined in this Privacy Policy.
+                    At <strong>University360</strong>, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose and safeguard your information when you visit our website or use our career counseling and education guidance services. By accessing our website, you agree to the terms outlined in this Privacy Policy.
                 </div>
 
                 <div class="legal-section">
@@ -59,11 +59,11 @@ session_start();
                     <h3><i class="fa fa-cogs"></i> 2. How We Use Your Information</h3>
                     <p>The information collected is used to:</p>
                     <ul class="legal-list">
-                        <li><i class="fa fa-check-circle"></i> Provide career counselling and education guidance.</li>
+                        <li><i class="fa fa-check-circle"></i> Provide career counseling and education guidance.</li>
                         <li><i class="fa fa-check-circle"></i> Help you explore suitable online and distance education programs.</li>
-                        <li><i class="fa fa-check-circle"></i> Share information about universities, admissions, eligibility, fees, scholarships, and course updates.</li>
+                        <li><i class="fa fa-check-circle"></i> Share information about universities, admissions, eligibility, fees, scholarships and course updates.</li>
                         <li><i class="fa fa-check-circle"></i> Respond to your enquiries and requests.</li>
-                        <li><i class="fa fa-check-circle"></i> Improve our website, services, and user experience.</li>
+                        <li><i class="fa fa-check-circle"></i> Improve our website, services and user experience.</li>
                         <li><i class="fa fa-check-circle"></i> Contact you regarding educational opportunities through phone calls, SMS, WhatsApp, or email.</li>
                         <li><i class="fa fa-check-circle"></i> Comply with legal and regulatory requirements.</li>
                     </ul>
@@ -71,13 +71,13 @@ session_start();
 
                 <div class="legal-section">
                     <h3><i class="fa fa-share-alt"></i> 3. Information Sharing</h3>
-                    <p>University360 may share your information with its partner universities and educational institutions only for the purpose of providing admission guidance and counselling services. We do not sell, rent, or trade your personal information to third parties for marketing purposes.</p>
+                    <p>University360 may share your information with its partner universities and educational institutions only for the purpose of providing admission guidance and counseling services. We do not sell, rent, or trade your personal information to third parties for marketing purposes.</p>
                     <p>Information may also be shared when required by law or to protect our legal rights.</p>
                 </div>
 
                 <div class="legal-section">
                     <h3><i class="fa fa-pie-chart"></i> 4. Cookies</h3>
-                    <p>Our website uses cookies and similar technologies to improve website performance, remember user preferences, analyze website traffic, and enhance your browsing experience.</p>
+                    <p>Our website uses cookies and similar technologies to improve website performance, remember user preferences, analyze website traffic and enhance your browsing experience.</p>
                     <p>You may choose to disable cookies through your browser settings; however, certain website features may not function properly.</p>
                 </div>
 
@@ -105,7 +105,7 @@ session_start();
 
                 <div class="aep-box">
                     <h4><i class="fa fa-info-circle"></i> 8. Disclaimer</h4>
-                    <p>University360 is an independent education guidance and counselling platform. We provide information about online and distance education programs offered by recognized universities and offer career counselling services. We do not represent ourselves as a university, award degrees, or conduct admissions independently. Our partner universities authorize us to provide information about their academic programs. All admissions, fees, eligibility criteria, approvals, and academic policies are governed solely by the respective universities.</p>
+                    <p>University360 is an independent education guidance and counseling platform. We provide information about online and distance education programs offered by recognized universities and offer career counseling services. We do not represent ourselves as a university, award degrees, or conduct admissions independently. Our partner universities authorize us to provide information about their academic programs. All admissions, fees, eligibility criteria, approvals and academic policies are governed solely by the respective universities.</p>
                 </div>
 
                 <div class="legal-section">
@@ -128,7 +128,7 @@ session_start();
                     <i class="fa fa-exclamation-circle" style="color: #ffcc00; font-size: 24px; flex-shrink: 0;"></i>
                     <div>
                         <strong style="display: block; font-size: 15px; margin-bottom: 4px;">Important Note</strong>
-                        <span style="font-size: 13.5px; font-weight: 400; opacity: 0.95;">By submitting your information through this website, you consent to being contacted by University360 via phone call, SMS, WhatsApp, or email regarding educational counselling, university information, admissions, and related services. You may opt out of these communications at any time.</span>
+                        <span style="font-size: 13.5px; font-weight: 400; opacity: 0.95;">By submitting your information through this website, you consent to being contacted by University360 via phone call, SMS, WhatsApp, or email regarding educational counseling, university information, admissions and related services. You may opt out of these communications at any time.</span>
                     </div>
                 </div>
 

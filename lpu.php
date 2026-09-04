@@ -20,8 +20,8 @@
     </script>
 
 
-    <title>LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees, & Admissions Open | UNIVERSITY 360</title>
-    <meta name="description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA, & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility, & How to Apply?" />
+    <title>LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees & Admissions Open | UNIVERSITY 360</title>
+    <meta name="description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility & How to Apply?" />
     <meta name="keywords" content="Lovely Professional University Online, LPU Online, Online LPU, LPU Online Course">
     <link rel="canonical" href="https://university360.co/lpu/">
     <meta name="robots" content="index, follow">
@@ -31,8 +31,8 @@
     <meta charset="UTF-8">
 
     <!-- OG Tags -->
-    <meta property="og:title" content="LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees, & Admissions Open | UNIVERSITY 360" />
-    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA, & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility, & How to Apply?" />
+    <meta property="og:title" content="LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees & Admissions Open | UNIVERSITY 360" />
+    <meta property="og:description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/lpu/" />
     <meta property="og:image" content="https://university360.co/images/lpu-online-banner.png" />
@@ -41,8 +41,8 @@
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees, & Admissions Open | UNIVERSITY 360" />
-    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA, & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility, & How to Apply?" />
+    <meta name="twitter:title" content="LPU Online | Lovely Professional University Online & Distance Education MBA MCA MSc MCom MA BCA BBA BA Courses Eligibility, Fees & Admissions Open | UNIVERSITY 360" />
+    <meta name="twitter:description" content="Get Counseling from UNIVERSITY 360 for LPU Online | Lovely Professional University Online Degree Course Fees & Admission July Batch 2026. Online MBA, MCA, MCOM, MA-JMC, MA, MSc, BCA, BBA & BCom. LPU Online UGC-Approved Programs Syllabus, Eligibility & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/lpu-online-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -57,7 +57,7 @@
   "url": "https://university360.co/lpu/",
   "logo": "https://university360.co/images/lpu-logo.png",
   "slogan": "LPU Online Career ka Turning Point",
-  "description": "Lovely Professional University (LPU Online) is a trusted institute which was established in 2005. LPU Online offers a wide range of UGC-approved degree programs. All the courses are delivered through a flexible digital learning platform, therefore allowing students to learn anytime, anywhere across India and abroad. Lovely Professional University Online Courses include programs such as LPU MBA Online, LPU Online MCA, and LPU Online BCA. These are designed with an industry-relevant curriculum. The university has extended opportunities like a smooth Lovely Professional University online admission process, affordable fee structures, and strong academic support.",
+  "description": "Lovely Professional University (LPU Online) is a trusted institute which was established in 2005. LPU Online offers a wide range of UGC-approved degree programs. All the courses are delivered through a flexible digital learning platform, therefore allowing students to learn anytime, anywhere across India and abroad. Lovely Professional University Online Courses include programs such as LPU MBA Online, LPU Online MCA and LPU Online BCA. These are designed with an industry-relevant curriculum. The university has extended opportunities like a smooth Lovely Professional University online admission process, affordable fee structures and strong academic support.",
   "foundingDate": "2005",
   "address": {
     "@type": "PostalAddress",
@@ -75,7 +75,7 @@
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "MCA",
-      "name": "Master of Computer Application",
+      "name": "Master of Computer Applications",
       "description": "This LPU Online MCA program enhances software and IT expertise. The course features placement support, real-world projects, within affordable, structured LPU MCA online fees."
     },
     {
@@ -111,7 +111,7 @@
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "BCA",
-      "name": "Bachelor of Computer Application",
+      "name": "Bachelor of Computer Applications",
       "description": "Professionals start their career in tech with a practical and affordable LPU Online BCA program. It prepares them for in-demand IT roles through LPU Online courses."
     }
   ],
@@ -132,7 +132,7 @@
   "name": "UNIVERSITY 360",
   "url": "https://university360.co/lpu/",
   "logo": "https://university360.co/images/univ360-logo-icon.png",
-  "description": "This information is provided by university360.co, under the legal entity of UNIVERSITY 360, registered with the Ministry of Corporate Affairs, with the main objective of providing information, guidance, and counselling services about UGC-DEB-approved universities. We do not act as a university or an admission authority."
+  "description": "This information is provided by university360.co, under the legal entity of UNIVERSITY 360, registered with the Ministry of Corporate Affairs, with the main objective of providing information, guidance and counseling services about UGC-DEB-approved universities. We do not act as a university or an admission authority."
 }
     </script>
 
@@ -187,7 +187,7 @@
       "name": "Does Lovely Professional University Online MBA program have a job-aligned course curriculum that is relevant to today's industry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, the program has over 12 specialisations and a number of electives, and it is also relevant to job seekers in the industry."
+        "text": "Yes, the program has over 12 specialisations and a number of electives and it is also relevant to job seekers in the industry."
       }
     },
     {
@@ -203,7 +203,7 @@
       "name": "What are the benefits of Lovely Professional University Online admission?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "LPU has an LMS that supports students, and the university has a dedicated placement cell."
+        "text": "LPU has an LMS that supports students and the university has a dedicated placement cell."
       }
     },
     {
@@ -310,9 +310,9 @@
                         <img src="images/MCA-amity.png" alt="MCA" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>MCA</h3>
-                            <h4>Master of Computer Application</h4>
+                            <h4>Master of Computer Applications</h4>
                             <p>LPU Online MCA is a 2-year advanced program providing expertise in software development,
-                                cloud computing, AI, and emerging technologies, preparing students for high-demand
+                                cloud computing, AI and emerging technologies, preparing students for high-demand
                                 roles in the tech industry.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -334,7 +334,7 @@
                             <h3>MA</h3>
                             <h4>Master of Arts</h4>
                             <p>LPU Online MA program offers in-depth learning in humanities and social sciences with
-                                multiple specializations, opening career doors in teaching, research, civil services,
+                                multiple specializations, opening career doors in teaching, research, civil services
                                 and various professional fields.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -356,7 +356,7 @@
                             <h3>MSc</h3>
                             <h4>Master of Science</h4>
                             <p>LPU Online MSc is a 2-year program offering advanced knowledge in science disciplines
-                                with research orientation and analytical skill development for industry, academia, and
+                                with research orientation and analytical skill development for industry, academia and
                                 government career opportunities.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -378,7 +378,7 @@
                             <h3>MCOM</h3>
                             <h4>Master of Commerce</h4>
                             <p>LPU Online M.Com is a 2-year postgraduate program covering advanced topics in Commerce,
-                                Finance, Taxation, and Financial Management for strong career opportunities in finance
+                                Finance, Taxation and Financial Management for strong career opportunities in finance
                                 and accounting.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -398,9 +398,9 @@
                         <img src="images/BCA-amity.png" alt="BCA" class="amity-course-img">
                         <div class="amity-course-body">
                             <h3>BCA</h3>
-                            <h4>Bachelor of Computer Application</h4>
+                            <h4>Bachelor of Computer Applications</h4>
                             <p>LPU Online BCA is a 3-year undergraduate program providing strong knowledge of computer
-                                science, programming, software development, and digital technology for a thriving IT
+                                science, programming, software development and digital technology for a thriving IT
                                 career foundation.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -421,7 +421,7 @@
                         <div class="amity-course-body">
                             <h3>BBA</h3>
                             <h4>Bachelor of Business Administration</h4>
-                            <p>LPU Online BBA is a 3-year program covering management, marketing, finance, and
+                            <p>LPU Online BBA is a 3-year program covering management, marketing, finance and
                                 entrepreneurship, building a strong foundation for future business leaders and
                                 corporate professionals.</p>
                             <div class="amity-course-footer">
@@ -444,7 +444,7 @@
                             <h3>BA</h3>
                             <h4>Bachelor of Arts</h4>
                             <p>LPU Online BA is a 3-year undergraduate program offering learning in humanities,
-                                communication, and social sciences. It builds critical thinking and language skills
+                                communication and social sciences. It builds critical thinking and language skills
                                 for diverse career paths.</p>
                             <div class="amity-course-footer">
                                 <button class="get-brochure-btn"
@@ -489,7 +489,7 @@
                         <div class="approval-icon"><img src="images/naac-a.webp" alt="NAAC Accredited"></div>
                         <h4>NAAC A++ Accredited</h4>
                         <p>LPU holds the prestigious NAAC A++ grade, reflecting exceptional quality in teaching,
-                            infrastructure, research, and educational outcomes.</p>
+                            infrastructure, research and educational outcomes.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -505,14 +505,14 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div>
@@ -529,7 +529,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -583,7 +583,7 @@
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
                         <h4>Get Guidance</h4>
-                        <p>Connect with a counsellor for information about courses, eligibility, and admission
+                        <p>Connect with a counselor for information about courses, eligibility and admission
                             requirements.</p>
                     </div>
                 </div>
@@ -630,7 +630,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore Online Degree Programs</h3>
                                 <p>UNIVERSITY 360 helps you explore online degree courses in India across undergraduate
-                                    and postgraduate study options. Compare programs, eligibility, specializations, and
+                                    and postgraduate study options. Compare programs, eligibility, specializations and
                                     admission information in one place.</p>
                             </div>
                         </div>
@@ -654,7 +654,7 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore MBA &amp; Other Programs</h3>
                                 <p>Compare MBA online degree programs, distance education MBA courses, computer science
-                                    programs, and other online degrees and programs based on your education and career
+                                    programs and other online degrees and programs based on your education and career
                                     goals.</p>
                             </div>
                         </div>
@@ -812,16 +812,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -844,7 +844,7 @@
                             programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for students and working professionals exploring Lovely Professional University
                             Online degree programs.</p>
                     </div>
@@ -857,7 +857,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Lovely Professional University Online has both scholarships and EMI criteria. Students can
-                            easily access by clicking on the scholarship coupon code, and EMI options are also awarded
+                            easily access by clicking on the scholarship coupon code and EMI options are also awarded
                             by the university.</p>
                     </div>
                 </div>
@@ -882,7 +882,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>The university has an advanced digital Learning Management System (LMS) that comprises live
-                            lectures, both live and recorded, and online resources such as study notes.</p>
+                            lectures, both live and recorded and online resources such as study notes.</p>
                     </div>
                 </div>
 
@@ -893,7 +893,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare online degree programs, including MBA online
-                            degree programs, based on factors such as eligibility, curriculum, duration, and other
+                            degree programs, based on factors such as eligibility, curriculum, duration and other
                             available program information.</p>
                     </div>
                 </div>
@@ -920,7 +920,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on LPU Online Degree Programs</p>
+                        <p>Get 100% Free Counseling on LPU Online Degree Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

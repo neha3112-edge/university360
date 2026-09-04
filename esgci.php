@@ -127,7 +127,7 @@
                             <p class="iimk-course-desc">
                                 The ESGCI Doctorate of Business Administration helps professionals gain advanced skills
                                 in
-                                business and management. The 24-month program includes foundation, leadership, and
+                                business and management. The 24-month program includes foundation, leadership and
                                 dissertation phases, giving a clear path for learning. Students receive personal
                                 guidance
                                 from experienced ESGCI faculty to support their research and studies.
@@ -194,14 +194,14 @@
                         <div class="approval-icon"><img src="images/nirf-2.webp" alt="NIRF Ranked"></div>
                         <h4>NIRF Ranked</h4>
                         <p>Reflects the university's performance and ranking based on teaching, research, graduation
-                            outcomes, and overall excellence.</p>
+                            outcomes and overall excellence.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="amity-approval-card">
                         <div class="approval-icon"><img src="images/wes.webp" alt="AIU Recognized"></div>
                         <h4>AIU Member</h4>
-                        <p>Ensures the university's degrees are widely accepted for higher education, employment, and
+                        <p>Ensures the university's degrees are widely accepted for higher education, employment and
                             academic equivalence across institutions.</p>
                     </div>
                 </div> -->
@@ -262,7 +262,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -309,7 +309,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and
+                        <p>Share your basic details so our counselors can understand your academic background and
                             career goals.</p>
                     </div>
                 </div>
@@ -318,8 +318,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships,
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships,
                             placement support and available programs.</p>
                     </div>
                 </div>
@@ -329,7 +329,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and
+                        <p>Select the university and course that best match your education, interests, budget and
                             future career plans.</p>
                     </div>
                 </div>
@@ -349,7 +349,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected
                             institution or university.</p>
                     </div>
                 </div>
@@ -359,7 +359,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get
+                        <p>Receive application updates, complete the required admission formalities and get
                             confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
@@ -377,8 +377,8 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
-                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes and admission details in one
                                     place.</p>
                             </div>
                         </div>
@@ -386,20 +386,20 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
                                 <p>Explore online courses designed for working professionals and flexible learners, with
-                                    details on study options, learning resources, and student support.</p>
+                                    details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection,
-                                    eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection,
+                                    eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams
                                     and other admission-related information for your selected program.</p>
                             </div>
                         </div>
@@ -422,7 +422,7 @@
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top International Universities for Online Admission 2026</h2>
                 <p class="top-univ-subtitle">Explore top international universities offering flexible online programs in
-                    2026. Compare their locations, accreditations, and key advantages to choose the right university for
+                    2026. Compare their locations, accreditations and key advantages to choose the right university for
                     your academic and career goals.</p>
             </div>
 
@@ -529,7 +529,7 @@
                                 </td>
                                 <td><span class="univ-loc-cell"><i class="fa fa-map-marker"></i> Paris, France</span>
                                 </td>
-                                <td><span class="univ-accred-badge">EQUIS, AACSB, and AMBA</span></td>
+                                <td><span class="univ-accred-badge">EQUIS, AACSB and AMBA</span></td>
                                 <td><span class="univ-adv-cell"><i class="fa fa-check-circle"></i> Career
                                         services</span></td>
                                 <td class="text-center"><button type="button" class="univ-apply-btn"
@@ -549,7 +549,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -571,16 +571,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -602,7 +602,7 @@
                         <span>Q1. How can UNIVERSITY 360 help with ESGCI DBA programs?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>UNIVERSITY 360 provides program information, counselling, course comparison, and admission
+                        <p>UNIVERSITY 360 provides program information, counseling, course comparison and admission
                             guidance for business professionals exploring ESGCI DBA programs.</p>
                     </div>
                 </div>
@@ -639,7 +639,7 @@
                     <div class="amity-accordion-content">
                         <p>ESGCI, Paris is internationally recognized. The DBA degree
                             is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                            details, please refer to the official brochure or contact our counselors.</p>
                     </div>
                 </div>
 
@@ -650,7 +650,7 @@
                     </h3>
                     <div class="amity-accordion-content">
                         <p>Yes. UNIVERSITY 360 helps learners compare DBA programs based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
+                            eligibility, specialization, curriculum, duration and other available program
                             information.</p>
                     </div>
                 </div>
@@ -677,7 +677,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on ESGCI DBA Programs</p>
+                        <p>Get 100% Free Counseling on ESGCI DBA Programs</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
                         <button class="ftr-btn" onclick="openPopup()">

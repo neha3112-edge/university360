@@ -29,7 +29,7 @@
     <meta property="og:title"
         content="IIM Nagpur HR Analytics Course | PG Certificate Program in Advanced HR Analytics | UNIVERSITY 360" />
     <meta property="og:description"
-        content="Get Counseling from UNIVERSITY 360 for IIM Nagpur HR Analytics Course | Post Graduate Certificate in Advanced HR Analytics Course Syllabus, Fees, Download Brochure (Human Resource Management Courses after Graduation) Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIM Nagpur HR Analytics Course | Post Graduate Certificate in Advanced HR Analytics Course Syllabus, Fees, Download Brochure (Human Resource Management Courses after Graduation) Admissions Open & How to Apply?" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://university360.co/iim-nagpur/" />
     <meta property="og:image" content="https://university360.co/images/iim-nagpur-hr-analytics-course-banner.png" />
@@ -41,7 +41,7 @@
     <meta name="twitter:title"
         content="IIM Nagpur HR Analytics Course | PG Certificate Program in Advanced HR Analytics | UNIVERSITY 360" />
     <meta name="twitter:description"
-        content="Get Counseling from UNIVERSITY 360 for IIM Nagpur HR Analytics Course | Post Graduate Certificate in Advanced HR Analytics Course Syllabus, Fees, Download Brochure (Human Resource Management Courses after Graduation) Admissions Open, & How to Apply?" />
+        content="Get Counseling from UNIVERSITY 360 for IIM Nagpur HR Analytics Course | Post Graduate Certificate in Advanced HR Analytics Course Syllabus, Fees, Download Brochure (Human Resource Management Courses after Graduation) Admissions Open & How to Apply?" />
     <meta name="twitter:image" content="https://university360.co/images/iim-nagpur-hr-analytics-course-banner.png" />
     <meta name="twitter:site" content="@univ360degree" />
     <meta name="twitter:creator" content="@univ360degree" />
@@ -83,7 +83,7 @@
           "name": "University360",
           "url": "https://university360.co/",
           "slogan": "#LearnWithFreedom",
-          "description": "University360 is an independent education guidance and counselling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counselling partner. The respective universities govern all admissions, approvals, and course policies.",
+          "description": "University360 is an independent education guidance and counseling platform. Our partner universities have authorized us to share information about their programs. We do not award degrees and act only as a counseling partner. The respective universities govern all admissions, approvals and course policies.",
           "contactPoint": [
             {
               "@type": "ContactPoint",
@@ -96,16 +96,16 @@
         {
           "@type": "Service",
           "@id": "https://university360.co/iim-nagpur/#counselingservice",
-          "name": "Educational Counselling for IIM Nagpur Post Graduate Certificate Programme in Advanced HR Analytics",
+          "name": "Educational Counseling for IIM Nagpur Post Graduate Certificate Programme in Advanced HR Analytics",
           "provider": {
             "@id": "https://university360.co/#organization"
           },
-          "serviceType": "Educational Counselling",
+          "serviceType": "Educational Counseling",
           "areaServed": {
             "@type": "Country",
             "name": "India"
           },
-          "description": "Get counseling from program advisors at UNIVERSITY 360 for the IIM Nagpur Advanced HR Analytics course. Learn about enrollment steps, application timelines, fees, and syllabus details.",
+          "description": "Get counseling from program advisors at UNIVERSITY 360 for the IIM Nagpur Advanced HR Analytics course. Learn about enrollment steps, application timelines, fees and syllabus details.",
           "offers": {
             "@type": "Offer",
             "price": "0.00",
@@ -116,7 +116,7 @@
             {
               "@type": "CreativeWork",
               "name": "Application Process with UNIVERSITY 360",
-              "text": "1. Select a course and complete initial registration. 2. Receive Counselling from our programme advisors. 3. Pay the preliminary course fee. 4. Get your documents verified and appear for an interview if applicable. 5. Obtain the offer letter and give your acceptance. 6. Complete onboarding and commence the course. 7. Begin the course as per the scheduled start date."
+              "text": "1. Select a course and complete initial registration. 2. Receive Counseling from our programme advisors. 3. Pay the preliminary course fee. 4. Get your documents verified and appear for an interview if applicable. 5. Obtain the offer letter and give your acceptance. 6. Complete onboarding and commence the course. 7. Begin the course as per the scheduled start date."
             }
           ]
         },
@@ -124,7 +124,7 @@
           "@type": "Course",
           "@id": "https://university360.co/iim-nagpur/#course",
           "name": "Post Graduate Certificate Programme in Advanced HR Analytics - IIM Nagpur",
-          "description": "Designed for HR professionals and business leaders, this programme equips you with the advanced analytical skills needed to transform HR practices through data-driven decision-making. You will develop expertise in HR data analysis, predictive modelling, and the application of tools like Tableau and Advanced Excel.",
+          "description": "Designed for HR professionals and business leaders, this programme equips you with the advanced analytical skills needed to transform HR practices through data-driven decision-making. You will develop expertise in HR data analysis, predictive modelling and the application of tools like Tableau and Advanced Excel.",
           "provider": {
             "@type": "EducationalOrganization",
             "name": "IIM Nagpur",
@@ -137,12 +137,12 @@
           },
           "audience": {
             "@type": "Audience",
-            "audienceType": "HR Professionals (managers & specialists), Data Analysts, Business Leaders, Consultants, Advisors, and Graduate/Mid-Career Professionals looking to transition into senior HR analytics roles."
+            "audienceType": "HR Professionals (managers & specialists), Data Analysts, Business Leaders, Consultants, Advisors and Graduate/Mid-Career Professionals looking to transition into senior HR analytics roles."
           },
           "coursePrerequisites": [
             "Academic Credentials: Bachelor's degree in any discipline, or 10+2+3 Diploma, with 50% or above.",
             "Work Experience: Minimum of 2 years of work experience.",
-            "Preferred Background: Strong foundation in mathematics, statistics, and basic programming (familiarity with Excel, R, or similar) is preferred."
+            "Preferred Background: Strong foundation in mathematics, statistics and basic programming (familiarity with Excel, R, or similar) is preferred."
           ],
           "teaches": [
             "HR Data Analysis",
@@ -160,7 +160,7 @@
             "@type": "CourseInstance",
             "courseMode": "Online",
             "duration": "P7M",
-            "description": "7 Months course duration. Structured as a part-time weekend program (Direct to Device) with sessions on Sundays (Two sessions: 9:30 AM - 12:30 PM). Includes a hands-on Capstone project, Tableau dashboard building, and an optional 2-day campus immersion module at IIM Nagpur.",
+            "description": "7 Months course duration. Structured as a part-time weekend program (Direct to Device) with sessions on Sundays (Two sessions: 9:30 AM - 12:30 PM). Includes a hands-on Capstone project, Tableau dashboard building and an optional 2-day campus immersion module at IIM Nagpur.",
             "instructor": [
               {
                 "@type": "Person",
@@ -216,7 +216,7 @@
               "name": "How is this programme different from short HR analytics certifications?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "This programme focuses on predictive and prescriptive HR analytics using AI and ML, along with strategic workforce application, industry tools, and capstone project experience."
+                "text": "This programme focuses on predictive and prescriptive HR analytics using AI and ML, along with strategic workforce application, industry tools and capstone project experience."
               }
             },
             {
@@ -232,7 +232,7 @@
               "name": "How practical is the learning?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Participants work with real HR datasets, build dashboards, create predictive models, and complete a capstone project aligned to real workforce challenges."
+                "text": "Participants work with real HR datasets, build dashboards, create predictive models and complete a capstone project aligned to real workforce challenges."
               }
             },
             {
@@ -385,7 +385,7 @@
                         </div>
                         <h4>IIRF</h4>
                         <p>Consistently ranked among the top emerging business schools in India by IIRF for academic
-                            quality, faculty, industry exposure, and research.</p>
+                            quality, faculty, industry exposure and research.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
@@ -461,7 +461,7 @@
 
                         <img src="images/student-enrolled.webp">
                         <h4>30K+</h4>
-                        <p>Students <br>Counselled</p>
+                        <p>Students <br>Counseled</p>
 
                     </div>
 
@@ -507,7 +507,7 @@
                     <div class="amity-step-card amity-step-1">
                         <div class="amity-step-number">1</div>
                         <h4>Submit Enquiry</h4>
-                        <p>Share your basic details so our counsellors can understand your academic background and career goals.</p>
+                        <p>Share your basic details so our counselors can understand your academic background and career goals.</p>
                     </div>
                 </div>
 
@@ -515,8 +515,8 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
                     <div class="amity-step-card amity-step-2">
                         <div class="amity-step-number">2</div>
-                        <h4>Get Expert Counselling</h4>
-                        <p>Connect with our Education Counsellors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
+                        <h4>Get Expert Counseling</h4>
+                        <p>Connect with our Education Counselors to learn about eligibility, fees, scholarships, placement support and available programs.</p>
                     </div>
                 </div>
 
@@ -525,7 +525,7 @@
                     <div class="amity-step-card amity-step-3">
                         <div class="amity-step-number">3</div>
                         <h4>Choose the Right Program</h4>
-                        <p>Select the university and course that best match your education, interests, budget, and future career plans.</p>
+                        <p>Select the university and course that best match your education, interests, budget and future career plans.</p>
                     </div>
                 </div>
 
@@ -543,7 +543,7 @@
                     <div class="amity-step-card amity-step-5">
                         <div class="amity-step-number">5</div>
                         <h4>Upload Required Documents</h4>
-                        <p>Submit all necessary academic, identity, and supporting documents as required by the selected institution or university.</p>
+                        <p>Submit all necessary academic, identity and supporting documents as required by the selected institution or university.</p>
                     </div>
                 </div>
 
@@ -552,7 +552,7 @@
                     <div class="amity-step-card amity-step-6">
                         <div class="amity-step-number">6</div>
                         <h4>Admission Confirmation</h4>
-                        <p>Receive application updates, complete the required admission formalities, and get confirmation of your admission along with the next steps.</p>
+                        <p>Receive application updates, complete the required admission formalities and get confirmation of your admission along with the next steps.</p>
                     </div>
                 </div>
             </div>
@@ -569,8 +569,8 @@
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Explore &amp; Compare Programs</h3>
-                                <p>Explore programs from universities, IITs, IIMs, and leading global institutions.
-                                    Compare fees, eligibility, duration, learning modes, and admission details in one
+                                <p>Explore programs from universities, IITs, IIMs and leading global institutions.
+                                    Compare fees, eligibility, duration, learning modes and admission details in one
                                     place.</p>
                             </div>
                         </div>
@@ -578,20 +578,20 @@
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Flexible Online Learning</h3>
                                 <p>Explore online courses designed for working professionals and flexible learners, with
-                                    details on study options, learning resources, and student support.</p>
+                                    details on study options, learning resources and student support.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
-                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counselling</h3>
-                                <p>Connect with our education counsellors for guidance on program selection,
-                                    eligibility, fees, admission requirements, and the application process.</p>
+                                <h3><span class="amity-why-arrow">&#10132;</span> Get Personalised Counseling</h3>
+                                <p>Connect with our education counselors for guidance on program selection,
+                                    eligibility, fees, admission requirements and the application process.</p>
                             </div>
                         </div>
                         <div class="col-md-6 mb-4">
                             <div class="amity-why-item">
                                 <h3><span class="amity-why-arrow">&#10132;</span> Get Admission Support</h3>
-                                <p>Get help with application steps, document requirements, deadlines, entrance exams,
+                                <p>Get help with application steps, document requirements, deadlines, entrance exams
                                     and other admission-related information for your selected program.</p>
                             </div>
                         </div>
@@ -614,8 +614,8 @@
             <div class="section-title-wrap text-center mb-4">
                 <h2 class="top-univ-title">Check Out Top IIMs for Online Admission 2026</h2>
                 <p class="top-univ-subtitle">Selecting the right IIM programme can boost career growth, leadership
-                    development, and professional advancement. Get key accreditations and advantages of IIM Kozhikode,
-                    IIM Bangalore, and IIM Nagpur to compare their offerings and make an informed decision for your
+                    development and professional advancement. Get key accreditations and advantages of IIM Kozhikode,
+                    IIM Bangalore and IIM Nagpur to compare their offerings and make an informed decision for your
                     career goals:</p>
             </div>
 
@@ -688,7 +688,7 @@
             <h3 class="amity-section-subheading">Your Guide to Global Business Education &amp; Higher Education</h3>
 
             <p class="amity-about-text"><strong>University 360</strong> is a trusted education guidance and career
-                counselling platform dedicated to helping professionals make informed decisions about their advanced
+                counseling platform dedicated to helping professionals make informed decisions about their advanced
                 education. We connect ambitious leaders with globally recognized institutions offering doctoral business
                 programs while providing expert guidance at every stage of their academic journey.</p>
 
@@ -710,16 +710,16 @@
             <p class="about-u360-text">
                 University 360 is your trusted partner in achieving your higher education goals. We guide students in
                 choosing the right online degree courses and distance education courses through expert career
-                counselling and personalized guidance. Our platform offers accurate information on UGC-approved
-                universities, accredited online degree programs, admissions, eligibility, fees, and career
+                counseling and personalized guidance. Our platform offers accurate information on UGC-approved
+                universities, accredited online degree programs, admissions, eligibility, fees and career
                 opportunities, helping students make confident decisions.
             </p>
 
             <p class="about-u360-text">
                 Whether you're exploring online degree courses after 12th, an MBA, a computer science program, or a
                 diploma course, University 360 connects you with the best options based on your career aspirations. With
-                reliable university insights, expert support, and student-focused services, we empower learners across
-                India to choose the right course, build the right skills, and create a successful future with
+                reliable university insights, expert support and student-focused services, we empower learners across
+                India to choose the right course, build the right skills and create a successful future with
                 confidence.
             </p>
 
@@ -742,7 +742,7 @@
                             Advanced HR Analytics?</span>
                     </h3>
                     <div class="amity-accordion-content">
-                        <p>University 360 offers program information, counselling, course comparisons and admission
+                        <p>University 360 offers program information, counseling, course comparisons and admission
                             guidance for HR professionals seeking the IIM Nagpur Post Graduate Certificate Program in
                             Advanced HR Analytics.</p>
                     </div>
@@ -761,7 +761,7 @@
                             professional experience are eligible for the Post Graduate Certificate Programme in Advanced
                             HR Analytics
                             program. Please download the brochure or
-                            contact our counsellors for exact eligibility criteria.</p>
+                            contact our counselors for exact eligibility criteria.</p>
                     </div>
                 </div>
 
@@ -788,7 +788,7 @@
                         <p>IIM Nagpur is an internationally recognized business school.
                             The certificate
                             is designed to meet global academic and professional standards. For specific recognition
-                            details, please refer to the official brochure or contact our counsellors.</p>
+                            details, please refer to the official brochure or contact our counselors.</p>
                     </div>
                 </div>
 
@@ -803,7 +803,7 @@
                         <p>Yes. UNIVERSITY 360 helps learners compare Post Graduate Certificate Programme in Advanced HR
                             Analytics
                             based on factors such as
-                            eligibility, specialization, curriculum, duration, and other available program
+                            eligibility, specialization, curriculum, duration and other available program
                             information.</p>
                     </div>
                 </div>
@@ -831,7 +831,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6">
                         <h3><span class="yellow-span">Have Doubts?</span> Talk to Experts</h3>
-                        <p>Get 100% Free Counselling on IIM Nagpur Young Leaders Programme
+                        <p>Get 100% Free Counseling on IIM Nagpur Young Leaders Programme
                             in General Management</p>
                     </div>
                     <div class="col-md-6 text-md-end text-center mt-3 mt-md-0">
